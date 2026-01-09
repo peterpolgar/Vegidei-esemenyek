@@ -300,7 +300,7 @@ TODO
 
 "A spiritizmus köntösében **Sátán** az emberiség jótevőjének  mutatkozik. Meggyógyítja a betegeket, és „egy új és dicsőbb” vallási  rendszert kínál, miközben pusztító munkát végez. ... **A nemzeteket  szembeállítja egymással, mert a háborúval el tudja terelni a  figyelmüket arról a munkáról, amely az embert felkészíti az  ítélet napjára, az Istennel való találkozásra.**" {GC 589.1}
 
-"Mindössze töredéke az időnek, ami még hátra van. De miközben máris nemzet  támad nemzet ellen és ország ország ellen, most még sincs általános háború.  A négy szelet mindaddig tartják vissza, míg Isten szolgái elpecsételtetnek a  homlokukon – és ekkor fel fogják vonultatni erőiket a föld hatalmai a végső nagy  csatára (6T, 1900, 14. o.)." {LDE 229.2}
+"Mindössze töredéke az időnek, ami még hátra van. De miközben máris nemzet  támad nemzet ellen és ország ország ellen, most még sincs általános háború.  **A négy szelet mindaddig tartják vissza, míg Isten szolgái elpecsételtetnek a  homlokukon** – és ekkor fel fogják vonultatni erőiket a föld hatalmai a végső nagy  csatára (6T, 1900, 14. o.)." {LDE 229.2}
 
 "Noé napjaiban a túlnyomó többség szembehelyezkedett az  igazsággal, és a hazugságok szövevényét szerette. A föld megtelt  erőszakossággal – a háború, gonoszság, gyilkosság mindennapossá  vált. **Épp így lesz** Krisztus második eljövetele előtt is (1BC, 1891,  1090. o.). {LDE 23.2}"
 
@@ -332,25 +332,37 @@ Máté 24:14 És az Isten országának ez az evangéliuma hirdettetik  majd az e
 
 "**Isten hosszan várakozott**, hogy a szolgálat lelkülete az egész  gyülekezetet birtokba vehesse, és mindenki a maga képessége  szerint dolgozzon. **Amikor** az egyház tagjai a szükséges területeken,  legyen az itthon vagy külföldön, elvégzik kijelölt munkájukat, és  teljesítik evangéliumi küldetésüket: **ekkor** az egész világ rövid idő  alatt részesül a figyelmeztetésben, **és az Úr Jézus hatalommal és  dicsőséggel visszatér a földre** (AA, 1911, 111. o.)." {LDE 75.1}
 
+"**Mindenki eleget fog tudni ahhoz, hogy értelmesen dönthessen**  (GC, 1911, 605. o.)."
+
 ### Nem fogjuk tudni, mikor következik be, nem lesz fizikai jele
 
-TODO
+"Amikor a szentélyben elhangzik a visszavonhatatlan ítélet, és a  világ sorsa örökre eldől, a föld lakói nem fognak tudni erről."
+
+Másrészt nincs kinyilatkoztatva az ideje.
 
 ### A kegyelemidő váratlanul végetér
 
-TODO
+A kegyelemidő lezárása "végül mindenkire hirtelen jön  el".
+
+"A kegyelemidő hirtelen és váratlanul zárul le – amikor a legkevésbé  várjuk."
+
+"Csendben, észrevétlenül, **mint az éjféli tolvaj** jön majd el a döntő  óra, amelyben minden ember sorsa megpecsételődik; és Isten végleg  visszavonja a felkínált kegyelmet a bűnös emberektől".
 
 ### Mi történik a kegyelemidő lezárásakor?
 
-"Amikor a harmadik angyal üzenetének hirdetése lezárul, Isten visszavonja  kegyelmét a föld törvényszegő lakóitól. Isten népe ekkorra befejezi munkáját.  Az Úr rájuk árasztotta a „késői eső”-t, elküldte nekik a „felüdülés”-t, és ők  felkészültek a próbákra. A mennyben angyalok sietnek ide, s oda. A földről  visszatérő angyal jelenti, hogy munkáját elvégezte. A végső próba ráköszöntött  a világra, és akik a menny törvényeinek híven engedelmeskedtek, megkapták  „az élő Isten pecsété”-t. Jézus ekkor befejezi közbenjárását a mennyei szentek  szentjében. Felemeli kezét, és ezt kiáltja: „Elvégeztetett!”. És amikor  ünnepélyesen kihirdeti, hogy „aki igazságtalan, legyen igazságtalan ezután is;  és aki fertelmes, legyen fertelmes ezután is; és aki igaz, legyen igaz ezután is;  és aki szent, szenteltessék meg ezután is” (Jel. 22:11), az angyalsereg leteszi  koronáját. Mindenkinek a sorsa eldőlt – életre vagy halálra. Krisztus elvégezte  népéért az engesztelést, és eltörölte bűneiket. Alattvalóinak száma betelt; „az  ország pedig és a hatalom és az egész ég alatt levő országok nagysága” az  üdvösség örököseinek tulajdona lesz, és Jézus királyok Királyaként és uraknak  Uraként fog uralkodni." {GC 613.2}
+"**Amikor a harmadik angyal üzenetének hirdetése lezárul, Isten visszavonja  kegyelmét a föld törvényszegő lakóitól.** Isten népe ekkorra befejezi munkáját.  Az Úr rájuk árasztotta a „késői eső”-t, elküldte nekik a „felüdülés”-t, és ők  felkészültek a próbákra. A mennyben angyalok sietnek ide, s oda. A földről  visszatérő angyal jelenti, hogy munkáját elvégezte. A végső próba ráköszöntött  a világra, és akik a menny törvényeinek híven engedelmeskedtek, **megkapták**  „az élő Isten pecsété”-t. Jézus **ekkor** befejezi közbenjárását a mennyei szentek  szentjében. Felemeli kezét, és ezt kiáltja: „Elvégeztetett!”. És amikor  ünnepélyesen kihirdeti, hogy „aki igazságtalan, legyen igazságtalan ezután is;  és aki fertelmes, legyen fertelmes ezután is; és aki igaz, legyen igaz ezután is;  és aki szent, szenteltessék meg ezután is” (Jel. 22:11), az angyalsereg leteszi  koronáját. **Mindenkinek a sorsa eldőlt – életre vagy halálra.** Krisztus elvégezte  népéért az engesztelést, és eltörölte bűneiket. Alattvalóinak száma betelt; „az  ország pedig és a hatalom és az egész ég alatt levő országok nagysága” az  üdvösség örököseinek tulajdona lesz, és Jézus királyok Királyaként és uraknak  Uraként fog uralkodni." {GC 613.2}
 
-"Mindössze töredéke az időnek, ami még hátra van. De miközben máris nemzet  támad nemzet ellen és ország ország ellen, most még sincs általános háború.  A négy szelet mindaddig tartják vissza, míg Isten szolgái elpecsételtetnek a  homlokukon – és ekkor fel fogják vonultatni erőiket a föld hatalmai a végső nagy  csatára (6T, 1900, 14. o.)." {LDE 229.2}
+Az előbbi idézetben van szó egy földről visszatérő angyalról, aki jelenti, hogy a munkáját elvégezte, de milyen munkát végzett el? A válasz:
 
-"Közvetlenül azelőtt, hogy beléptünk a nyomorúságba, valamennyien elnyertük  az élő Isten pecsétjét. Akkor megláttam, hogy a négy angyal már nem tartja  vissza a négy szelet. Éhség, dögvész és fegyver – nemzet támad nemzet ellen,  és az egész világon zűrzavar uralkodik (7BC, 1846, 968. o.)." {LDE 228.4}
+"Angyalokat pillantottam meg, akik fel és alá siettek a mennyben. **Egy angyal**  tintatartóval az oldalán tért vissza a földről, és jelentette Krisztusnak, munkáját  elvégezte: **megszámlálta és elpecsételte a szenteket**. **Majd** **Jézus**, aki eddig a  Tízparancsolatot tartalmazó láda előtt szolgált, ledobta a tömjénezőt, és kezét  felemelve hangos szóval **ezt mondta: „Elvégeztetett!”** (EW, 1858, 279. o.)."
 
-"Amikor Jézus kilép a szentek szentjéből, sötétség borul a föld lakóira. E  félelmetes időszakban az igazaknak közbenjáró nélkül kell a szent Isten  színe előtt élniük. A gonoszokat nem korlátozza már semmi. Sátán  teljesen hatalmában tartja azokat, akik megmásíthatatlanul  megkeményítették szívüket. Isten türelme véget ért. A világ elutasította  irgalmát, megvetette szeretetét, és lábbal tiporta törvényét. A gonoszok  túllépték a határt. Próbaidejük lejárt. Isten Lelke, akinek makacsul  ellenálltak, végül eltávozott tőlük. A menny kegyelmét nélkülözve  védtelenek a gonosszal szemben. Sátán ekkor a végső nagy zűrzavarba  taszítja a föld lakóit. Amikor Isten angyalai elengedik az emberi  indulatok vad viharát, minden ellentét kiéleződik. Az egész világra  kiterjed a pusztulás, ami rettenetesebb lesz, mint ami Jeruzsálemet  sújtotta." {GC 614.1}
+"Közvetlenül azelőtt, hogy beléptünk a nyomorúságba, valamennyien elnyertük  az élő Isten pecsétjét. Akkor **megláttam**, hogy **a négy angyal már nem tartja  vissza a négy szelet**. Éhség, dögvész és fegyver – nemzet támad nemzet ellen,  és az egész világon zűrzavar uralkodik (7BC, 1846, 968. o.)." {LDE 228.4}
 
-"Egyiptom elsőszülötteit egyetlen angyal ölte meg, és gyászba  borította az egész országot. Amikor Dávid megsértette Istent a  népszámlálással, egyetlen angyal okozta azt a rettenetes  pusztulást, amely Dávid bűnének büntetése volt. A gonosz angyalok  éppúgy pusztítanak Isten engedélyével, mint a szent angyalok Isten  parancsára. A gonoszság erői készen állnak a világszéles  pusztításra. Csak Isten engedélyére várnak." {GC 614.2}
+### Mi kezdődik a kegyelemidő lezárása után?
+
+"Amikor Jézus kilép a szentek szentjéből, sötétség borul a föld lakóira. E  félelmetes időszakban **az igazaknak közbenjáró nélkül kell a szent Isten  színe előtt élniük**. **A gonoszokat nem korlátozza már semmi.** Sátán  teljesen hatalmában tartja azokat, akik megmásíthatatlanul  megkeményítették szívüket. Isten türelme véget ért. A világ elutasította  irgalmát, megvetette szeretetét, és lábbal tiporta törvényét. A gonoszok  túllépték a határt. Próbaidejük lejárt. **Isten Lelke, akinek makacsul  ellenálltak, végül eltávozott tőlük.** A menny kegyelmét nélkülözve  **védtelenek a gonosszal szemben**. Sátán ekkor a végső nagy zűrzavarba  taszítja a föld lakóit. Amikor Isten angyalai elengedik az emberi  indulatok vad viharát, minden ellentét kiéleződik. **Az egész világra  kiterjed a pusztulás**, ami rettenetesebb lesz, mint ami Jeruzsálemet  sújtotta." {GC 614.1}
+
+"Egyiptom elsőszülötteit egyetlen angyal ölte meg, és gyászba  borította az egész országot. Amikor Dávid megsértette Istent a  népszámlálással, egyetlen angyal okozta azt a rettenetes  pusztulást, amely Dávid bűnének büntetése volt. **A gonosz angyalok  éppúgy pusztítanak Isten engedélyével, mint a szent angyalok Isten  parancsára.** A gonoszság erői készen állnak a világszéles  pusztításra. Csak Isten engedélyére várnak." {GC 614.2}
 
 ### Isten által meghatározott tetszőleges időpont, vagy emberektől függő esemény?
 
@@ -366,11 +378,31 @@ Attól még, hogy Isten előre látja a jövőt, a mi szemszögünkből  igenis 
 
 ### Mi szerint ítéltetünk meg?
 
-TODO
+#### Az elnyert világosság szerint
+
+"Sokan a legjobb ismeretük szerinti világosságban éltek, és ez alapján  ítélik meg őket".
+
+"mindenki a  neki adott tudás szerint lesz megítélve"
+
+"Azért a világosságért nem fognak felelősségre vonni, amely nem  jutott el a tudatodig, de azért már igen, amelynek ellenálltál, és  visszautasítottad. Az ember nem értheti meg azt az igazságot,  amellyel sohasem találkozott, és ezért nem ítélhető el azért a  világosságért sem, amellyel soha nem rendelkezett (5BC, 1893,  1145. o.)."
+
+#### Nincs mentség a szándékos vakságra
+
+"Sokaknak alkalmuk van értesülni az igazságról, és mégsem veszik a  fáradságot, hogy azt meghallgassák vagy megértsék. Azt gondolják,  hogyha nem hallják, akkor majd számon sem kérhetik tőlük. De ugyanúgy  bűnösnek ítélik őket Isten előtt, mintha hallották és elutasították volna.  **Nincs mentség**e azoknak, akik a tévelygést választották, mikor  megérthették volna az igazságot. **Jézus a szenvedéseivel és halálával**  engesztelést hozott a tudatlanságból elkövetett bűnért, de **a szándékos  vakságra nem nyújtott megoldást**." {LDE 218.1}
+
+#### Istent és az igazságot meg nem ismerő emberek sorsa nem reménytelen
+
+Akiknek nem volt lehetőségük megismerni Istent és az evangéliumot, sorsuk nem reménytelen, ők is a kapott világosság szerint ítéltetnek meg, a Szentlélek értük is munkálkodott, kérdés, hogy hallgattak-e rá. Az ilyen tudatlan emberek meghökkenek és boldogok lesznek, amikor szembesülnek azzal, hogy üdvözülnek.
+
+#### A cselekedet indítéka a mérvadó, nem maga a cselekedet
+
+"Az ítélet napján egyesek ilyen vagy olyan jó cselekedetekre  hivatkoznak, ami alapján ügyüket mérlegelni kellene. Ezt mondják:  „Fiatal embereknek segítettem elhelyezkedni az üzleti életben.  Pénzt adtam a kórházak alapításához. Özvegyek szükségét  enyhítettem, és a szegényeket befogadtam az otthonomba.” Igen,  de indítékaikat annyira beszennyezte az önzés, hogy a cselekedet  nem fogadható el az Úr szemében. Tetteikben csak az „én”  sugárzott (Ms, 1906, 53.o.)." {LDE 219.2} "Az indíték határozza meg cselekedeteink jellegét, és a gyalázat  vagy a magas erkölcsi érték pecsétjét nyomja rá (DA, 1898, 615. o.)."  {LDE 219.3}
 
 ### A kegyelemidő lezárásáig kell felkészülni, mert  Jézus eljövetelekor nem fog megváltozni a jellem
 
 "Komoly dolog meghalni, de élni még sokkal komolyabb. Ismét találkozni  fogunk létünk minden gondolatával, szavával és tettével. Amivé válunk a  kegyelemidő alatt, azzá leszünk az egész örökkévalóságban is. A  halál oszlásnak indítja a testet, de a jellemben nem hoz változást.  **Jézus Krisztus eljövetele nem változtat tulajdonságainkon**, de örökre  rögzíti a jellemünket minden változással szemben (5T, 1885, 466. o.)."  {LDE 236.2}
+
+Aki szeretné, tudok még mutatni **legalább egy olyan EW idézetet**, ahol konkrétan ki van jelentve, hogy Jézus eljövetelével nem változik meg a jellem.
 
 ## Mi a bizonyíték arra, hogy a végső események  néhány éven belül lezajlanak?
 
