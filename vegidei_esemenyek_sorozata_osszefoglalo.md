@@ -18,6 +18,8 @@ Azt látom adventista YouTube csatornákat figyelve, hogy a próféciák betelje
 
 EW halála óta eltelt több mint 100 év, de a végidei események még mindig nem kezdődtek el, látványosan legalábbis. Mire várunk, mi az az esemény, ami ha bekövetkezik, akkor egyértelműen tudhatjuk, hogy most már itt a vég, nincs visszaút? Ez az esemény a nagy jelek és csodák általi hitetés, a spiritizmus mozgalma. De ez az esemény csak úgy random valamikor elkezdődik, vagy van valami, ami ezt kiváltja? Igen van valami, ami nem más, mint Isten népének lelki megújulása. Tehát a végidei események kiváltó oka nem más, mint Isten népének lelki megújulása, erre várunk EW halála óta több mint 100 éve. És ez azt is jelenti, hogy Isten népének szüksége van lelki megújulásra, tehát a jelenlegi állapota nem megfelelő. És ez a nem megfelelő állapot is meg van jövendölve a Szentírásban, a Jelenések könyvében az egyház jelenlegi állapota a laodiceai állapottal jellemezhető, ami azt jelenti, hogy Isten népének többsége nem buzgó, nem lelkes, nem teljesen motivált az Istennek való szolgálatra, az Isten akaratának való teljes alárendelésre. **Tehát a laodiceai állapotból való megújulás hozza el a végidőt.**
 
+EW-nak van legalább egy idézete, amiben arról ír, hogy Jézus az ő idejében eljöhetett volna, ha az adventisták elvégezték volna küldetésüket, éppen úgy, mint ahogy Izrael népe is bemehetett volna az ígéret földjére negyven évnyi vándorlás nélkül is, ha bíztak volna Istenben. Tehát ha EW igazat mond, és én hiszem, hogy igazat mond, ez azt jelenti, hogy a végidei események beindulása az adventistáktól mindenképpen függ. Lehet, hogy függ attól is, hogy Sátán és a többi gonosz angyalok és emberek mikorra készítik elő a terepet az embernél magasabb rendű lények létezésének nagy leleplezésére, a spiritiszta mozgalom nyílt elindítására. Meglátásom szerint Sátán nagyon is figyelembe veszi Isten népének állapotát, és csak akkor fog lépni a tervében, amikor Isten népe nagy mértékben elkezd megújulni, felébredni a laodiceai langyosságból, erre utal az alábbiakban idézett LDE 158.2 jelű bekezdés.
+
 ## Az adventisták körében egy soha nem látott lelki ébredés lesz
 
 "Az egyház laodiceai állapotba süllyedt. Isten nincs jelen közöttük (1NL, 1898, 99. o.)."
@@ -42,7 +44,7 @@ Ez a fenevad "elhiteti a földnek lakosait a jelekkel" (Jel 13:14-ből). **A jel
 
 **Ez a hitetés** nem lokális, hanem **globális** esemény lesz, EW szerint "Az ellenség arra készül, hogy csodatévő hatalma által megtévessze az **egész világot**."
 
-A hitetés nagy jelek és csodák által fog végbemenni:
+**A hitetés nagy jelek és csodák által fog végbemenni:**
 
 - Ördögök és általuk befolyásolt emberek viszik véghez, sok ember szeme láttára.
 - "Betegek meggyógyulnak, és sok tagadhatatlan csoda történik." (EW)
@@ -179,7 +181,7 @@ Jel 13:17 "És hogy senki se vehessen, se el ne adhasson [semmit], hanem csak ak
 
 Szombat: Isten tekintélyének jele.
 
-Vasárnap: Róma fennhatóságának jele.
+Vasárnap: Róma uralmának jele.
 
 ### Kiről és mikor lehet mondani, hogy felvette a fenevad bélyegét?
 
@@ -210,7 +212,9 @@ Ha vállalkozásod eddig vasárnap is üzemelt, és arra kényszerítenek, hogy 
 
 ### Mi az?
 
-""„Megadja néktek az esőt… korai és kései esőt hullat néktek” (Jóel 2:23). ... Az Úr a természet működésével ábrázolja a Szentlélek munkáját".
+**„Ismerjük hát el, törekedjünk megismerni az Urat. Az Ő kijövetele bizonyos, mint a hajnal, és eljő hozzánk, mint eső, mint késői eső, amely megáztatja a földet.” (Hós. 6:3) „Ti is, Sionnak fiai! Örvendezzetek és vigadjatok az Úrban, a ti Istenetekben; mert megadja néktek az esőt igazság szerint, és korai és kései esőt hullat néktek.” (Jóel 2:23) „Az utolsó napokban, ezt mondja az Isten, kitöltök az én Lelkemből minden testre.” „És lészen, hogy mindaz, aki az Úrnak nevét segítségül hívja, megtartatik.” (Acs. 2:17, 21)**
+
+"Az Úr a természet működésével ábrázolja a Szentlélek munkáját".
 
 "A föld aratását érlelő késői eső azt a lelki kegyelmet ábrázolja, amely **előkészíti az egyházat az ember Fiának eljövetelére**."
 
@@ -256,45 +260,87 @@ Amikor Isten népe "tapasztalatból tudja, mit jelent az Üdvözítővel együtt
 
 A késői eső eredménye minden bizonnyal hasonló lesz ahhoz az eredményhez, amit a Szentlélek pünkösdnapi kiárasztása eredményezett, ami az, hogy **a** "**feltámadt Üdvözítőről szóló örömhír eljutott a lakott világ legtávolabbi részeibe is… Mindenfelől özönlöttek az újonnan megváltott emberek a gyülekezetekbe. A visszaeső bűnösök ismételten megtértek…**". Erről az eredményről **bővebb információ a következő fejezetben** (hangos kiáltás).
 
+" A késői eső megeleveníti és megerősíti őket, hogy megállhassanak a nyomorúság idején." őket, mármint Isten népét.
+
+"**Felkészíti a szenteket, hogy megállhassanak a hét utolsó csapás időszakában**".
+
 ## A hangos kiáltás, a hármas angyali üzenet
 
 ### Az utolsó üzenet a világnak
 
-TODO
+A **Jel. 14. és 18. fejezeteiben szereplő üzenetek**nek egészen a földi történelem lezárulásáig jelentőségük lesz. A Jel. 14. fejezetében van a hármas-angyali üzenet, míg a 18. fejezetben van az ún. negyedik angyal üzenete, ami a második angyal üzenete kiegészítve. A 4. angyal üzenete "a harmadik angyal üzenetével együtt alkotják a föld lakóinak adandó utolsó figyelmeztetést".
+
+"**„Fussatok ki belőle én népem!”. Ez az üzenet és a harmadik angyal üzenete a föld lakóihoz szóló utolsó figyelmeztetés.**“ {GC 604.1}
+
+"**Babilon bűnei nyilvánvalóvá válnak.** Az egyházi előírások polgári hatalommal történő kikényszerítésének félelmetes következményei, a spiritizmus térnyerése, a pápai hatalom rejtett, de rohamos előretörése mindmind lelepleződnek."
+
+"Néhányan írtak nekem, az iránt érdeklődve, hogy **a hit általi megigazulás üzenete** lenne a harmadik angyal üzenete, és azt válaszoltam: „Ez **valóban a harmadik angyal üzenete**” (2SM, 1890, 372. o.)." {LDE 199.4}
+
+**A harmadik angyal üzenete "magába foglalja az előző kettőt".**
 
 ### A harmadik angyal üzenetének hirdetése és a késői eső egyidőben lesz
 
-TODO
+"Ahogy azt **Jelenések könyvének 18. fejezete** megjövendölte, a harmadik angyal üzenete nagy erővel hirdettetik majd azok által, akik a végső figyelmeztetést közvetítik a fenevaddal és annak képmásával szemben (8T, 1904, 118. o.)."
 
-### Csodák fogják kísérni Isten üzenetének hirdetését, a jó és rossz oldal verseng egymással
+"A harmadik angyal üzenete az, amit hangos szóval fognak hirdetni, és amit Lelkének nagymértékű kiárasztása fog kísérni".
 
-TODO
+"Úgy mutatják be, mint ami hangos szóval, a Szentlélek erejével hangzik".
 
-### Emberek ezrével térnek meg egyetlen napon, úgy mint pünkösdkor
+"Abban az időben majd a késői eső, a felüdülés jön az Úr színétől, hogy **erőt adjon** a harmadik angyal hangos kiáltásának."
 
-TODO
+"**Az angyal ekként válaszolt: „Ez a késői eső, a felüdülés az Úr színétől, a harmadik angyal hangos kiáltása”**".
+
+"Nem lesz kisebb az az erő, amivel Isten az evangélium hatalmas munkáját lezárja, mint amilyennel ezt a munkát elindította." Sőt, nagyobb lesz.
+
+"Amint a harmadik angyal üzenete hangos kiáltássá nő, nagy erő és dicsőség fogja kísérni, és Isten népének arcát mennyei fény ragyogja be (7T, 1902, 17. o.)."
+
+"**Amikor valóban ránk tör az üldözés vihara**… **akkor a harmadik angyal üzenete hangos kiáltássá erősödik**, és a föld fénylik az Úr dicsőségétől (6T, 1900, 401. o.)."
+
+"Láttam, hogy ez az üzenet oly erővel és hatalommal végződik, amely jóval felülmúlja az éjféli kiáltást."
+
+### Csodák fogják kísérni Isten üzeneteinek hirdetését, a jó és rossz oldal verseng egymással
+
+"Most a harmadik üzenetnek kellett munkáját elvégeznie; mindenki próbára tétetett általa és drága lelkek felszólítattak, hogy lépjenek ki a vallásos közösségekből. ... **Nagy csodák történtek; betegek gyógyultak meg és a hívőket jelek és csodák követték.**"
+
+"Isten szolgái szent lelkesedéstől fénylő arccal sietnek egyik helyről a másikra, hogy hirdessék a menny üzenetét. Az egész földön ezernyi hangon szól majd a figyelmeztetés. **Csodálatos dolgok fognak történni. Betegek meggyógyulnak, és a hivők munkáját jelek és csodák kísérik.** Sátán is dolgozik, de hamis csodákkal. Még tüzet is hoz alá az égből az emberek szeme láttára (Jel. 13:13). **A föld lakóinak el kell dönteniük, ki mellé állnak.**" {GC 612.1}
+
+### Emberek ezrével térnek majd meg egyetlen napon, úgy mint pünkösdkor
+
+### A harmadik angyal "elválasztja a búzát a konkolytól és elpecsétel"
 
 ### Hogyan fog terjedni az utolsó üzenet?
 
-TODO
+"Az üzenet nem annyira érveléssel, mint Isten Lelkének mélységes meggyőzése nyomán fog terjedni. Az érvek már korábban elhangzottak."
 
 ### Hol és kiknek fogják hirdetni?
 
-TODO
+"Az Egyesült Államok minden városa", "A világ összes országa", "minden nagy- és kisváros"
+
+"mindenki meghallja a figyelmeztetést"
 
 ### Mi lesz a harmadik angyal üzenete hirdetésének hatása, eredménye?
 
-TODO
+"**mindenki próbára tétetett általa**", mármint az üzenet által.
+
+**A "túlnyomó többség" elutasítja az üzenetet, de így is "tömegek fogadják majd el a hitet, és csatlakoznak az Úr seregéhez".**
+
+"Ezrek lesznek, akik a tizenegyedik órában ismerik meg és fogadják el az igazságot… Olyan hirtelen térnek meg, hogy még a gyülekezet is meglepődik rajta; és ezért egyedül a Mindenható nevét illeti dicsőítés (2SM, 1890, 16. o.)."
+
+Sokan felfigyelnek a figyelmeztetésekre, ennek hatására elkezdenek kutakodni az igazság iránt, és elkezdik kérdezgetni a tanítóikat az igazság felől, aminek hatására a tanítóik megharagudnak, és felingerlik a bűnt szerető tömeget Isten népe ellen, hogy szidalmazzák és üldözzék őket.
+
+"Amikor a vita egyéb kérdéseket is érint, és az emberek figyelme Isten sárba tiport törvényére terelődik, **Sátán akcióba kezd. Az üzenetet kísérő erő felingerli azokat, akik ellenzik hirdetését.** A papság majdhogy emberfölötti erőfeszítéssel igyekszik elzárni a világosságot, nehogy híveire sugározzék. **Minden rendelkezésre álló eszközzel megkísérli elfojtani e létfontosságú kérdések megvitatását. Az egyház a polgári hatalom fegyveréért kiált**, és ebben a munkában a katolikusok és a protestánsok összefognak. A vasárnap megtartását kényszerítők mozgalmának merészsége és elszántsága egyre fokozódik, és **a törvényt is igénybe veszik Isten parancsolatainak megtartói ellen**. Bírsággal és bebörtönzéssel fenyegetik őket. Egyeseknek pedig magas állást ajánlanak fel, és egyéb jutalmakkal és kedvezményekkel próbálják rávenni őket hitük megtagadására. De ők rendíthetetlenül így válaszolnak: „Mutassátok ki Isten Igéjéből tévedésünket!” Így védekezett Luther is hasonló körülmények között. **A törvényszék elé állított hivők ékes bizonyságot tesznek az igazságról, melynek hallatán egyesek állást foglalnak Isten valamennyi parancsolata mellett.** Így jut el az igazság olyan emberek ezreihez is, akik különben mitsem tudnának róla." {GC 607.1}
+
+## Üldözés jön, miközben vagy miután hirdetik az üzenetet amit Isten rájuk bízott
+
+"**Az Isten szavának becsületes követői lázadóknak fognak minősülni.** Szülők, akiket Sátán elvakított, durvák és kemények lesznek hivő gyermekükhöz. A gazda és a gazdasszony sanyargatja az Isten parancsolatait megtartó szolgát. „**A szeretet meghidegül**!” Gyermekek elvesztik örökségüket és otthonukat. Szó szerint fognak teljesedni Pál szavai: „ Mindazok is, akik kegyesen akarnak élni Krisztus Jézusban, üldöztetni fognak” (II. Tim. 3:12). **Az igazság egyes követőit, akik nem hajlandók megünnepelni a vasárnapot, börtönbe vetik, másokat elűznek hazájukból, egyesek pedig rabszolgasorsra jutnak.** Az ember ezt most lehetetlennek tartja. De amikor Isten visszavonja mérséklő Lelkét a földről, és a mennyei elveket gyűlölő ember Sátán hatalmába kerül, **az események megdöbbentően fognak alakulni**. A szív nagyon kegyetlen tud lenni, ha eltávozik belőle Isten félelme és szeretete." {GC 608.1}
+
+"**Az emberek azzal vádolják Isten törvényének tisztelőit, hogy csapásokat hoznak a világra.** A természet félelmes háborgásáért, az emberek viszálykodásáért, a vérontásért és a mérhetetlen szenvedésért – őket okolják. Az az erő, amely az utolsó figyelmeztetést kíséri, felbőszíti a gonoszokat. Haragjuk fellángol azok ellen, akik elfogadták az üzenetet, és **Sátán még jobban elmélyíti a gyűlölet és az üldözés szellemét**." {GC 614.3}
 
 ## Egyedül megállni
 
 "Most lehetetlennek látszik számunkra, hogy bárkinek is egymagában kellene megállnia, de **ha Isten valaha is szólt általam, állítom**: el fog jönni az az idő, amikor vezető testületek elé visznek bennünket, és ezrek elé kell állnunk az Ő nevéért, és hitét kinekkinek meg kell indokolnia. Akkor a legsúlyosabb kritika zúdul minden, az igazság oldalán lévő álláspontra. Tanulmányoznunk kell hát Isten szavát, hogy tudjuk, miért hiszünk az általunk védelmezett tanításokban! (RH, 1888. december 18.)." {LDE 209.1}
 
 "Sokakat törvényszékek elé állítanak, míg némelyeket királyok és világi bölcsek elé, hogy számot adjanak hitükről. **Akik csak felületesen értik az igazságot, képtelenek lesznek az Írásokat világosan kifejteni, és hitüket határozottan indokolni.** Összezavarodnak, és emiatt szégyenkezniük kell. Senki ne képzelje, hogy neki nincs szüksége tanulásra, mert nem prédikál a szent szószéken. Nem tudod, mit kívánhat tőled a Mindenható (FE, 1893, 217. o.)." {LDE 209.2}
-
-## Üldözés jön, miközben vagy miután hirdetik az üzenetet amit Isten rájuk bízott
-
-"Az emberek azzal vádolják Isten törvényének tisztelőit, hogy csapásokat hoznak a világra. A természet félelmes háborgásáért, az emberek viszálykodásáért, a vérontásért és a mérhetetlen szenvedésért – őket okolják. Az az erő, amely az utolsó figyelmeztetést kíséri, felbőszíti a gonoszokat. Haragjuk fellángol azok ellen, akik elfogadták az üzenetet, és Sátán még jobban elmélyíti a gyűlölet és az üldözés szellemét." {GC 614.3}
 
 ## Háború és gonoszság Jézus eljövetele előtt
 
@@ -333,6 +379,8 @@ Máté 24:14 És az Isten országának ez az evangéliuma hirdettetik majd az eg
 "**Isten hosszan várakozott**, hogy a szolgálat lelkülete az egész gyülekezetet birtokba vehesse, és mindenki a maga képessége szerint dolgozzon. **Amikor** az egyház tagjai a szükséges területeken, legyen az itthon vagy külföldön, elvégzik kijelölt munkájukat, és teljesítik evangéliumi küldetésüket: **ekkor** az egész világ rövid idő alatt részesül a figyelmeztetésben, **és az Úr Jézus hatalommal és dicsőséggel visszatér a földre** (AA, 1911, 111. o.)." {LDE 75.1}
 
 "**Mindenki eleget fog tudni ahhoz, hogy értelmesen dönthessen** (GC, 1911, 605. o.)."
+
+"Közvetlenül előttünk van a válság. A Szentlélek erejével hirdessük az utolsó napoknak szóló nagy igazságokat! **Még egy kevés idő, és mindenki meghallja a figyelmeztetést, és meghozza döntését. És akkor eljön a vég** (6T, 1900, 24. o.)."
 
 ### Nem fogjuk tudni, mikor következik be, nem lesz fizikai jele
 
