@@ -467,12 +467,3 @@ EW: Világunkban hamarosan fontos változások történnek, és **a végső esem
 - Jacques Doukhan – Titkok megfejtése
 
 - Blaise Pascal – Gondolatok
-
-
-
-
-
-
-
-
-
