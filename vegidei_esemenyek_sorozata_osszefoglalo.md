@@ -454,9 +454,9 @@ Aki szeretné, tudok még mutatni **legalább egy olyan EW idézetet**, ahol kon
 
 ## Mi a bizonyíték arra, hogy a végső események néhány éven belül lezajlanak?
 
-Máté 24:34 Bizony mondom nektek, **el nem múlik ez a nemzetség, mígnem mindezek meglesznek**.
+Máté 24:34 "Bizony mondom nektek, **el nem múlik ez a nemzetség, mígnem mindezek meglesznek**."
 
-EW: Világunkban hamarosan fontos változások történnek, és **a végső események gyorsan követik egymást** (9T, 1909, 11, o.). {LDE 11.2}
+EW: "Világunkban hamarosan fontos változások történnek, és **a végső események gyorsan követik egymást** (9T, 1909, 11, o.)." {LDE 11.2}
 
 ## Irodalomjegyzék
 
