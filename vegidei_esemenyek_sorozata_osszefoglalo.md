@@ -440,7 +440,7 @@ Attól még, hogy Isten előre látja a jövőt, a mi szemszögünkből igenis t
 
 #### Istent és az igazságot meg nem ismerő emberek sorsa nem reménytelen
 
-Akiknek nem volt lehetőségük megismerni Istent és az evangéliumot, sorsuk nem reménytelen, ők is a kapott világosság szerint ítéltetnek meg, a Szentlélek értük is munkálkodott, kérdés, hogy hallgattak-e rá. Az ilyen tudatlan emberek meghökkenek és boldogok lesznek, amikor szembesülnek azzal, hogy üdvözülnek.
+Akiknek nem volt lehetőségük megismerni Istent és az evangéliumot, sorsuk nem reménytelen, ők is a kapott világosság szerint ítéltetnek meg, a Szentlélek értük is munkálkodott, kérdés, hogy hallgattak-e rá. Az ilyen tudatlan emberek meghökkenek és boldogok lesznek, amikor és ha szembesülnek azzal, hogy üdvözülnek.
 
 #### A cselekedet indítéka a mérvadó, nem maga a cselekedet
 
