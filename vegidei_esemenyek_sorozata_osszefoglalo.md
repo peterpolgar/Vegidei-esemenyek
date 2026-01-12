@@ -127,7 +127,7 @@ Először az AEÁ-ban lesz vasárnaptörvény, aztán az AEÁ ráveszi a többi 
 
 A vasárnaptörvény globális bevezetése (amikor egyetemessé válik a világban) lesz "az utolsó felvonás a drámában".
 
-"Az egész keresztény világ" "két nagy csoportra oszlik: akik megtartják Isten parancsolatait és Jézus hitét, és akik a fenevadat és annak képét imádják, és annak bélyegét magukra veszik"
+"Az egész keresztény világ" "két nagy csoportra oszlik: akik megtartják Isten parancsolatait és Jézus hitét, és akik a fenevadat és annak képét imádják, és annak bélyegét magukra veszik".
 
 A vasárnaptörvény nem csupán arról szól, hogy vasárnap nem szabad dolgozni, hanem az rákényszeríti az embereket a vasárnap "szent napként való megünneplés"ére.
 
@@ -135,7 +135,7 @@ A vasárnaptörvény jel lesz Isten népe számára, hogy hagyják el a nagyvár
 
 Nagy vita lesz a világban a szombat körül, Isten népének ez lehetőség lesz bizonyságot tenni a szombatról.
 
-A vasárnaptörvényt megtartó nép kisebbségben lesz, és a világ haragja "felgerjed a hetednapi adventisták ellen", és "a maroknyi kisebbség az egyetemes gyűlölet tárgyává válik". E gyűlölet eredményeképpen rendeletet "adnak ki a parancsolatok megtartói ellen", ami "megfosztja őket a kormányzat védelmétől", aminek hatására Isten népe elmenekül a településekből a "legelhagyatottabb, legfélreesőbb helyek"re.
+A szombatot megtartó nép kisebbségben lesz, és a világ haragja "felgerjed a hetednapi adventisták ellen", és "a maroknyi kisebbség az egyetemes gyűlölet tárgyává válik". E gyűlölet eredményeképpen rendeletet "adnak ki a parancsolatok megtartói ellen", ami "megfosztja őket a kormányzat védelmétől", aminek hatására Isten népe elmenekül a településekből a "legelhagyatottabb, legfélreesőbb helyek"re.
 
 Isten népét - akik nem hajlandók engedelmeskedni a vasárnaptörvénynek - üldözni fogják. Brutális üldözés lesz. Némelyeket bebörtönöznek, egyesek mártírhalált halnak.
 
