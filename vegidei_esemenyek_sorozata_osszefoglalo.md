@@ -151,7 +151,7 @@ Továbbá Jel. 7. szerint **a megpecsételtek száma: 144 000**.
 
 EW szerint "az Úr népét a homlokukon elpecsételik – de **ez nem valamilyen látható pecsét vagy bélyeg lesz, hanem az igazságban való megingathatatlan szellemi és lelki alap** –, …"
 
-### A szombat megünneplése a pecsét megkapásának egyik feltétele, és a pecsét az Isteni védelem jele (ami ugyan emberi szemmel nem látható)
+### A szombat megünneplése a pecsét megkapásának egyik feltétele, és a pecsét az Isteni védelem jele (ami ugyan emberi szemmel nem látható).
 
 "**Az élő Isten pecsétjét azokra helyezik, akik lelkiismeretesen megtartják az Úr szombatját**" **Miért? Mert "a Tízparancsolatból egyedül a negyedik viseli magán a nagy Törvényadó, a menny és a föld Teremtőjének pecsétjét". A "szombatnak a megünneplése lesz az Isten iránti hűségünk próbája".**
 
@@ -246,7 +246,7 @@ De "kiváltsága az egyháznak, hogy **már most is** rendelkezzen vele. Keress�
 
 "**Az Úr közölte**, hogy ha Isten népe nem feszíti meg erejét, hanem tétlenül várja a felüdülést, hogy rájuk szálljon, és eltávolítsa hibáikat, s helyesbítse tévedéseiket; ha arra támaszkodnak, hogy az tisztítsa meg őket a test és a lélek minden szennyétől, s alkalmassá tegye őket a harmadik angyal hangos kiáltásában való részvételre, akkor híjával találtatnak. A felüdülés, vagyis **Isten ereje csak azokra száll, akik elkészítették magukat erre**, végezve az Isten által rájuk bízott feladatot; nevezetesen, megtisztítják magukat a test és lélek minden szennyétől, **Isten félelmében tökéletessé téve megszentelődésüket**." {1T 619.1}
 
-### Mikor jön el?
+### Mikor jön el a Lélek kitöltése?
 
 "Amikor a gyülekezetek élő, dolgozó közösséggé alakulnak".
 
@@ -290,7 +290,7 @@ A **Jel. 14. és 18. fejezeteiben szereplő üzenetek**nek egészen a földi tö
 
 "**Az angyal ekként válaszolt: „Ez a késői eső, a felüdülés az Úr színétől, a harmadik angyal hangos kiáltása”**".
 
-"Nem lesz kisebb az az erő, amivel Isten az evangélium hatalmas munkáját lezárja, mint amilyennel ezt a munkát elindította." Sőt, nagyobb lesz.
+"Nem lesz kisebb az az erő, amivel Isten az evangélium hatalmas munkáját lezárja, mint amilyennel ezt a munkát elindította."
 
 "Amint a harmadik angyal üzenete hangos kiáltássá nő, nagy erő és dicsőség fogja kísérni, és Isten népének arcát mennyei fény ragyogja be (7T, 1902, 17. o.)."
 
@@ -298,15 +298,15 @@ A **Jel. 14. és 18. fejezeteiben szereplő üzenetek**nek egészen a földi tö
 
 "Láttam, hogy ez az üzenet oly erővel és hatalommal végződik, amely jóval felülmúlja az éjféli kiáltást."
 
-### Csodák fogják kísérni Isten üzeneteinek hirdetését, a jó és rossz oldal verseng egymással
+### Csodák fogják kísérni Isten üzenetének hirdetését, a jó és rossz oldal verseng egymással
 
 "Most a harmadik üzenetnek kellett munkáját elvégeznie; mindenki próbára tétetett általa és drága lelkek felszólítattak, hogy lépjenek ki a vallásos közösségekből. ... **Nagy csodák történtek; betegek gyógyultak meg és a hívőket jelek és csodák követték.**"
 
 "Isten szolgái szent lelkesedéstől fénylő arccal sietnek egyik helyről a másikra, hogy hirdessék a menny üzenetét. Az egész földön ezernyi hangon szól majd a figyelmeztetés. **Csodálatos dolgok fognak történni. Betegek meggyógyulnak, és a hivők munkáját jelek és csodák kísérik.** Sátán is dolgozik, de hamis csodákkal. Még tüzet is hoz alá az égből az emberek szeme láttára (Jel. 13:13). **A föld lakóinak el kell dönteniük, ki mellé állnak.**" {GC 612.1}
 
-### Emberek ezrével térnek majd meg egyetlen napon, úgy mint pünkösdkor
+### Emberek ezrével térnek majd meg egyetlen napon, úgy mint pünkösdkor.
 
-### A harmadik angyal "elválasztja a búzát a konkolytól és elpecsétel"
+### A harmadik angyal "elválasztja a búzát a konkolytól és elpecsétel".
 
 ### Hogyan fog terjedni az utolsó üzenet?
 
@@ -330,7 +330,7 @@ Sokan felfigyelnek a figyelmeztetésekre, ennek hatására elkezdenek kutakodni 
 
 "Amikor a vita egyéb kérdéseket is érint, és az emberek figyelme Isten sárba tiport törvényére terelődik, **Sátán akcióba kezd. Az üzenetet kísérő erő felingerli azokat, akik ellenzik hirdetését.** A papság majdhogy emberfölötti erőfeszítéssel igyekszik elzárni a világosságot, nehogy híveire sugározzék. **Minden rendelkezésre álló eszközzel megkísérli elfojtani e létfontosságú kérdések megvitatását. Az egyház a polgári hatalom fegyveréért kiált**, és ebben a munkában a katolikusok és a protestánsok összefognak. A vasárnap megtartását kényszerítők mozgalmának merészsége és elszántsága egyre fokozódik, és **a törvényt is igénybe veszik Isten parancsolatainak megtartói ellen**. Bírsággal és bebörtönzéssel fenyegetik őket. Egyeseknek pedig magas állást ajánlanak fel, és egyéb jutalmakkal és kedvezményekkel próbálják rávenni őket hitük megtagadására. De ők rendíthetetlenül így válaszolnak: „Mutassátok ki Isten Igéjéből tévedésünket!” Így védekezett Luther is hasonló körülmények között. **A törvényszék elé állított hivők ékes bizonyságot tesznek az igazságról, melynek hallatán egyesek állást foglalnak Isten valamennyi parancsolata mellett.** Így jut el az igazság olyan emberek ezreihez is, akik különben mitsem tudnának róla." {GC 607.1}
 
-## Üldözés jön, miközben vagy miután hirdetik az üzenetet amit Isten rájuk bízott
+## Üldözés jön, miközben és miután hirdetik az üzenetet amit Isten rájuk bízott
 
 "**Az Isten szavának becsületes követői lázadóknak fognak minősülni.** Szülők, akiket Sátán elvakított, durvák és kemények lesznek hivő gyermekükhöz. A gazda és a gazdasszony sanyargatja az Isten parancsolatait megtartó szolgát. „**A szeretet meghidegül**!” Gyermekek elvesztik örökségüket és otthonukat. Szó szerint fognak teljesedni Pál szavai: „ Mindazok is, akik kegyesen akarnak élni Krisztus Jézusban, üldöztetni fognak” (II. Tim. 3:12). **Az igazság egyes követőit, akik nem hajlandók megünnepelni a vasárnapot, börtönbe vetik, másokat elűznek hazájukból, egyesek pedig rabszolgasorsra jutnak.** Az ember ezt most lehetetlennek tartja. De amikor Isten visszavonja mérséklő Lelkét a földről, és a mennyei elveket gyűlölő ember Sátán hatalmába kerül, **az események megdöbbentően fognak alakulni**. A szív nagyon kegyetlen tud lenni, ha eltávozik belőle Isten félelme és szeretete." {GC 608.1}
 
@@ -370,13 +370,13 @@ Tehát ebben a kegyelemidő lezárulása előtti rövid nyomorúságos időben "
 
 ### Mikor fog bekövetkezni? Mire kell várni?
 
-Máté 24:14 És az Isten országának ez az evangéliuma hirdettetik majd az egész világon, bizonyságul minden népnek; **és akkor** jő el a vég.
+Máté 24:14 "És az Isten országának ez az evangéliuma hirdettetik majd az egész világon, bizonyságul minden népnek; **és akkor** jő el a vég."
 
-2Pét 3:9 Nem késik el az ígérettel az Úr, mint némelyek késedelemnek tartják; hanem **hosszan tűr értünk**, nem akarván, hogy némelyek elvesszenek, hanem hogy mindenki megtérésre jusson.
+2Pét 3:9 "Nem késik el az ígérettel az Úr, mint némelyek késedelemnek tartják; hanem **hosszan tűr értünk**, nem akarván, hogy némelyek elvesszenek, hanem hogy mindenki megtérésre jusson."
 
 "A hosszú, kesergéssel töltött sötétség éjszakája megpróbáltatást jelent, de **a reggel az emberek iránti kegyelemből késik**, mert ha már most visszatérne a Mester, sokakat készületlenül találna (2T, 1868, 194. o.)." {LDE 37.4}
 
-"**Isten hosszan várakozott**, hogy a szolgálat lelkülete az egész gyülekezetet birtokba vehesse, és mindenki a maga képessége szerint dolgozzon. **Amikor** az egyház tagjai a szükséges területeken, legyen az itthon vagy külföldön, elvégzik kijelölt munkájukat, és teljesítik evangéliumi küldetésüket: **ekkor** az egész világ rövid idő alatt részesül a figyelmeztetésben, **és az Úr Jézus hatalommal és dicsőséggel visszatér a földre** (AA, 1911, 111. o.)." {LDE 75.1}
+"**Isten hosszan várakozott**, hogy a szolgálat lelkülete az egész gyülekezetet birtokba vehesse, és mindenki a maga képessége szerint dolgozzon. **Amikor** az egyház tagjai a szükséges területeken, legyen az itthon vagy külföldön, elvégzik kijelölt munkájukat, és teljesítik evangéliumi küldetésüket: **ekkor** az egész világ **rövid idő alatt** részesül a figyelmeztetésben, **és az Úr Jézus hatalommal és dicsőséggel visszatér a földre** (AA, 1911, 111. o.)." {LDE 75.1}
 
 "**Mindenki eleget fog tudni ahhoz, hogy értelmesen dönthessen** (GC, 1911, 605. o.)."
 
@@ -448,7 +448,7 @@ Akiknek nem volt lehetőségük megismerni Istent és az evangéliumot, sorsuk n
 
 ### A kegyelemidő lezárásáig kell felkészülni, mert Jézus eljövetelekor nem fog megváltozni a jellem
 
-"Komoly dolog meghalni, de élni még sokkal komolyabb. Ismét találkozni fogunk létünk minden gondolatával, szavával és tettével. Amivé válunk a kegyelemidő alatt, azzá leszünk az egész örökkévalóságban is. A halál oszlásnak indítja a testet, de a jellemben nem hoz változást. **Jézus Krisztus eljövetele nem változtat tulajdonságainkon**, de örökre rögzíti a jellemünket minden változással szemben (5T, 1885, 466. o.)." {LDE 236.2}
+"Komoly dolog meghalni, de élni még sokkal komolyabb. Ismét találkozni fogunk létünk minden gondolatával, szavával és tettével. **Amivé válunk a kegyelemidő alatt, azzá leszünk az egész örökkévalóságban is.** A halál oszlásnak indítja a testet, de a jellemben nem hoz változást. **Jézus Krisztus eljövetele nem változtat tulajdonságainkon**, de örökre rögzíti a jellemünket minden változással szemben (5T, 1885, 466. o.)." {LDE 236.2}
 
 Aki szeretné, tudok még mutatni **legalább egy olyan EW idézetet**, ahol konkrétan ki van jelentve, hogy Jézus eljövetelével nem változik meg a jellem.
 
