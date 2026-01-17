@@ -2,7 +2,7 @@
 
 __A Biblia és Ellen White írásai alapján. Az aktuális események részletes vizsgálata nélkül. Kifejezetten adventisták számára.__
 
-bigdatahpc7@gmail.com
+[GitHub](https://github.com/peterpolgar/Vegidei-esemenyek) bigdatahpc7@gmail.com
 
 (Ahol ▶ jelet lát, az azt jelenti, hogy amely bekezdés előtt szerepel ez a jel, ott a bekezdés állításának alátámasztásához van bizonyíték, ami a nyílra vagy a bekezdésre kattintással a bekezdés alatt lenyílva megjelenik, ismételt kattintással eltűnik. Ugyanezt fejezet és alfejezet címek esetén technikailag csak úgy lehetett megoldani, hogy az adott cím állításához tartozó bizonyíték a cím alatt egy ▶ jellel ellátott "Bizonyíték" nevű bekezdésre kattintva tekinthető meg.)
 
@@ -83,17 +83,25 @@ Azt látom adventista YouTube csatornákat figyelve, hogy a próféciák betelje
 
 ## Mi a végidei események elindítója, mi váltja ki a végidei események megindulását?
 
-EW halála óta eltelt több mint 100 év, de a végidei események még mindig nem kezdődtek el, látványosan legalábbis. Mire várunk, mi az az esemény, ami ha bekövetkezik, akkor egyértelműen tudhatjuk, hogy most már itt a vég, nincs visszaút? Ez az esemény a nagy jelek és csodák általi hitetés, a spiritizmus mozgalma. De ez az esemény csak úgy random valamikor elkezdődik, vagy van valami, ami ezt kiváltja? Igen van valami, ami nem más, mint Isten népének lelki megújulása. Tehát a végidei események kiváltó oka nem más, mint Isten népének lelki megújulása, erre várunk EW halála óta több mint 100 éve. És ez azt is jelenti, hogy Isten népének szüksége van lelki megújulásra, tehát a jelenlegi állapota nem megfelelő. És ez a nem megfelelő állapot is meg van jövendölve a Szentírásban, a Jelenések könyvében az egyház jelenlegi állapota a laodiceai állapottal jellemezhető, ami azt jelenti, hogy Isten népének többsége nem buzgó, nem lelkes, nem teljesen motivált az Istennek való szolgálatra, az Isten akaratának való teljes alárendelésre. **Tehát a laodiceai állapotból való megújulás hozza el a végidőt.**
+EW halála óta eltelt több mint 100 év, de a végidei események még mindig nem kezdődtek el, látványosan legalábbis. Mire várunk, mi az az esemény, ami ha bekövetkezik, akkor egyértelműen tudhatjuk, hogy most már itt a vég, nincs visszaút? Ez az esemény a nagy jelek és csodák általi hitetés, a spiritizmus mozgalma. De ez az esemény csak úgy random valamikor elkezdődik, vagy van valami, ami ezt kiváltja? Igen van valami, ami nem más, mint Isten népének lelki megújulása. Tehát a végidei események kiváltó oka nem más, mint Isten népének lelki megújulása, erre várunk EW halála óta több mint 100 éve. És ez azt is jelenti, hogy Isten népének szüksége van lelki megújulásra, tehát a jelenlegi állapota nem megfelelő. És ez a nem megfelelő állapot is meg van jövendölve a Szentírásban, a Jelenések könyvében az egyház jelenlegi állapota a laodiceai állapottal jellemezhető, ami azt jelenti, hogy Isten népének többsége nem buzgó, nem lelkes, nem teljesen motivált az Istennek való szolgálatra, az Isten akaratának való teljes alárendelésre. **Tehát a laodiceai állapotból való megújulás hozza el a végidőt**, különösen az AEÁ-ban élő testvéreink lelki ébredése nagy jelentőségű, mert az AEÁ-ból indulnak ki a végidei események, ahogy azt alább látni fogjuk.
 
-EW-nak van legalább egy idézete, amiben arról ír, hogy Jézus az ő idejében eljöhetett volna, ha az adventisták elvégezték volna küldetésüket, éppen úgy, mint ahogy Izrael népe is bemehetett volna az ígéret földjére negyven évnyi vándorlás nélkül is, ha bíztak volna Istenben. Tehát ha EW igazat mond, és én hiszem, hogy igazat mond, ez azt jelenti, hogy a végidei események beindulása az adventistáktól mindenképpen függ. Lehet, hogy függ attól is, hogy Sátán és a többi gonosz angyalok és emberek mikorra készítik elő a terepet az embernél magasabb rendű lények létezésének nagy leleplezésére, a spiritiszta mozgalom nyílt elindítására. Meglátásom szerint Sátán nagyon is figyelembe veszi Isten népének állapotát, és csak akkor fog lépni a tervében, amikor Isten népe nagy mértékben elkezd megújulni, felébredni a laodiceai langyosságból, erre utal az alábbiakban idézett LDE 158.2 jelű bekezdés.
+EW-tól vannak idézetek, lásd ezt a bekezdést lenyitva, amikben arról ír, hogy Jézus az ő idejében eljöhetett volna, ha az adventisták elvégezték volna küldetésüket, éppen úgy, mint ahogy Izrael népe is bemehetett volna az ígéret földjére negyven évnyi vándorlás nélkül is, ha bíztak volna Istenben. Tehát ha EW igazat mond, és én hiszem, hogy igazat mond, ez azt jelenti, hogy a végidei események beindulása az adventistáktól mindenképpen függ. Lehet, hogy függ attól is, hogy Sátán és a többi gonosz angyalok és emberek mikorra készítik elő a terepet az embernél magasabb rendű lények létezésének nagy leleplezésére, a spiritiszta mozgalom nyílt elindítására. Meglátásom szerint Sátán nagyon is figyelembe veszi Isten népének állapotát, és csak akkor fog lépni a tervében, amikor Isten népe nagy mértékben elkezd megújulni, felébredni a laodiceai langyosságból, erre utal az alábbiakban idézett LDE 158.2 jelű bekezdés.
 
 ## Az adventisták körében egy soha nem látott lelki ébredés lesz
 
-"Az egyház laodiceai állapotba süllyedt. Isten nincs jelen közöttük (1NL, 1898, 99. o.)."
+"Az egyház laodiceai állapotba süllyedt. Isten nincs jelen közöttük (1NL, 1898, 99. o.)." {LDE 49.1}
 
+<details><summary>
 "Azt mondom, hogy mélyreható ébredésnek kell történnie közöttünk! ... Bűnvallomásra, bűnbánatra és megtérésre van szükség. ..." {LDE 189.2}
+</summary>
+"Azt mondom, hogy <b>mélyreható ébredésnek kell történnie közöttünk</b>! Hol vannak a megtért lelkészek? Bűnvallomásra, bűnbánatra és megtérésre van szükség. Sok igehirdetőnek Krisztus átalakító kegyelme hiányzik a szívéből. Mielőtt örökre túl késő lenne, el kell határozniuk, semmit sem engednek meg, ami munkájuk lelkiismeretes végzésének az útjába áll (Letter, 1886, 51.)." {LDE 189.2}
+</details>
 
+<details><summary>
 "Megújulásnak és reformációnak kell végbemennie a Szentlélek közreműködésével! ..." {LDE 189.3}
+</summary>
+"<b>Megújulásnak és reformációnak kell végbemennie a Szentlélek közreműködésével! A megújulás és a reformáció két különböző dolog. A megújulás a lelki élet újjászületését jelenti</b>, a szellemi és lelki erők megelevenedését, feltámadást a lelki halálból. <b>A reformáció újraszervezést jelent</b>, az eszmék, elméletek, szokások és gyakorlat megváltoztatását. De nem termi meg az igazságosság jó gyümölcseit, hacsak nem kapcsolódik össze a Lélek megelevenítő erejével. Az ébredésnek és a reformációnak el kell végezniük kijelölt munkájukat, és közben eggyé olvadnak (RH, 1902. február 25.)." {LDE 189.3}
+</details>
 
 "**Mielőtt Isten utoljára látogatná meg ítéletével a földet, az Úr népe között olyan lelki ébredés lesz, amire az apostoli idők óta nem volt példa**…" {LDE 158.2}
 
@@ -101,38 +109,129 @@ EW-nak van legalább egy idézete, amiben arról ír, hogy Jézus az ő idejébe
 
 "... Az ellenség ezt a munkát meg akarja akadályozni. Mielőtt e megmozdulás ideje elérkezik, **megkísérli kibontakozását megakadályozni hamisítvány létrehozásával**. Azokban az egyházakban, amelyeket megtévesztő befolyása alá tud vonni, azt a látszatot kelti, hogy Isten különleges áldása árad ki rájuk. Nagy vallási érdeklődés látszatát kelti…" {LDE 158.2}
 
-"... **Minden alkalommal**, amikor Isten műve új életre kel, a gonoszság fejedelmének munkája is megélénkül. ..." GC 593.1
+"... **Minden alkalommal**, amikor Isten műve új életre kel, a gonoszság fejedelmének munkája is megélénkül. ..." {GC 593.1}
 
-"... **Elevenedjék csak fel a korai egyház hite és ereje, majd feltámad az üldözés szelleme, és fellángol az üldözés tüze is.**" {SR 324.3}
+<details><summary>
+"... <b>Elevenedjék csak fel a korai egyház hite és ereje, majd feltámad az üldözés szelleme, és fellángol az üldözés tüze is.</b>" {SR 324.3}
+</summary>
+"Pál apostol kijelenti, hogy „mindazok is, akik kegyesen akarnak élni Krisztus Jézusban, üldöztetni fognak.” (II. Tim. 3:12) <b>Mi az oka akkor annak, hogy az üldözés tüze oly nagymértékben kialudt? Egyetlen oka az, hogy a gyülekezet alkalmazkodott a világ színvonalához, azért nem ébreszt ellenállást.</b> A jelen kor hitvallását napjainkban nem a tiszta, szent jellem alkotja, mint amely Krisztusnak és apostolainak idejében jellemezte a keresztény hitet. Ennek oka csak a bűnnel való megalkuvás, mivel Isten igéjének igazságait oly közömbösséggel szemlélik, és oly kevés jámborság található a gyülekezetben, azért oly népszerű a kereszténység a világ előtt. <b>Elevenedjék csak fel a korai egyház hite és ereje, majd feltámad az üldözés szelleme, és fellángol az üldözés tüze is.</b>" {SR 324.3}
+</details>
 
-EW beazonosítása szerint **a földből feljövő fenevad az AEÁ**.
+<details><summary>
+EW beazonosítása szerint <b>a földből feljövő fenevad az AEÁ</b>.
+</summary>
+"A Jelenések könyve 13. fejezetének próféciája kinyilatkoztatja, hogy a bárányszarvú fenevad által jelképezett hatalom „azt cselekszi, hogy a föld és annak lakosai imádják” a pápaságot, amelyet itt a párduchoz hasonló fenevad szimbolizál. A kétszarvú fenevad azt is mondja „a föld lakosainak, hogy csinálják meg a fenevadnak képét”, és ez a hatalom mindenkivel – „kicsinyekkel és nagyokkal, gazdagokkal és szegényekkel, szabadokkal és szolgákkal” – elfogadtatja a fenevad bélyegét (Jel. 13:11–16). <b>Bebizonyosodott, hogy az Egyesült Államok az a hatalom, amelyet a bárányszarvú fenevad jelképez</b>, és hogy ez a prófécia akkor fog teljesedni, amikor az Egyesült Államok kikényszeríti a vasárnap megtartását." {GC 578.3}<br>
+Továbbá Ellen White részletesen kifejti, hogy miért az Amerikai Egyesült Államok a földből feljövő fenevad a "Nagy küzdelem" című könyv "Isten változhatatlan törvénye" című fejezetében a {GC 439.3} jelű bekezdéstől lefele, ami így kezdődik: “Ennél a pontnál egy másik szimbólum is jelentkezik.".
+</details>
 
-Ez a fenevad "elhiteti a földnek lakosait a jelekkel" (Jel 13:14-ből). **A jelenlegi szekuláris világból vallásos világ válik a nagy jelekkel és csodákkal kísért hitetés által**, erre enged következtetni a **Jelenések 13. fejezete** mellett a **Dániel 11:40** is.
+<details><summary>
+Ez a fenevad "elhiteti a földnek lakosait a jelekkel" (Jel 13:14-ből). <b>A jelenlegi szekuláris világból vallásos világ válik a nagy jelekkel és csodákkal kísért hitetés által</b>, erre enged következtetni a <b>Jelenések 13. fejezete</b> mellett a <b>Dániel 11:40</b> is.
+</summary>
+Jel 13:11 "Azután láték más fenevadat feljőni a földből, akinek két szarva vala, a Bárányéhoz hasonló, de úgy szól vala, mint a sárkány;"<br>
+Jel 13:12 "És az előbbi fenevadnak minden hatalmasságát cselekszi ő előtte; és azt is cselekszi, hogy a föld és annak lakosai imádják az első fenevadat, amelynek halálos sebe meggyógyult vala;"<br>
+Jel 13:13 "<b>És nagy jeleket tesz, annyira, hogy tüzet is hoz alá az égből a földre, az emberek láttára.</b>"<br>
+Jel 13:14 "<b>És elhiteti a földnek lakosait a jelekkel, amelyek adatának neki, hogy cselekedje a fenevad előtt</b>; azt mondván a föld lakosainak, hogy csinálják meg a fenevadnak képét, aki fegyverrel megsebesíttetett vala, de megelevenedett."<br>
+Jel 16:14 "Mert <b>ördögi lelkek azok, akik jeleket tesznek</b>; akik elmennek a földnek és az egész világnak királyaihoz, hogy egybe gyűjtsék azokat a mindenható Isten ama nagy napjának viadalára."<br>
+Jel 19:20 "És megfogaték a fenevad, és ő vele együtt <b>a hamis próféta, aki a csodákat tette ő előtte, amelyekkel elhitette azokat, akik a fenevad bélyegét felvették, és akik imádták annak képét</b>: ők ketten elevenen a kénkővel égő tüzes tóba vettetének:"<br>
+Máté 24:24 "Mert hamis Krisztusok és hamis próféták támadnak, és <b>nagy jeleket és csodákat tesznek</b>, annyira, hogy elhitessék, ha lehet, a választottakat is."<br>
+2Thess 2:8 "És akkor fog megjelenni <b>a törvénytaposó</b>, akit megemészt az Úr az ő szájának leheletével, és megsemmisít az ő megjelenésének feltűnésével;"<br>
+2Thess 2:9 "<b>Akinek eljövetele a Sátán ereje által van, a hazugságnak minden hatalmával, jeleivel és csodáival</b>,"<br>
+Dán 11:40 "<b>De a vég idején összetűz vele a déli király, és mint a forgószél, úgy megy reá az északi király szekerekkel, lovasokkal és sok hajóval, és betör az országokba, elözönli és végigjárja [azokat].</b>"<br>
+Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószövetségi írásmagyarázat professzora – a magyarul “Titkok megfejtése” című könyvében, a Dán 11:40-hez és szövegkörnyezetéhez kapcsolódóan ezt írja (részlet):<br>
+“Észak ily módon a Rossz hatalmát ábrázolja, amely Isten helyére tőr.”<br>
+“Dél a bibliai hagyományban az Isten nélküli emberi hatalmat jelképezi.”<br>
+“Történetileg ez azt jelenti, hogy <b>az egyház diadalt fog aratni a politikai és ateista mozgalmak felett</b>, majd egyazon karcsapással rövid időre benyomul Isten népe területére is.”
+</details>
+**Ez a hitetés** nem lokális, hanem **globális** esemény lesz, EW szerint "Az ellenség arra készül, hogy csodatévő hatalma által megtévessze az **egész világot**." {2SM 21.4}
 
-**Ez a hitetés** nem lokális, hanem **globális** esemény lesz, EW szerint "Az ellenség arra készül, hogy csodatévő hatalma által megtévessze az **egész világot**."
+<details><summary>
+<b>A hitetés nagy jelek és csodák által fog végbemenni:</b>
+</summary>
+... "<b>A természetfölötti megnyilatkoztatásokba vetett hit ajtót nyit az ördög csalásai és tanításai előtt, és a szellemvilág befolyása meg fog mutatkozni az egyházakban.</b>" {GC 603.2}
+</details>
 
-**A hitetés nagy jelek és csodák által fog végbemenni:**
+- <details><summary>
+  Ördögök és általuk befolyásolt emberek viszik véghez, sok ember szeme láttára.
+  </summary>
+  Jel 16:14 "Mert ördögi lelkek azok, akik jeleket tesznek;" ...<br>
+  "... <b>Az antikrisztus szemünk láttára viszi véghez bámulatos tetteit.</b> ..." {GC 593.1}<br>
+  "A beteget előttünk gyógyítják meg. <b>Szemünk láttára</b> történnek majd káprázatos események. Vajon felkészültünk a megpróbáltatásra, amely akkor vár ránk, amikor Sátán hazug csodái még teljesebben mutatkoznak meg? (1T, 1862, 302. o.)." {LDE 166.2}<br>
+  "Gonosz lelkek befolyása alatt álló emberek fognak csodákat véghezvinni. ..." {2SM 53.2}<br>
+  "Az Ige azt mondja, hogy az ellenség olyan eszközök által dolgozik, akik elpártoltak a hittől, és most látszólag emberfeletti dolgokat művelnek, <b>akár tüzet is aláhoznak</b> az égből a szemünk láttára (2SM, 1907, 54. o.)." {LDE 167.5}
+  </details>
 
-- Ördögök és általuk befolyásolt emberek viszik véghez, sok ember szeme láttára.
 - "Betegek meggyógyulnak, és sok tagadhatatlan csoda történik." (EW)
-- Sátán tüzet hoz alá az égből a földre annak bizonyságaképpen, hogy ő Isten.
-- Lesznek valódi csodák, lesznek megtévesztő csodák is, amik csak valódinak látszanak, illetve lesznek olyan gyógyítások, hogy beteggé tesznek egy embert, majd a ráhozott betegséget visszavonják, így azt a benyomást keltik, mintha csodálatos gyógyulást vittek volna véghez.
-- Sátán csodatevő hatalma az egész világon meg fog nyilvánulni.
-- A démonok embereket megszemélyesítő cselekedetei egyre gyakoribbá válnak.
 
-**Sátán világosság angyalaként és mint Jézus Krisztus jelenik majd meg külön-külön.** "Eljut addig a pontig, hogy megszemélyesíti a világosság angyalait, sőt felölti az Üdvözítő alakját is (2SM, 1894, 96. o.)." {LDE 162.1}
+- <details><summary>
+  Sátán tüzet hoz alá az égből a földre annak bizonyságaképpen, hogy ő Isten.
+  </summary>
+  „Nagy jeleket tesz, annyira, hogy tüzet is hoz alá az égből a földre, az emberek láttára. És elhiteti a föld lakosait a jelekkel, amelyek adatnak néki, hogy cselekedje” (Jel 13:13-14)<br>
+  "Sátán eljön, hogy megtévessze, ha lehet, még magukat a választottakat is. Azt állítja magáról, hogy ő Krisztus, nagy orvosmisszionáriusnak tetteti magát. <b>Tüzet hoz le mindenki szeme előtt, annak bizonyságaképpen, hogy ő Isten</b> (MM, 1903, 87–88. o.)." {LDE 167.4}
+  </details>
 
-**A spiritizmus lesz az új világvallás**, amibe Sátán egyesíteni akar mindenféle embert, állítólagos keresztényeket és hitetleneket egyaránt. (Persze ezt a vallást valószínűleg nem spiritizmusnak fogják majd nevezni.)
+- <details><summary>
+  Lesznek valódi csodák, lesznek megtévesztő csodák is, amik csak valódinak látszanak, illetve lesznek olyan gyógyítások, hogy beteggé tesznek egy embert, majd a ráhozott betegséget visszavonják, így azt a benyomást keltik, mintha csodálatos gyógyulást vittek volna véghez.
+  </summary>
+  "Vajon felkészültünk a megpróbáltatásra, amely akkor vár ránk, amikor <b>Sátán hazug csodái</b> még teljesebben mutatkoznak meg? (1T, 1862, 302. o.)." {LDE 166.2}<br>
+  "Gonosz lelkek befolyása alatt álló emberek fognak csodákat véghezvinni. Átkuk által beteggé teszik az embereket, majd az átkot visszavéve <b>azt a benyomást keltik</b> a kívülállók szemében, hogy csodálatos gyógyulást vittek véghez a betegeken. Sátán újra és újra így mutatkozik meg (259. Letter, 1903)." {2SM 53.2}<br>
+  "Hamarosan tüneményes események szemtanúi leszünk, amelyek szorosan kapcsolódnak a hitetőhöz. Isten szava kijelenti, hogy az ördög csodákat fog tenni. <b>Embereket betegít meg, azután hirtelen visszavonja róluk gonosz hatalmát</b> és gyógyultnak tekintik őket. Ezek a látszólag gyors javulások próbára teszik a hetednapi adventisták állhatatosságát (2SM, 1904, 53. o.)." {LDE 166.4}<br>
+  "Sátán bizonyos megtévesztések által olyan <b>csodák</b>at tud véghezvinni, amelyek <b>valódinak látszanak</b>. Ez a probléma jelentette az izraelitáknak a próbát Egyiptomból való szabadulásuk idején (2SM, 1907, 52. o.)." {LDE 167.1}<br>
+  "„Nagy jeleket tesz, annyira, hogy tüzet is hoz alá az égből a földre, az emberek láttára. És elhiteti a föld lakosait a jelekkel, amelyek adatnak néki, hogy cselekedje” (Jel 13:13-14). Ez a jövendölés <b>nem puszta csalások</b>ról szól. Az embereket olyan csodák vezetik félre, amelyek véghezvitelére <b>valóban hatalma lesz</b> Sátán eszközeinek, és <b>nem csak látszatot keltenek</b> (GC, 1911, 553. o.)." {LDE 168.1}
+  </details>
 
-A spiritizmus hasonlítani fog a mai névleges kereszténységhez: "A spiritizmus köntösében **Sátán** az emberiség jótevőjének mutatkozik. **Meggyógyítja a betegeket, és „egy új és dicsőbb” vallási rendszert kínál**, miközben pusztító munkát végez. ..." {GC 589.1}
+- <details><summary>
+  Sátán csodatevő hatalma az egész világon meg fog nyilvánulni.
+  </summary>
+  "Az ördög hamis csodái lesznek azok, amik foglyul ejtik <b>a világot</b>, márpedig Sátán tüzet is hoz alá az égből az emberek szeme láttára. Csodákat tesz majd, és nagyszerű, csodatévő hatalma <b>az egész világon</b> meg fog nyilvánulni. ..." {2SM 51.2}
+  </details>
 
-**A spiritizmus féle világvallásnak két nagy tévedése lesz**, ezek: a **lélek halhatatlansága** és a **vasárnap szentsége**.
+- <details><summary>
+  A démonok embereket megszemélyesítő cselekedetei egyre gyakoribbá válnak.
+  </summary>
+  "Nem nehéz a gonosz angyaloknak meghalt szentek vagy bűnösök alakját fölvenni, és emberi szemek számára láthatóvá válni. <b>Ezek a jelenségek egyre gyakoribbak lesznek</b>, és az idők végéhez közeledve mind megdöbbentőbb eseményeknek leszünk tanúi (Ev, 1875, 604. o.)." {LDE 161.2}<br>
+  "A szenteknek a jelenvaló igazság alapos ismeretére kell eljutniuk, állításaikat a Szentírásból kötelesek alátámasztani. Ismerniük kell a halottak állapotát, mert <b>ördögi lelkek jelennek meg előttük</b> rég elhunyt, szeretett barátaik vagy rokonaik képében, azt állítva, hogy a szombat és más bibliai tantételek is megváltoztak (EW, 1854, 87. o.)." {LDE 156.3}
+  </details>
 
-Az **Amerikai Egyesült Államok protestánsai** fogják először felkarolni, elfogadni a **spiritizmus**t, majd a **római katolikus hatalom** is csatlakozik ehhez a spiritiszta mozgalomhoz, **így egy hármas szövetség jön létre, mely kényszeríteni fogja az embereket a vasárnap megünneplésére**.
+<details><summary>
+<b>Sátán világosság angyalaként és mint Jézus Krisztus jelenik majd meg külön-külön.</b> "Eljut addig a pontig, hogy megszemélyesíti a világosság angyalait, sőt felölti az Üdvözítő alakját <b>is</b> (2SM, 1894, 96. o.)." {LDE 162.1}
+</summary>
+2Kor 11:14 “Nem is csoda; hisz <b>maga a Sátán is átváltoztatja magát világosság angyalává</b>.”<br>
+... "<b>Sátán</b> alkalmazkodik a mai élet körülményeihez. <b>Világosság angyalaként jelenik meg.</b>" ...  {GC 588.2}<br>
+... "<b>A világosság angyalait és Jézus Krisztust megszemélyesítve fog megjelenni.</b>" {2SM 21.4}
+</details>
 
-A spiritiszta világvallás, mint hamisítvány "annyira fog hasonlítani az igazságra, hogy csakis a Szentírás által lehet különbséget tenni köztük. ..." GC 593.1
+<details><summary>
+<b>A spiritizmus lesz az új világvallás</b>, amibe Sátán egyesíteni akar mindenféle embert, állítólagos keresztényeket és hitetleneket egyaránt. (Persze ezt a vallást valószínűleg nem spiritizmusnak fogják majd nevezni.)
+</summary>
+... "<b>A spiritizmus útján meglepő dolgok fognak történni. Betegek meggyógyulnak, és sok tagadhatatlan csoda történik. És mivel a gonosz lelkek úgy tesznek, mintha hinnének a Bibliában, és tisztelik az egyházat, az emberek isteni erő megnyilatkozásaként fogják elfogadni munkájukat.</b>" {GC 588.2}<br>
+"Az állítólagos keresztények és a hitetlenek között ma alig lehet különbséget tenni. Számos egyháztag szereti azt, amit a világ szeret, és könnyen felzárkózik a világ mellé. <b>Sátán egyesíteni akarja őket, hogy mindnyájukat a spiritizmus soraiba sodorva ügyét erősebbé tegye.</b> A pápistákat, akik a csodákat az igaz egyház jeleként dicsőítik, könnyen megtéveszti ez a csodatevő hatalom; a protestánsok pedig, mivel eldobták az igazság pajzsát, szintén a csalás áldozatai lesznek. <b>Katolikusok, protestánsok és a világ fiai egyaránt</b> elfogadják a kegyesség formáját a kegyesség ereje nélkül, és ebben a szövetségben a <b>világot megtérítő</b> és régóta várt <b>millennium</b> nagyszerű mozgalmának kezdetét látják." {GC 588.3}
+</details>
 
-E világvallás vezetői azt fogják hirdetni, hogy elérkezett a **millenium**, azaz "elérkezett az ezer földi esztendő, amelyre olyan régóta vártak. **Az egész világ 'megtért'**".
+<details><summary>
+A spiritizmus hasonlítani fog a mai névleges kereszténységhez: "A spiritizmus köntösében <b>Sátán</b> az emberiség jótevőjének mutatkozik. <b>Meggyógyítja a betegeket, és „egy új és dicsőbb” vallási rendszert kínál</b>, miközben pusztító munkát végez. ..." {GC 589.1}
+</summary>
+"Amikor <b>a spiritizmus még jobban fog hasonlítani a mai névleges kereszténységhez</b>, még több embert fog megtéveszteni és tőrbe ejteni." ... {GC 588.2}
+</details>
+
+<details><summary>
+<b>A spiritizmus féle világvallásnak két nagy tévedése lesz</b>, ezek: a <b>lélek halhatatlansága</b> és a <b>vasárnap szentsége</b>.
+</summary>
+"E két nagy tévedéssel – <i>a lélek halhatatlanságával</i> és <b>a vasárnap szentségével</b> fogja Sátán az embereket csalásainak foglyává tenni. Míg az előbbi <i>a spiritizmus alapját rakja le</i>, az utóbbi <b>Rómával hozza közös nevezőre az embereket</b>." {GC 588.1}
+</details>
+
+<details><summary>
+Az <b>Amerikai Egyesült Államok protestánsai</b> fogják először felkarolni, elfogadni a <b>spiritizmus</b>t, majd a <b>római katolikus hatalom</b> is csatlakozik ehhez a spiritiszta mozgalomhoz, <b>így egy hármas szövetség jön létre, mely kényszeríteni fogja az embereket a vasárnap megünneplésére</b>.
+</summary>
+"Az Egyesült Államok protestánsai <b>elsőként</b> fognak a szakadékon át kezet nyújtani a spiritizmusnak; és átnyúlnak a mélység felett is, hogy a római hatalommal kezet fogjanak. E <b>hármas szövetség</b> hatására ez az ország követni fogja Rómát a lelkiismeret jogainak sárba tiprásában." {GC 588.1}
+</details>
+
+A spiritiszta világvallás, mint hamisítvány "annyira fog hasonlítani az igazságra, hogy csakis a Szentírás által lehet különbséget tenni köztük. ..." {GC 593.1}
+
+<details><summary>
+E világvallás vezetői azt fogják hirdetni, hogy elérkezett a <b>millenium</b>, azaz "elérkezett az ezer földi esztendő, amelyre olyan régóta vártak. <b>Az egész világ 'megtért'</b>".
+</summary>
+"A gonoszok kijelentették, hogy náluk az igazság, közöttük csodás események történtek, mennyei angyalok beszéltek velük és kísérték őket. <b>Nagy erők, jelek és csodák</b> megnyilvánulásait tapasztalták, és azt állítják, hogy <b>elérkezett az ezer földi esztendő, amelyre olyan régóta vártak. Az egész világ „megtért”</b>, és összhangban van a vasárnaptörvénnyel (3SM, 1884, 427–428. o.)." {LDE 136.1}
+</details>
 
 ## Mikor fogja Sátán megszemélyesíteni Jézust?
 
@@ -515,9 +614,19 @@ Akiknek nem volt lehetőségük megismerni Istent és az evangéliumot, sorsuk n
 
 ### A kegyelemidő lezárásáig kell felkészülni, mert Jézus eljövetelekor nem fog megváltozni a jellem
 
-"Komoly dolog meghalni, de élni még sokkal komolyabb. Ismét találkozni fogunk létünk minden gondolatával, szavával és tettével. **Amivé válunk a kegyelemidő alatt, azzá leszünk az egész örökkévalóságban is.** A halál oszlásnak indítja a testet, de a jellemben nem hoz változást. **Jézus Krisztus eljövetele nem változtat tulajdonságainkon**, de örökre rögzíti a jellemünket minden változással szemben (5T, 1885, 466. o.)." {LDE 236.2}
+"Ünnepélyes dolog meghalni, de ünnepélyesebb élni. Életünk minden gondolata, szava és tette ismét találkozik velünk. **Amit kialakítunk magunkban a megpróbáltatás idején, azok kell maradjunk az örökkévalóságban.** A halál feloszlatja a testet, de nem tesz változást a jellemben. **Krisztus jövetele nem változtatja meg jellemünket**, csak rögzíti azokat minden változáson túl. - 5T 466 (1885)." {LDE 236.2}
 
-Aki szeretné, tudok még mutatni **legalább egy olyan EW idézetet**, ahol konkrétan ki van jelentve, hogy Jézus eljövetelével nem változik meg a jellem.
+"Jelen lehetőségünk legjobbját kell tennünk most. Más megpróbáltatás nem adatott nekünk, ami előkészítene a menny számára. **Ez az egyetlen és utolsó lehetőség a jellem alakítására, amely alkalmassá tesz bennünket az eljövendő otthonunk számára**, amit az Úr készít mindazoknak, akik engedelmesek parancsolatainak. - Letter 20, 1899. {LDE 236.3}"
+
+<details><summary>
+<b>További EW idézetek arról, hogy Jézus eljövetelekor nem fog megváltozni a jellem, megtekintésükhöz kattints ide.</b>
+</summary>
+"Hogy szent lehess a mennyben, először szentnek kell lenned a földön. Jellemtulajdonságod, amit ez életben dédelgetsz, nem változik meg a halál vagy a feltámadás által. Ugyanazzal az érzéssel jössz ki a sírból, mint amit tanúsítottál otthon és a társadalomban. <b>Jézus eljövetelekor nem változtatja meg a jellemet.</b> Az átalakítás munkáját most kell elvégezni. Mindennapi életünk meghatározza sorsunkat. A jellemhibákat meg kell bánnunk, és le kell győznünk Krisztus hatalma által, és Krisztust tükröző jellemet kell kialakítanunk ebben a próbaidőben, hogy alkalmassá legyünk a fenti lakóhelyre. - 13MR 82 (1891). {LDE 295.1}"<br>
+"Ha hibás lenne a jellemünk, nem léphetnénk be a kegyelem által az engedelmeseknek megnyitott kapukon; mivel a jogosság áll a bejáratnál és szentséget, tisztaságot követel attól, akik látni akarják Istent. Ha a jogosság kiveszett volna, és a kegyelemnek lehetséges lenne, hogy jellemre való tekintet nélkül az egész emberiség előtt kitárja a' kapukat, az elhidegülés és lázadás rosszabb állapota köszöntene be a mennyben, mint a Sátán kiűzése előtt. A menny békéje, boldogsága, összhangja föl lenne dúlva. <b>Ha valaki a mennyel cseréli föl a földet, az még nem változtatja meg a jellemét.</b> A mennyeiek boldogsága az itteni életben kialakított jellem, a Krisztushoz való hasonlóság gyümölcse. A mennyei szentek előbb a földön voltak szentek. {6BC 1072.2}"<br>
+"Közelebb kell jutnunk Istenhez, akkor Krisztus lesz világosságunk, s az igazság világossága a világra fog tükröződni. Rá akarjuk nevelni magunkat, hogy az igazságról, a mennyről és mennyei dolgokról szóljunk, az Üdvözítő szeretetét emlegessük, ezzel is a szent, mennyei életre készülve föl. <b>Ha Krisztus, mikor eljön, összes mai jellemhibáinkkal talál ránk, kizárt dolog, hogy bemenetelünk legyen a mennybe. S nem lesz többé lehetőség megváltoznunk. Krisztus nem ígéri, hogy eljövetele után megváltoztatja jellemünket. Most kell szert tennünk igaz, szent jellemre.</b> {2SAT 24.5}"<br>
+"A változásnak itt kell beköszöntenie. Itt, ezen a világon kell megmosnunk ruhánkat és megfehéríteni a Bárány vérében, s akkor lesz fehér ruhánk, ami a szentek igazságos cselekedetei. De <b>ha bűneinkben folytatjuk az életet, Krisztus nem vihet magával a mennybe</b>. Csak szentek láthatják meg a szent Istent. {2SAT 25.1}"<br>
+"14. (20:12,13; lásd 1Mózes 3:22-24; Róma 3:31; 2 Korintus 3:7-11 megjegyzéseit) Isten városa a parancsolattartók számára - Az igazság világosságával rendelkezők közül senki se teszi be lábát Isten városába, aki megrontja a parancsolatokat. Isten törvénye képezi az Úr kormányának alapzatát mennyen és földön. Ha tudva lábbal taposták törvényét a földön, nem viszi őket a mennybe, hogy ott folytassák ugyanazt. <b>Mikor Jézus eljön, a jellem nem változik el. A jellemépítésnek a próbaidő órái alatt kell folynia.</b> Napról-napra följegyzik cselekedeteiket a menny könyveibe, s Isten nagy napján cselekedeteik szerint kapnak majd jutalmat. Akkor látható lesz, hogy ki nyeri el az áldást: „Boldogok, akik megtartják parancsolatait, hogy joguk legyen az élet fajához és bemehessenek a kapukon a városba." (Advent szemle és szombat hírnök 188S augusztus 25) {7BC 990.3}"
+</details>
 
 ## Mi a bizonyíték arra, hogy a végső események néhány éven belül lezajlanak?
 
@@ -527,9 +636,9 @@ EW: "Világunkban hamarosan fontos változások történnek, és **a végső ese
 
 ## Irodalomjegyzék
 
-- A **nem** revideált, “eredeti” Károli fordítású Biblia
+- A **nem** revideált, 'eredeti' Károli fordítású Biblia
 
-- Ellen White-tól: Nagy küzdelem, Az utolsó napok eseményei, Jelenések könyve írásmagyarázat
+- Ellen White-tól: Az utolsó napok eseményei, Nagy küzdelem, Jelenések könyve írásmagyarázat, és egyebek
 
 - Jacques Doukhan – Titkok megfejtése
 
