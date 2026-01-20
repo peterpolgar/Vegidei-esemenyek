@@ -164,9 +164,10 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
   "... <b>Az antikrisztus szemünk láttára viszi véghez bámulatos tetteit.</b> ..." {GC 593.1}<br>
   "A beteget előttünk gyógyítják meg. <b>Szemünk láttára</b> történnek majd káprázatos események. Vajon felkészültünk a megpróbáltatásra, amely akkor vár ránk, amikor Sátán hazug csodái még teljesebben mutatkoznak meg? (1T, 1862, 302. o.)." {LDE 166.2}<br>
   "Gonosz lelkek befolyása alatt álló emberek fognak csodákat véghezvinni. ..." {2SM 53.2}<br>
-  "Az Ige azt mondja, hogy az ellenség olyan eszközök által dolgozik, akik elpártoltak a hittől, és most látszólag emberfeletti dolgokat művelnek, <b>akár tüzet is aláhoznak</b> az égből a szemünk láttára (2SM, 1907, 54. o.)." {LDE 167.5}
+  "Az Ige azt mondja, hogy az ellenség olyan eszközök által dolgozik, akik elpártoltak a hittől, és most látszólag emberfeletti dolgokat művelnek, <b>akár tüzet is aláhoznak</b> az égből a szemünk láttára (2SM, 1907, 54. o.)." {LDE 167.5}<br>
+  "<b>Isten figyelmeztetett minket, hogy az utolsó napokban Sátán jeleket és csodákat fog véghezvinni. Egészen a próbaidő lezárulásáig folytatja majd ezeket a csodákat</b>, mert általuk azt akarja igazolni, hogy ő a világosság angyala, és nem a sötétségé." {2SM 50.4}
   </details>
-
+  
 - "Betegek meggyógyulnak, és sok tagadhatatlan csoda történik." (EW)
 
 - <details><summary>
@@ -242,99 +243,333 @@ E világvallás vezetői azt fogják hirdetni, hogy elérkezett a <b>millenium</
 
 ## Mikor fogja Sátán megszemélyesíteni Jézust?
 
-EW szerint **ez a megszemélyesítés lesz** "**a dráma utolsó nagy felvonása**", "a csalás nagy drámájának tetőfoka", amit az "utolsó napok"ra tesz, azt is mondja, hogy Sátán a csodákat "egészen a próbaidő lezárulásáig folytatja majd", ez lesz **Sátán** "**utolsó, kétségbeesett erőfeszítés"e**, "utolsó stratégiája".
+<details><summary>
+EW szerint <b>ez a megszemélyesítés lesz</b> "<b>a dráma utolsó nagy felvonása</b>", "a csalás nagy drámájának tetőfoka", amit az "utolsó napok"ra tesz, azt is mondja, hogy Sátán a csodákat "egészen a próbaidő lezárulásáig folytatja majd", ez lesz <b>Sátán</b> "<b>utolsó, kétségbeesett erőfeszítés"e</b>, "utolsó stratégiája".
+</summary>
+"Alulról jövő erő munkálkodik azon, hogy létrehozza <b>a dráma utolsó nagy felvonását</b>: Sátán Megváltóként való eljövetelét. ..." {LDE 162.4}<br>
+"... <b>Az utolsó napokban</b> úgy jelenik meg, hogy az emberek a másodszor is a földünkre eljövő Krisztusnak hiszik. Csakugyan átváltoztatja magát a világosság angyalává. Minden részletben utánozza Jézus megjelenését, ez mégis csak azokat tévesztheti meg, akik a fáraóhoz hasonlóan ellenállnak az igazságnak (5T, 1889, 698. o.)." {LDE 163.1}<br>
+"Sátán látja, hogy ügye vesztésre áll. Nem tud az egész világon végigszáguldani. <b>Még egy utolsó, kétségbeesett erőfeszítést tesz</b>, hogy a hűségeseket csalás által legyőzze. Ezt az Üdvözítő megszemélyesítése által vinné véghez. ..." {LDE 164.1}<br>
+"Sátán <b>végső erőfeszítései</b>vel igyekszik megtéveszteni az embereket. Hallja a meg nem szűnő kiáltást, hogy jöjjön el Jézus Krisztus és szabadítsa meg őket. <b>Utolsó stratégiája</b> értelmében megszemélyesíti a várva várt Üdvözítőt, és elhiteti velük, hogy megérkezett imáikra a válasz (Ms, 1884, 16. o.)." {LDE 165.1}<br>
+"... Az ördögi lelkek bejárják az egész világot. Elmennek a föld királyaihoz, hogy rávegyék őket a csalásra, és arra, hogy Sátánnak segítsenek a menny ellen vívott <b>utolsó</b> csatájában. ..." {GC 624.1}<br>
+"<b>A csalás nagy drámájának tetőfokán</b> Sátán meg fogja személyesíteni Krisztust. ..." {GC 624.2}
+</details>
 
-Sátán "hallja a meg nem szűnő kiáltást, hogy jöjjön el Jézus Krisztus és szabadítsa meg őket", ezek szerint mielőtt megtörténne a megszemélyesítés eseménye, az emberek (a hamis kereszténység tagjai) kívánni fogják Jézus visszatérését és szabadítását (persze Isten népe is várja Jézust, de a megszemélyesítés a hamis vallás tagjainak kiáltására lesz válasz). Miért akarnak szabadítást az emberek? **EW azt írja, hogy Sátán "Csaló és pusztító munkája** **a nyomorúság idején fog tetőzni**.". Ezek szerint **az emberek a nyomorúságból való szabadítást kívánják**. És **Sátán a megszemélyesítéssel "elhiteti velük, hogy megérkezett imáikra a válasz"**.
+Sátán "hallja a meg nem szűnő kiáltást, hogy jöjjön el Jézus Krisztus és szabadítsa meg őket", ezek szerint mielőtt megtörténne a megszemélyesítés eseménye, az emberek (a hamis kereszténység tagjai) kívánni fogják Jézus visszatérését és szabadítását (persze Isten népe is várja Jézust, de a megszemélyesítés a hamis vallás tagjainak kiáltására lesz válasz). Miért akarnak szabadítást az emberek? **EW azt írja, hogy Sátán "Csaló és pusztító munkája** **a nyomorúság idején fog tetőzni**." {GC 623.3}. Ezek szerint **az emberek a nyomorúságból való szabadítást kívánják**. És **Sátán a megszemélyesítéssel "elhiteti velük, hogy megérkezett imáikra a válasz"**.
 
-**Mikor Sátán megszemélyesíti Krisztust, "azt állítja, hogy a szombatot áttette vasárnapra".**
+<details><summary>
+<b>Mikor Sátán megszemélyesíti Krisztust, "azt állítja, hogy a szombatot áttette vasárnapra".</b>
+</summary>
+"Isten népét azonban nem lehet megtéveszteni. E tanítások ellentmondanak a Szentírásnak. <b>A hamis Krisztus a fenevadra és a fenevad képének imádóira mond áldást</b>, pontosan azokra, akikre a Biblia tanúsága szerint Isten ki fogja tölteni elegyítetlen haragját." {GC 625.1}<br>
+"A csalás nagy drámájának tetőfokán Sátán meg fogja személyesíteni Krisztust. … <b>azt állítja, hogy a szombatot áttette vasárnapra</b>, …“{GC 624.2}
+</details>
 
 Jó **kérdés, hogy ez az esemény a kegyelemidő lezárása előtt vagy után következik-e be**. A józan ész és logika alapján azt lehetne várni, hogy a kegyelemidő lezárulása előtt, hiszen utána már eldőlt minden ember sorsa, bár nem lesz nyilvánvaló jele a kegyelemidő lezárása pillanatának, Sátán se tudja pontosan, hogy mikor zárul le a kegyelemidő. De EW a Nagy küzdelem című könyvben a Jákób nyomorúsága időszakról beszél a megszemélyesítés előtt, és a Jákób nyomorúsága időszak a kegyelemidő lezárta után következik, ki tudja milyen logika mentén írta EW azt a fejezetet, hogy időrendben vagy sem, ezt én nem tudom.
 
 ## Rostálás
 
-A rostálás megtiszítást jelent, minden gyülekezetben végbemegy.
+<details><summary>
+A rostálás megtisztítást jelent, minden gyülekezetben végbemegy.
+</summary>
+"Az Úr hamarosan eljön. <b>Minden gyülekezetben végbe kell mennie a megtisztítás, a rostálás folyamatának</b>, mert közöttünk vannak még gonosz emberek, akik nem szeretik az igazságot és nem tisztelik Istent (RH, 1895. március 19.)." {LDE 173.3}
+</details>
 
+<details><summary>
 A rostálás idején élünk, és mindenki megrostáltatik.
+</summary>
+"<b>A rostálás idején élünk</b>, abban az időben, <b>amikor</b> minden és <b>mindenki megrostáltatik</b>. Az Úr nem bocsát meg azoknak, akik ugyan ismerik az igazságot, de nem engedelmeskednek parancsolatainak sem szóval, sem tettel (6T, 1900, 332. o.)." {LDE 173.4}
+</details>
 
+<details><summary>
 "Az egyházban szakadások jönnek létre, ezáltal két csoport alakul ki."
-
+</summary>
+"<b>Az egyházban szakadások jönnek létre, ezáltal két csoport alakul ki.</b> De a búza és a konkoly együtt növekedik az aratásig (2SM, 1896, 114. o.)." {LDE 172.3}
+</details>
+<details><summary>
 Az igazi keresztények fennmaradnak a rostán, míg a hamisak kirostáltatnak.
+</summary>
+"Úgy tűnhet majd, mintha az egyház elesne, de nem bukik el. Megmarad, miközben <b>a bűnösök kirostáltatnak Sionból</b> – ekkor választják el a konkolyt az értékes búzától. Rettenetes megpróbáltatás lesz, azonban mindennek meg kell történnie (2SM, 1886, 380. o.)." {LDE 180.5}<br>
+"Támadjon csak ellenségeskedés; legyen csak ismét úrrá a vakbuzgóság és a vallási türelmetlenség; lobbanjon lángra az üldözés, és <b>a langymelegek és képmutatók meginognak, és feladják hitüket</b>; de az igazi keresztény szilárdan megáll, mint szikla, hite erősebb és reménysége fényesebb lesz, mint amilyen a jólét napjaiban volt (GC, 1911, 602. o.)." {LDE 181.3}<br>
+"Néhányan kirostálódtak és elmaradtak útközben. A gondatlanok és közömbösek, akik nem becsülték olyan nagyra a győzelmet és a megváltást, hogy <b>kitartóan imádkozzanak és küzdjenek érte</b>, nem vívták ki a győzelmet, emiatt lemaradtak a sötétségben. Helyüket azonnal mások foglalták el, és megragadva az igazságot, sorainkhoz csatlakoztak (EW, 1858, 271. o.)." {LDE 182.1}
+</details>
 
+<details><summary>
 Lesz egy olyan rostálás, amit a "laodiceabeliekhez írt nyílt, egyenes bizonyságtétel" idéz elő. Akik szembeszállnak ezzel az üzenettel, ők fogják előidézni a rostálást Jézus népe körében.
+</summary>
+"<b>Megkérdeztem a látott rostálás jelentőségét, és megmutatták nekem, hogy azt az Igaz Bizonyság laodiceabeliekhez írt nyílt, egyenes bizonyságtétele idézte elő.</b> Ez mély benyomást gyakorol annak szívére, aki elfogadja; és arra indítja őt, hogy célját magasra tűzze, és a teljes igazságot hirdesse. Többen is lesznek, <b>akik nem tudják elviselni ezt a határozott tanúságtevést. Ők szembe fognak szállni az igazakkal, és ezzel előidézik a rostálást Jézus népe körében</b> (1T, 1875, 181. o.)." {LDE 175.3}<br>
+"Sokak Ákánhoz hasonlóan túl későn vallják meg bűneiket a megmeneküléshez. Nem állnak összhangban az igazsággal. Megvetik a nyílt és egyenes bizonyságtevést, ami elhatol a szívig, mi több, örülnének, ha a feddő üzenetet közvetítőket elhallgattatnák (3T, 1873, 272. o.)." {LDE 175.4}<br>
+"<b>Az Úr az elmúlt években hangzó kendőzetlen, egyértelmű tanúbizonysággal hív a megújulásra. A lelki élet megelevenedését várja mindannyiunktól. Sokáig volt tompa népének lelkiereje, de lesz feltámadás a tetszhalálból!</b> Imádkozás és bűnvallomás által készítsük az utat a Király előtt! (8T, 1904, 297. o.)." {LDE 176.1}
+</details>
 
+<details><summary>
 Egy másik rostálás lesz az, amikor a spiritiszta világvallás idején a fenevad bélyegének felvételét elkezdik ráerőltetni az emberekre, akkor ennek a bélyegnek való ellenállás vagy felvétel közötti döntés egyfajta rostálás lesz.
+</summary>
+"<b>Amikor Isten törvényét hatályon kívül helyezik, az egyház tüzes próbákkal lesz megrostálva</b>, és többen engednek majd a megtévesztő lelkeknek és az ördögi tanoknak, mint ahogy most azt feltételezzük (2SM, 1891, 368. o.)." {LDE 174.2}
+</details>
+
+<details><summary>
+Továbbá EW ír egy olyan időről, "Amikor a hamis tanok megjelenésével bekövetkezik a rostálás", de fogalmam sincs, hogy miféle hamis tanokra gondol itt EW.
+</summary>
+"<b>Amikor a hamis tanok megjelenésével bekövetkezik a rostálás</b>, a felszínes olvasók, akiknek nincs megalapozott hite, olyanok lesznek, mint a futóhomok. Bármilyen állásponttal egyetértenek, ha azok összecsengenek keserű érzéseikkel (TM, 1897, 112. o.)." {LDE 177.1}
+</details>
+
+<details><summary>
+Sokan kirostáltatnak, még azok közül is, akiket igaznak gondolunk.
+</summary>
+"Isten rostálása száraz falevélként fújja el a tömegeket (4T, 1876, 89. o.)." {LDE 180.1}<br>
+"A polyvát felhőként röpíti el a szél, még olyan helyről is, ahol mi csak aranyló búzamezőket láttunk (5T, 1882, 81. o.)." {LDE 180.2}<br>
+"Isten népét hamarosan tüzes megpróbáltatások érik, és a most valódinak és igaznak látszók nagy része hitvány fémnek bizonyul…" {LDE 180.3}
+</details>
 
 ## Természeti katasztrófák “egyre sűrűsödnek és súlyosbodnak”
 
-A természeti katasztrófákban, emberi balesetekben, szerencsétlenségekben Sátán keze van. Lesz éhínség, nyomor, halálos járványok. **"E jelenségek egyre sűrűsödnek és súlyosbodnak"** **"egészen a világ történelmének lezárásáig"**.
+<details><summary>
+A természeti katasztrófákban, emberi balesetekben, szerencsétlenségekben <b>Sátán keze van</b>. Lesz éhínség, nyomor, halálos járványok. <b>"E jelenségek egyre sűrűsödnek és súlyosbodnak" "egészen a világ történelmének lezárásáig"</b>.
+</summary>
+"... A mindenütt és ezer formában előforduló tengeri és szárazföldi balesetekben és szerencsétlenségekben; a hatalmas tűzvészekben, vad tornádókban és félelmetes jégverésekben; viharokban, árvizekben, ciklonokban, szökőárakban és földrengésekben <b>Sátán keze van</b>. Elsöpri az érő termést, aminek következménye éhínség és nyomor. Halálos fertőt lehel a levegőbe, és emberek ezreit elviszi a ragály. <b>E jelenségek egyre sűrűsödnek és súlyosbodnak.</b> ..." {GC 589.3}<br>
+"Az ellenség nemcsak a múltban volt tevékeny, hanem most is az. Lejött nagy hatalommal, miközben a Szentlélek folyamatosan visszavonul a földről. Isten visszavonja óvó kezét. Tekintsünk csak Johnstownra (Pennsylvania állam). Nem akadályozta meg a gonoszt, így az egész város megsemmisült. [1889. május 31-én mintegy 2200 ember veszítette életét a johnstowni árvízben, melyet a több napos heves esőzés nyomán bekövetkezett gátszakadás okozott.] <b>Ezek a jelenségek egyre gyakoribbá válnak egészen a világ történelmének lezárásáig</b> (1SAT, 1889, 109. o.)." {LDE 25.2}
+</details>
 
+<details><summary>
 "A föld történelmének utolsó jeleneteiben háború dúl."
+</summary>
+"A föld történelmének utolsó jeleneteiben háború dúl. Járványok, ragályos kórok és éhség lesz tapasztalható. A mélység vizei átlépik határukat. Tűz és áradat pusztít el életet és vagyont. Készen kell lennünk ama hajlékok számára, melyeket Krisztus készített az őt szeretőknek (Mar, 1897, 174. o.)." {LDE 24.2}
+</details>
 
  "**A tüzek, az árvizek, a földrengések, a nagy mélység dühöngései, a tengeri és szárazföldi szerencsétlenségek mind arra figyelmeztetnek, hogy Isten Lelke nem küzd örökké az emberrel** (3MR, 1897, 315. o.)." {LDE 26.2}
 
-Isten fokozatosan visszavonja óvó kezét, így a gonosz egyre nagyobb mértékben tud pusztítani, ez Isten haragja poharának cseppjei. **"Láttam, hogy az Úr fokozatosan visszavonja Szentlelkét a földről."** Ez minden bizonnyal a Földön növekvő gonoszság és Istennek való ellenállás miatt van és lesz.
+<details><summary>
+Isten fokozatosan visszavonja óvó kezét, így a gonosz egyre nagyobb mértékben tud pusztítani, ez Isten haragja poharának cseppjei. <b>"Láttam, hogy az Úr fokozatosan visszavonja Szentlelkét a földről."</b> Ez minden bizonnyal a Földön növekvő gonoszság és Istennek való ellenállás miatt van és lesz.
+</summary>
+"<b>Az Úr nem fékezi a sötétség hatalmait</b>, hogy véghez vigyék a levegő – amely életünk és táplálásunk egyik forrása – megrontásának halálos munkáját. Nemcsak a növényvilág, hanem az ember is fertőzésektől szenved… <b>Ezek Isten haragja poharának cseppjei</b> [Isten felelősséget vállal azért, amit megenged vagy amit nem akadályoz meg (lásd: 2Móz 7:3, 8:32; 1Krón 10:4, 13-14)], amelyek a földre hullanak, és csupán gyenge képviselői annak, amelyek ezután a közeljövőben játszódnak le (3SM, 1891, 391. o.)." {LDE 27.1}<br>
+"Az éhínség fokozódik. A járvány ezreket ragad el. Veszély vesz körül bennünket. <b>Kívülbelül sátáni erők tevékenykednek, de Isten most még féken tartja őket</b> (19MR, 1897, 382. o.)." {LDE 27.2}<br>
+"<b>Láttam, hogy az Úr fokozatosan visszavonja Szentlelkét a földről.</b> Isten a megtartó hatalmát nemsokára megvonja mindazoktól, akik parancsolatait továbbra is semmibe veszik. A tisztességtelen üzletek, gyilkosságok és bűncselekmények minden fajtájáról szóló híreket naponta halljuk. <b>A gonoszság olyan általánossá válik, hogy az már nem rázza meg az embereket, mint ahogyan egykor tapasztaltuk</b> (Letter, 1907, 258.)." {LDE 27.3}
+</details>
 
-**"Az Úr nem akar beavatkozni, hogy megvédje azok javait, akik áthágják törvényét, megtörik szövetségét és megtapodják szombatját, és helyette a hamis nyugalomnapot fogadják el." "A Teremtő céllal engedi meg a szerencsétlenségeket. Ezek az eszközök az emberek figyelmeztetését szolgálják."**
+<details><summary>
+<b>"Az Úr nem akar beavatkozni, hogy megvédje azok javait, akik áthágják törvényét, megtörik szövetségét és megtapodják szombatját, és helyette a hamis nyugalomnapot fogadják el." "A Teremtő céllal engedi meg a szerencsétlenségeket. Ezek az eszközök az emberek figyelmeztetését szolgálják."</b>
+</summary>
+"Mit jelentenek a félelmetes tengeri szerencsétlenségek, amikor pillanatok alatt sodródnak a hajók végső pusztulásukba? Mire utalnak a szárazföldi balesetek, a tűzesetek, amelyek megemésztik a szegények elnyomása árán felhalmozott gazdagságot? <b>Az Úr nem akar beavatkozni, hogy megvédje azok javait, akik áthágják törvényét, megtörik szövetségét és megtapodják szombatját, és helyette a hamis nyugalomnapot fogadják el.</b>" {LDE 27.4}<br>
+"<b>A Teremtő céllal engedi meg a szerencsétlenségeket. Ezek az eszközök az emberek figyelmeztetését szolgálják.</b> A természet szokatlan megnyilvánulásai által, Isten mint világos kinyilatkoztatásokkal szólítja meg a kétkedő emberiséget (19MR, 1902, 279. o.)." {LDE 28.2}
+</details>
 
 ## Vasárnaptörvény
 
-A Jel. 13. fejezetében szereplő fenevad bélyege jelképezi a vasárnaptörvényt.
+<details><summary>
+A Jel. 13. fejezetében szereplő fenevad bélyege jelképezi a vasárnaptörvényt, bizonyítás a következő alfejezetben.
+</summary>
+Jel 13:11 Azután láték más fenevadat feljőni a földből, akinek két szarva vala, a Bárányéhoz hasonló, de úgy szól vala, mint a sárkány;<br>
+Jel 13:16 Azt is teszi mindenkivel, kicsinyekkel és nagyokkal, gazdagokkal és szegényekkel, szabadokkal és szolgákkal, hogy az ő jobb kezükre vagy a homlokukra <b>bélyeg</b>et tegyenek;<br>
+Jel 13:17 És hogy senki se vehessen, se el ne adhasson [semmit], hanem csak akin <b>a fenevad bélyege</b> van, vagy neve, vagy nevének száma.
+</details>
 
+<details><summary>
 A vasárnap szentsége a spiritiszta világvallás egyik tana lesz.
+</summary>
+"E két nagy tévedéssel – <i>a lélek halhatatlanságával</i> és <b>a vasárnap szentségével</b> fogja Sátán az embereket csalásainak foglyává tenni. Míg az előbbi <i>a spiritizmus alapját rakja le</i>, az utóbbi <b>Rómával hozza közös nevezőre az embereket</b>." {GC 588.1}
+</details>
 
-A balesetekért, szerencsétlenségekért, természeti csapásokért, és az erkölcsi romlottságért is Isten népét fogják okolni, akik nem hajlandók vasárnapot ünnepelni és ezért Isten haragja sújtja az emberiséget, és erre hivatkozva, megoldásként szigorú törvényekkel akarják majd kötelezővé tenni a vasárnap megünneplését. "A bibliai szombat tisztelőit a törvény és a rend ellenségeinek fogják nevezni, akik ledöntik a társadalom erkölcsi korlátait, felfordulást és erkölcsi romlást okoznak, és Isten csapásait hozzák a földre."
+<details><summary>
+A balesetekért, szerencsétlenségekért, természeti csapásokért, és az erkölcsi romlottságért is Isten népét fogják okolni, akik nem hajlandók vasárnapot ünnepelni, és ezért Isten haragja sújtja az emberiséget, és erre hivatkozva, megoldásként szigorú törvényekkel akarják majd kötelezővé tenni a vasárnap megünneplését. "A bibliai szombat tisztelőit a törvény és a rend ellenségeinek fogják nevezni, akik ledöntik a társadalom erkölcsi korlátait, felfordulást és erkölcsi romlást okoznak, és Isten csapásait hozzák a földre."
+</summary>
+"A nagy csaló el fogja hitetni az emberekkel, hogy e bajokat Isten szolgái okozzák. ... Azt állítják, hogy Istent sérti a vasárnapi nyugalomnak megszentségtelenítése; hogy ez a bűn csapásokat von maga után, amelyek addig tartanak, amíg a vasárnap megtartását szigorú törvények nem teszik kötelezővé; hogy akik a negyedik parancsolat hangoztatásával aláássák a vasárnap iránti tiszteletet, azok az emberiség bajkeverői, akik megfosztják a világot Isten kegyelmétől, és a földet a jóléttől. ..." {GC 590.1}<br>
+"Sátán a saját magyarázatát fűzi az eseményekhez, és az emberek azt gondolják majd, amit ő szeretne: elhiszik, hogy az országot betöltő csapások a vasárnap megrontásának következményei. Abban a hitben, hogy Isten haragját lecsillapítják, ezek a befolyásos emberek törvényeket hoznak a vasárnapünneplés kikényszerítésére (10MR, 1899, 239. o.)." {LDE 129.4}<br>
+"... emberek azt állítják, hogy <b>a rohamosan terjedő romlottság jórészt az úgynevezett „keresztény szombat” megszentségtelenítésének tulajdonítható</b>, és hogy a vasárnap megtartásának kikényszerítésével nagy mértékben megjavulnának a társadalom erkölcsei. Ez az állítás különösen Amerikában hangzik, ahol az igazi szombat tantételét legtöbbet prédikálják. Az egyik legkimagaslóbb és legfontosabb erkölcsi reform, <b>a mértékletességi munka itt gyakran kapcsolódik a vasárnapmozgalomhoz</b>. Az utóbbi képviselői azt állítják önmagukról, hogy a társadalom legfőbb érdekeinek előmozdításán fáradoznak. Azokat pedig, <b>akik nem hajlandók összefogni velük, a mértékletesség és a reform ellenségeinek bélyegzik</b>. ..." {GC 587.1}<br>
+"... Sátán megkísérli Isten törvényének tisztelőit elpusztítani. Törvényszegőknek bélyegezteti őket, akik meggyalázzák Istent, és csapásokat hoznak a világra." {GC 591.1}<br>
+"<b>A bibliai szombat tisztelőit a törvény és a rend ellenségeinek fogják nevezni, akik ledöntik a társadalom erkölcsi korlátait, felfordulást és erkölcsi romlást okoznak, és Isten csapásait hozzák a földre.</b> Lelkiismereti aggályaikat megátalkodottságnak, konokságnak és a felsőbbség semmibevevésének bélyegzik. Állampolgári hűtlenséggel fogják vádolni őket. Az Isten törvényének kötelező érvényét megtagadó lelkészek a szószékről fogják hirdetni, hogy engedelmességgel tartozunk a polgári hatalmaknak, mint Istentől rendelt tekintélynek. Törvényhozó testületek és bíróságok a parancsolatok megtartóit hamis színben tüntetik fel és elítélik. Szavaikat kiforgatják, és indítékaikat a lehető legrosszabbnak tartják." {GC 592.1}
+</details>
 
+Egy prófécia beazonosítása: "A Jelenések könyve 13. fejezetének próféciája kijelenti, hogy a  bárányszarvú fenevad által jelképezett hatalom **„azt cselekszi,  hogy a föld és annak lakosai imádják” a pápaságot**, amelyet itt a  „párduchoz hasonló” fenevad szimbolizál… **Ez a jövendölés akkor  teljesedik be**, amikor az Egyesült Államok kényszeríteni fogja  lakosait a vasárnap megtartására, amelyre Róma a maga  felsőbbsége elismerésének különleges jeleként tart igényt…" {LDE  129.2}
+
+<details><summary>
 "A szellemvilág követei azt állítják magukról, hogy a menny küldöttei, akiket Isten azzal bízott meg, hogy a vasárnap megtagadóit meggyőzzék tévedésükről, és arról, hogy az ország törvényeinek az Isten törvényének kijáró engedelmességgel tartoznak. Ezek a lények keseregni fognak a világ romlottsága miatt, és a vallástanítókkal együtt ők is vallják, hogy az erkölcstelenség oka a vasárnap meggyalázása."
+</summary>
+"A spiritizmusban megmutatkozó csodatevő hatalom azok ellen fogja érvényesíteni befolyását, akik inkább Istennek engedelmeskednek, mint embereknek. A szellemvilág követei azt állítják magukról, hogy a menny küldöttei, akiket Isten azzal bízott meg, hogy a vasárnap megtagadóit meggyőzzék tévedésükről, és arról, hogy az ország törvényeinek az Isten törvényének kijáró engedelmességgel tartoznak. Ezek a lények keseregni fognak a világ romlottsága miatt, és a vallástanítókkal együtt ők is vallják, hogy az erkölcstelenség oka a vasárnap meggyalázása. Nagy lesz a felháborodás azok ellen, akik bizonyságtételüket nem fogadják el." {GC 590.2}
+</details>
 
+<details><summary>
 A vasárnaptörvény nem felülről hanem alulról lesz kezdeményezve, azaz a nép követelésének engedve fogják kötelezővé tenni a vasárnap megtartását.
+</summary>
+"Az egyházi és állami méltóságok összefognak, hogy minden rendű és rangú embert rábeszéljenek; kényszerítsenek vagy megvesztegetéssel rávegyenek a vasárnap tiszteletben tartására. A mennyei tekintély hiányát zsarnoki rendeletekkel pótolják. A politikai korrupció kiöli a jogosság szeretetét és az igazság tiszteletét. Még a szabad Amerikában is a hatalmasságok és a törvényhozók, <b>hogy a nép kegyét megnyerjék, követelésének engedve</b> kötelezővé teszik a vasárnap megtartását. A lelkiismereti szabadságot, amelynek oly nagy volt az ára, már nem tartják tiszteletben. A nemsokára meginduló küzdelemben teljesedik e prófétai kijelentés: „Megharaguvék azért a sárkány az asszonyra, és elméne, hogy hadakozzék egyebekkel az ő magvából valókkal, az Isten parancsolatainak megőrzőivel, és akiknél vala a Jézus Krisztus bizonyságtétele” (Jel. 12:17)." {GC 592.3}<br>
+"Azok, akik igyekeznek Isten parancsolatainak engedelmeskedni, gúnynak és támadásnak lesznek kitéve. Csak Isten segítségével állhatnak meg. ..." {GC 593.2}<br>
+"A politikai korrupció kiöli a jogosság szeretetét és az igazság tiszteletét. Még a szabad Egyesült Államokban is eljön az idő, amikor hatalmasságok és törvényhozók engedni fognak a vasárnap megtartását törvénnyel kikényszeríteni akaró <b>tömeges igény</b>nek, hogy így elnyerhessék <b>a közvélemény támogatását</b> (GC, 1911, 578–579, 592. o.)." {LDE 129.3}<br>
+"<b>Azért, hogy népszerűséget és pártfogókat szerezzenek</b>, a törvényhozók <b>behódolnak</b> a vasárnapra vonatkozó <b>követelések előtt</b>… Isten parancsolatait megsértve kötelezővé teszik a pápaság intézményét, és ezzel a rendelettel nemzetünk végérvényesen elszakad az igazságosságtól…" {LDE 132.4}
+</details>
 
-"„Az ő paráznaságának haragborából adott inni minden pogány népnek” (Jel 14:8). Hogyan teszi ezt? Úgy, hogy az embereket rákényszeríti a hamis szombat elfogadására (8T, 1904, 94. o.)." Ennek az itatásnak "kivétel nélkül minden ország részese lesz".
+<details><summary>
+"„Az ő paráznaságának haragborából adott inni minden pogány népnek” (Jel 14:8). Hogyan teszi ezt? Úgy, hogy az embereket rákényszeríti a hamis szombat elfogadására (8T, 1904, 94. o.)." {LDE 198.2} Ennek az itatásnak "kivétel nélkül minden ország részese lesz".
+</summary>
+"Isten vádolja Babilont, „mert az ő <b>paráznaság</b>ának haragborából adott inni <b>minden</b> pogány népnek”…" {LDE 123.1} (Jel 14:8)<br>
+"A Mindenható hat nap alatt teremtette a világot, a hetediken pedig megnyugodott, megszentelve azt; és szentként különítette el magának a többitől, hogy népe azt nemzedékről nemzedékre megünnepelje. De a bűn embere – Isten fölé magasztalva magát és beülve Isten templomába, hol isten gyanánt mutogatja magát – úgy véli, hogy megváltoztathatja az időket és a törvényt. Ez a hatalom azt gondolja, hogy képes bebizonyítani, nemcsak egyenlő Istennel, de fölötte is áll – így <b>megváltoztatta a nyugalomnapot: a hét első napját helyezte a hetedik helyébe. A protestáns világ pedig szentnek tekintette a pápaságnak e gyermekét.</b> A Szentírás ezt <b>paráznaság</b>nak hívja (Jel 14:8) (7BC, 1900, 979. o.)." {LDE 123.2}<br>
+"Nagy és döntő események színtere lesz az úgynevezett keresztény világ. A lelkiismeret ellenőrzése érdekében – a pápai hatalom példája alapján törvényeket hoznak a hatalomon lévő emberek. Babilon <b>az összes nemzetet</b> a paráznaság haragborával itatja. <b>Ennek kivétel nélkül minden ország részese lesz.</b> Erről az időről jelenti ki János, a próféta (Jel 18:3-7; 17:13-14): „Ezeknek egy a szándékuk…”, az <b>egyetemes szövetség</b>, egyetlen nagy harmónia, <b>a sátáni erők egyesülése</b>. ..." {LDE 136.4}
+</details>
 
-"A protestáns egyházak a vasárnapünneplés erőltetésével kierőszakolják a pápaság imádását…"
+**Mikor omlik le Babilon?** Jel 14:8 "És más angyal követé azt, mondván: Leomlott, leomlott  Babilon, a nagy város! **mert az ő paráznaságának haragborából  adott inni minden pogány népnek**." "Még mindig nem mondhatjuk azonban, hogy „paráznaságának  haragborából adott inni minden pogány népnek”. **Még nem itatott  meg minden népet**…" {LDE 198.3} "**Amíg ez az állapot nem következik be, illetve az egyház és a  világ egyesülése nem valósul meg teljes egészében a  kereszténységen belül, addig Babilon bukása nem lesz teljessé.  A változás fokozatos**, és a Jelenések 14:8-ban leírt jövendölés  tökéletes beteljesedése a jövő eseménye (GC, 1911, 389–390. o.)."  {LDE 198.4}
 
-A protestáns világ a fenevad képmása lesz. Mikor? A kegyelemidő lezárulása előtt, "Amikor az Egyesült Államok legjelentősebb egyházai a közösen vallott tantételekben egységre jutva arra befolyásolják az államot, hogy tegye kötelezővé rendelkezéseiket, és tartsa fenn létesítményeiket, akkor már a protestáns Amerika megformálta a római hierarchia hasonmását; aminek elkerülhetetlen a következménye, hogy a polgári hatóság büntetést mér az eltérő véleményt valló emberekre…"
+<details><summary>
+A bukott protestantizmus Rómának dolgozik. "A protestáns egyházak a vasárnapünneplés erőltetésével kierőszakolják a pápaság imádását…"
+</summary>
+"A protestánsok a pápisták nyomdokaiba lépnek azokban a mozgalmakban, amelyek most az Egyesült Államokban mindinkább afelé törekednek, hogy az egyház intézményeihez és ünnepeihez az állam támogatását biztosítsák. Sőt, mi több, <b>kitárják az ajtót a pápaság előtt</b>, hogy az a protestáns Amerikában nyerhesse vissza az Óvilágban elveszített vezető hatalmát (GC, 1911, 573. o.)." {LDE 132.3}<br>
+"A protestánsok minden befolyásukat és erejüket latba vetik a pápaság oldalán. <b>A hamis szombatot kikényszerítő országos rendelettel életet és erőt visznek Róma romlott hitébe</b>, felélesztve a zsarnokságot és a lelkiismeretet elnyomó hatalmat (Mar, 1893, 179. o.)." {LDE 128.3}<br>
+"<b>A protestantizmus baráti jobbot nyújt majd a római hatalomnak. Ezt követően törvényt hoznak Isten teremtésének szombatja ellen</b>, és ekkor jön el az ideje, hogy az Üdvözítő elvégezze majd „szokatlan munkáját” a földön (7BC, 1886, 910. o.)." {LDE 130.1}<br>
+"Nem tudjuk, hogyan képes magát tisztázni <b>a Római Katolikus Egyház</b> a bálványimádás vádja alól… És ez az a vallás, amelyre a protestánsok kezdenek olyan nagy jóindulattal tekinteni, amely <b>végül egyesül a protestantizmussal</b>. Ez az egység azonban nem a katolicizmus átalakulásának eredményeként jön létre, mert Róma sohasem változik. A tévedhetetlenség igényével lép fel. <b>A protestantizmus idomul hozzá. Elfogadja a liberális eszméket</b>, és ezzel olyan helyzetbe kerül, hogy kezet foghat a katolicizmussal (RH, 1886. június 1.)." {LDE 130.2}<br>
+"<b>Az állítólagos protestáns világ szövetségre lép a bűn emberével</b>, és ebből kifolyólag az egyház és a világ romlott összhangba kerül egymással (7BC, 1891, 975. o.)." {LDE 130.3}<br>
+"A hitehagyó protestantizmus az Újvilágban az Óvilág katolikusaihoz hasonlóan fog eljárni azokkal szemben, akik Isten minden rendelkezését tiszteletben tartják (GC, 1911, 616. o.)." {LDE 130.4}<br>
+"<b>A protestáns egyházak a vasárnapünneplés erőltetésével kierőszakolják a pápaság imádását</b>…" {LDE 131.2}
+</details>
 
-"a vasárnapünneplés törvénybe iktatása az Egyesült Államokban a fenevad és képe imádását teszi kötelezővé (GC, 1911, 445, 448–449. o.)."
+<details><summary>
+A protestáns világ a fenevad képmása lesz. Mikor? A kegyelemidő lezárulása előtt, "Amikor az Egyesült Államok legjelentősebb egyházai a közösen vallott tantételekben egységre jutva arra befolyásolják az államot, hogy tegye kötelezővé rendelkezéseiket, és tartsa fenn létesítményeiket, akkor már a protestáns Amerika megformálta a római hierarchia hasonmását; aminek elkerülhetetlen a következménye, hogy a polgári hatóság büntetést mér az eltérő véleményt valló emberekre…" {LDE 131.1}
+</summary>
+Jel 13:14  "És elhiteti a földnek lakosait a jelekkel, amelyek adatának neki, hogy cselekedje a fenevad előtt; azt mondván a föld lakosainak, hogy csinálják meg a fenevadnak képét, aki fegyverrel megsebesíttetett vala, de megelevenedett."<br>
+Jel 13:15  "És adaték neki, hogy a fenevad képébe lelket adjon, hogy a fenevad képe szóljon is, és azt művelje, hogy mindazok, akik nem imádják a fenevad képét, megölessenek,"<br>
+"Akik nem hajolnak meg az országos testületek rendelései előtt, és nem engedelmeskednek a nemzeti törvényeknek sem, amelyek a bűn embere által létesített szombat magasztalását és Isten szent napjának semmibe vételét írják elő, nemcsak a pápaság elnyomó hatalmát fogják magukon érezni, hanem <b>a protestáns világ</b>ét is, amely <b>a fenevad képmása</b> (2SM, 1886, 380. o.)." {LDE 145.1}<br>
+"A fenevad képe a hitehagyó protestantizmusnak azt a formáját ábrázolja, amely akkor alakul ki, amikor a protestáns egyházak dogmáik megtartatásához a polgári hatalom segítségére igényt formálnak (GC, 1911, 443, 445. o.)." {LDE 228.3}<br>
+"<b>Az Úr világosan megmutatta nekem, hogy a fenevad képét a kegyelemidő lezárulása előtt fogják létrehozni</b>, mert ez lesz majd a nagy próba Isten népe számára, amely eldönti örök sorsukat (2SM, 1990, 81. o.)." {LDE 227.3}<br>
+"... De hogy az Egyesült Államok megformálhassa a fenevad képmását, a polgári kormányzatot a vallás uralma alá kell vonnia, hogy az egyház az állami hatalmat is saját céljainak szolgálatába állíthassa…" {LDE 228.2}<br>
+"Amikor az állam arra használja fel majd hatalmát, hogy érvényt szerezzen az egyház rendeleteinek, és fenntartsa intézményeit akkor ezzel a protestáns Egyesült Államok kialakítja a pápaság képmását. Ezt nemzeti hitehagyás követi, amely az ország pusztulásába vezet (7BC, 1910, 976. o.)." {LDE 134.4}<br>
+"Pontosan azzal az eljárásukkal, hogy a vallási kötelezettségeket a világi hatalom erejével kényszerítik, maguk az egyházak formálják meg a fenevad képmását; ezért aztán <b>a vasárnapünneplés törvénybe iktatása az Egyesült Államokban a fenevad és képe imádását teszi kötelezővé</b> (GC, 1911, 445, 448–449. o.)." {LDE 131.3}
+</details>
 
+"a vasárnapünneplés törvénybe iktatása az Egyesült Államokban a fenevad és képe imádását teszi kötelezővé (GC, 1911, 445, 448–449. o.)." {LDE 131.3}
+
+<details><summary>
 Először az AEÁ-ban lesz vasárnaptörvény, aztán az AEÁ ráveszi a többi népet "a föld minden népét" -, hogy kövessék a példájukat. A vasárnaptörvény "kiterjed az egész világra".
+</summary>
+"Amikor a vallásszabadság hazája, az Egyesült Államok egyesül majd a pápasággal a lelkiismeret elnyomásában, és arra kényszeríti az embereket, hogy hamis szombatot tiszteljenek, <b>a föld minden népét ráveszik</b>, hogy kövessék a példájukat (6T, 1900, 18. o.)." {LDE 135.1}<br>
+"A történelem megismétli önmagát: hamis vallást fognak felmagasztalni – a hét első napját, egy közönséges munkanapot, amely semmiféle szentséggel nem rendelkezik, és úgy állítják fel, mint egykor a babiloni állóképet. Majd megparancsolják minden nemzetnek, nyelvnek és népnek, hogy imádják ezt a hamis szombatot… <b>Az a rendelet, amely kötelezővé teszi ennek a napnak a megünneplését, kiterjed az egész világra</b> (7BC, 1897, 976. o.)." {LDE 134.5}<br>
+"A szombat kérdése áll annak a végső nagy összecsapásnak a középpontjában, amelyben <b>az egész világ részt vesz</b> (6T, 1900, 352. o.)." {LDE 135.2}<br>
+"Más nemzetek is követni fogják <b>az Egyesült Államok</b> példáját. Bár ez az ország <b>jár az élen</b>, mégis ugyanaz a válság következik <b>a világ minden részén</b> népünkre (6T, 1900, 395. o.)." {LDE 135.3}<br>
+"Az adventisták vívják meg a harcot a hetedik napi szombatért folyó csatában. Az Egyesült Államok <b>és más országok hatóságai</b> büszkeségükben és hatalmukban felkelnek, hogy törvényeket alkossanak a vallásszabadság korlátozására (Ms, 78, 1797.)." {LDE 144.3}<br>
+"A dráma utolsó felvonásaként az igazat felváltják a hamissal. Amikor <b>a csere egyetemessé válik</b>, megnyilatkozik az üdvözítő Krisztus. Amikor az emberi törvényeket az Úr törvénye fölé emelik, amikor a <b>földi hatalmak</b> megpróbálják ráerőszakolni a <b>népekre</b> a hét első napjának megtartását, tudd meg, hogy eljött Isten cselekvésének ideje! (7BC, 1901, 980. o.)." {LDE 135.4}<br>
+"A Mindenható parancsolatainak és rendeléseinek emberi törvényekkel történő helyettesítése, pusztán emberi tekintélyt felhasználva a vasárnapnak a bibliai szombat helyére emelése, <b>az utolsó felvonás a drámában</b>. Amikor a vasárnap felmagasztalása <b>egyetemessé válik</b>, Isten megnyilatkozik. Felkel fenségében, hogy rettenetesen megrázza a földet (7T, 1902, 141. o.)." {LDE 135.5}<br>
+"Nagy és döntő események színtere lesz az úgynevezett keresztény világ. A lelkiismeret ellenőrzése érdekében – a pápai hatalom példája alapján törvényeket hoznak a hatalomon lévő emberek. Babilon <b>az összes nemzetet</b> a paráznaság haragborával itatja. <b>Ennek kivétel nélkül minden ország részese lesz.</b> Erről az időről jelenti ki János, a próféta (Jel 18:3-7; 17:13-14): „Ezeknek egy a szándékuk…”, az <b>egyetemes szövetség</b>, egyetlen nagy harmónia, <b>a sátáni erők egyesülése</b>. „Erejüket és hatalmukat is a fenevadnak adják.” Ekként nyilvánul meg ugyanaz az <b>önkényes, elnyomó hatalom a vallásszabadság ellen</b> – a szabadság ellen, hogy Istent a lelkiismeret szava szerint imádják –, amely már a pápaság idején is megnyilvánult, mikor a múltban üldözte azokat, akik vissza merték utasítani a római katolicizmus vallásos rítusaihoz és a ceremóniákhoz való alkalmazkodást (3SM, 1891, 392. o.)." {LDE 136.4}<br>
+"<b>Az egész keresztény világ</b> részese lesz a hit és a hitetlenség között dúló nagy küzdelemnek (RH, 1893. február 7.)." {LDE 137.1}<br>
+"A kereszténység <b>két nagy csoportra oszlik</b>: akik megtartják Isten parancsolatait és Jézus hitét, és akik a fenevadat és annak képét imádják, és annak bélyegét magukra veszik (GC, 1911, 450. o.)." {LDE 137.2}
+</details>
 
+<details><summary>
 A vasárnaptörvény globális bevezetése (amikor egyetemessé válik a világban) lesz "az utolsó felvonás a drámában".
+</summary>
+"A Mindenható parancsolatainak és rendeléseinek emberi törvényekkel történő helyettesítése, pusztán emberi tekintélyt felhasználva a vasárnapnak a bibliai szombat helyére emelése, <b>az utolsó felvonás a drámában. Amikor a vasárnap felmagasztalása egyetemessé válik</b>, Isten megnyilatkozik. Felkel fenségében, hogy rettenetesen megrázza a földet (7T, 1902, 141. o.)." {LDE 135.5}
+</details>
 
+<details><summary>
 "Az egész keresztény világ" "két nagy csoportra oszlik: akik megtartják Isten parancsolatait és Jézus hitét, és akik a fenevadat és annak képét imádják, és annak bélyegét magukra veszik".
+</summary>
+"<b>Az egész keresztény világ</b> részese lesz a hit és a hitetlenség között dúló nagy küzdelemnek (RH, 1893. február 7.)." {LDE 137.1}<br>
+"A kereszténység <b>két nagy csoportra oszlik</b>: akik megtartják Isten parancsolatait és Jézus hitét, és akik a fenevadat és annak képét imádják, és annak bélyegét magukra veszik (GC, 1911, 450. o.)." {LDE 137.2}
+</details>
 
+<details><summary>
 A vasárnaptörvény nem csupán arról szól, hogy vasárnap nem szabad dolgozni, hanem az rákényszeríti az embereket a vasárnap "szent napként való megünneplés"ére.
+</summary>
+"Nagy válság elé néz Isten népe. Nagyon közel az idő, amikor nemzetünk megkísérli <b>mindenkire rákényszeríteni a hét első napjának szent napként való megünneplését</b>. Nem fognak habozni, hogy az embereket saját lelkiismeretükkel szemben <b>kényszerítsék a nemzet által szombatnak kinevezett nap megünneplésére</b> (RHExtra, 1888. december 11.)." {LDE 144.2}
+</details>
 
+<details><summary>
 A vasárnaptörvény jel lesz Isten népe számára, hogy hagyják el a nagyvárosokat, de ez előtt is érdemes vidékre költözni önellátás gyakorlásának céljából.
+</summary>
+"<b>A Teremtő azt szeretné, ha népe vidékre költözne, ahol letelepedne, saját gyümölcsöt, zöldséget termesztene</b>, és gyermekeik közvetlen kapcsolatba kerülhetnének Isten alkotásaival a természetben. Vigyétek el családjaitokat a városokból, ez az üzenetem! (2SM, 1902, 357–358. o.)." {LDE 99.3}<br>
+"<b>Az Úr újból és újból arra utasította népét, költözzön vidékre, ahol megtermelheti magának a szükségeset, mert a vétel és az eladás nagyon komoly problémát fog jelenteni a jövőben.</b> Kezdjük el komolyan venni az újból elismételt felszólítást: menjetek ki a városokból a vidéki tájakra, ahol nincsenek egymás mellé zsúfolva a házak, és ahol ellenséges zavargásoktól mentesen élhettek (2SM, 1904, 141. o.)." {LDE 99.4}<br>
+“Nincs már túl messze az az idő, amikor kénytelenek leszünk a régi tanítványokhoz hasonlóan puszta és magányos helyen keresni menedéket. <b>Ahogy</b> a Jeruzsálemben tartózkodó keresztényeknek a római hadsereg ostroma volt a menekülés jele, <b>úgy</b> minket az a hatalomátvétel figyelmeztet országunk részéről, amely <b>a pápaság szombatját kényszerítő rendeletben nyilvánul meg. Ez lesz a nagyvárosok elhagyásának ideje</b>, még a kisebb települések elhagyása előtt – viszont majd azokat is magányosabb otthonokra kell cserélni a hegyek között, félreeső helyeken (5T, 1885, 464–465. o.).” {LDE 121.1}
+</details>
 
+<details><summary>
 Nagy vita lesz a világban a szombat körül, Isten népének ez lehetőség lesz bizonyságot tenni a szombatról.
+</summary>
+"Az utolsó napok háborúságaiban egységesen felsorakoznak Isten népével szemben mindazon romlott erők, akik feladták a Jahve törvénye iránti hűséget. <b>A nagy vita</b> a negyedik parancsolat szombatja körül forog majd ebben a harcban, mert az örök Törvényadó a szombat parancsában nevezi magát a menny és a föld teremtőjének (3SM, 1891, 392. o.)." {LDE 124.1}<br>
+"<b>„Az én szombatjaimat bizony megtartsátok; mert jel az énközöttem és tiközöttetek nemzetségről nemzetségre, hogy megtudjátok… én vagyok az Úr, aki megszentellek titeket” (2Móz 31:13).</b> Néhányan akadályokat próbálnak majd gördíteni a szombat megünneplésének útjába, ezzel az indokkal: „Nem tudod, melyik nap a szombat”, azt azonban tudni vélik, mikor van vasárnap, és rendkívül buzgók az olyan törvények beiktatásában, amelyek kötelezővé teszik annak <b>megünneplését</b> (KC, 1900, 148. o.)." {LDE 124.2}<br>
+"Az Úrnak engedelmeskedők buzgalma mind jobban növekszik majd, amikor a világ és az egyház egyesül a törvény érvénytelenítése érdekében. Az Isten parancsolatai ellen felhozott minden ellenvetés csak az igazság előrehaladásának készíti az utat, és képessé teszi védelmezőit, hogy bemutassák értékét az emberek előtt. Az igazságban szépség és erő rejlik, amit semmi sem tesz olyannyira nyilvánvalóvá, mint az ellenállás és az üldöztetés (13MR, 1896, 71–72. o.)." {LDE 140.4}<br>
+"Mikor olyan nagy igyekezettel akarják kikényszeríteni a vasárnap megünneplését, ez lesz a legjobb alkalom, hogy a világnak bemutassuk az igazi szombatot a hamis ellenében. Az Úr a gondviselésében messze előttünk jár. Megengedte, hogy ezt a kérdést erővel központi problémává tegyék, hogy a törvényhozó testületek előtt alkalom nyíljék a negyedik parancsolat szombatjának bemutatására. Így a nemzet vezetőinek figyelmét az Örökkévaló szavainak bizonyságtételére irányíthatják, az igaz szombat érdekében (2MR, 1890, 197. o.)." {LDE 141.1}
+</details>
 
+<details><summary>
 A szombatot megtartó nép kisebbségben lesz, és a világ haragja "felgerjed a hetednapi adventisták ellen", és "a maroknyi kisebbség az egyetemes gyűlölet tárgyává válik". E gyűlölet eredményeképpen rendeletet "adnak ki a parancsolatok megtartói ellen", ami "megfosztja őket a kormányzat védelmétől", aminek hatására Isten népe elmenekül a településekből a "legelhagyatottabb, legfélreesőbb helyek"re.
+</summary>
+"Akik lábbal tapossák Isten törvényét, emberi törvényeket hoznak, és azok elfogadására kényszerítik az embereket. Kigondolják, megtanácskozzák és eltervezik, mit fognak tenni. Az egész világ vasárnapot ünnepel, mondják, <b>miért ne tartaná be az ország törvényeit ez a szám szerint kicsiny nép is?!</b> (Ms, 1897, 163. o.)." {LDE 136.3}<br>
+"<b>A világ felgerjed a hetednapi adventisták ellen</b>, mert ők nem hódolnak a pápaság előtt azzal, hogy tiszteletben tartják a vasárnapot, az antikrisztusi hatalom intézményét (TM, 1893, 37. o.)." {LDE 136.2}<br>
+"Súlyos megtévesztés alatt állnak azok a vallási testületek, amelyek nem hajlandóak meghallani Isten figyelmeztető üzeneteit, és egyesülnek a polgári hatalommal a szentek üldözése céljából. <b>A protestáns egyházak összefognak a pápasággal a törvényt megtartó nép üldözésében</b>…" {LDE 145.2}<br>
+"Ez a bárányhoz hasonló hatalom lép szövetségre a sárkánnyal, hogy <b>háborút viseljen</b> mindazok ellen, akik megtartják Isten parancsolatait, és akiknél Jézus Krisztus bizonyságtétele van (14MR, 1899, 162. o.)." {LDE 145.3}<br>
+"Az egyház a polgári hatalom erős karjához folyamodik, és ebben a munkában <b>összefognak a katolikusok és a protestánsok</b> (GC, 1911, 607. o.)." {LDE 145.4}<br>
+"Miután a vallásos világban mindenütt különösen vitatott kérdéssé válik a szombat, majd az egyházi és világi hatalmasságok összefognak, hogy kikényszerítsék a vasárnapünneplést, <b>a maroknyi kisebbség az egyetemes gyűlölet tárgyává válik</b>, mivel kitartóan elutasítja a tömegek igénye iránti engedelmességet (GC, 1911, 615. o.)." {LDE 137.3}<br>
+"Amikor a rendelet, melyet a kereszténység különböző vezetői adnak ki a parancsolatok megtartói ellen, <b>megfosztja őket a kormányzat védelmétől</b>, és kiszolgáltatja őket a pusztulásukra törő embereknek, <b>Isten népe elmenekül</b> a városokból, a falvakból, és csoportokba verődve, a legelhagyatottabb, legfélreesőbb helyeken tartózkodik (GC, 1911, 626. o.)." {LDE 138.1}
+</details>
 
+<details><summary>
 Isten népét - akik nem hajlandók engedelmeskedni a vasárnaptörvénynek - üldözni fogják. Brutális üldözés lesz. Némelyeket bebörtönöznek, egyesek mártírhalált halnak.
+</summary>
+"<b>Mindazok, akik a földi történelem utolsó napjaiban élnek, megtudják majd, mit jelent az igazság ügyéért üldözést szenvedni.</b> A törvényszékeken igazságtalanság uralkodik. A bírák nem lesznek hajlandóak meghallgatni az Isten törvényeihez hűségesek mondandóját, mert tudják, a negyedik parancsolat mellett szóló érvek megdönthetetlenek. Ezt mondják: „Törvényünk van, és a mi törvényünk szerint meg kell halniuk.” Isten szava nekik semmit nem jelent. Hiszen náluk a „mi törvényünk” a legfőbb tekintély. Azoknak kedveznek majd, akik tiszteletben tartják ezt az emberi törvényt, de akik nem hajolnak meg a bálványszombat előtt, nem találnak jóindulatra (ST, 1898. május 26.)." {LDE 145.5}<br>
+"Mindazoknak, akik ebben a gonosz időben félelem nélkül szolgálják Istent a lelkiismeretük szerint, bátorságra, határozottságra, az Úr és Szava ismerésére lesz szükségük, mert akik hozzá hűek maradnak, azokat <b>üldözni fogják</b>, indítékaikat megkérdőjelezik, legjobb igyekezetüket félremagyarázzák, és nevüket, mint a gonoszét, megvetik (AA, 1911, 431–432. o.)." {LDE 147.1}<br>
+"Amikor Róma üldözte a protestánsokat, Jézus Krisztus vallása csaknem megsemmisült, de <b>ezt jóval felülmúlja majd</b>, amikor a protestantizmus és a pápaság egyesül (3SM, 1889, 387. o.)." {LDE 147.2}<br>
+"<b>Némelyeket bebörtönöznek</b>, mert megtagadják az Úr szombatjának megszentségtelenítését (PC, 1907, 118. o.)." {LDE 149.2}<br>
+"Az igazság egyes követőit, akik nem hajlandók megünnepelni a vasárnapot, börtönbe vetik, másokat elűznek hazájukból, egyesek pedig rabszolgasorsra jutnak. Az ember ezt most lehetetlennek tartja. De amikor Isten visszavonja mérséklő lelkét a földről, és a mennyei elveket gyűlölő ember Sátán hatalmába kerül, az események megdöbbentően fognak alakulni. A szív nagyon kegyetlen tud lenni, ha eltávozik belőle Isten félelme és szeretete (GC, 1911, 608. o.)." {LDE 149.3}<br>
+"A legjobb, amit tehetünk, hogy szoros kapcsolatba kerülünk Istennel, és ha Ő azt akarja, hogy <b>az igazságért mártíromságot szenvedjünk, az sokak üdvösségre vezetésének lehet az eszköze</b> (3SM, 1886, 420. o.)." {LDE 149.5}<br>
+"Nem egy embert bebörtönöznek, sokan elmenekülnek a városokból és falvakból, hogy az életüket mentsék, és <b>némelyek Krisztusért mártírhalált halnak</b> az igazság védelmében. (3SM, 1889, 397. o.)" {LDE 150.1}<br>
+"Az Isten törvényének megvédése érdekében folytonos küzdelem áll előttünk, a bebörtönzés kockázatával, javaink vagy akár az életünk elvesztésével. (5T, 1889, 712. o.)" {LDE 150.2}<br>
+"Mindenkitől meg akarják követelni, hogy az isteni törvény áthágásával engedelmeskedjen az emberi rendelkezéseknek. A hűségeseket megfenyegetik, feljelentik és elítélik. „<b>Szülők és testvérek is, rokonok és barátok is</b>” elárulják őket, sőt halálra adják őket (PK, 1914, 588. o.)." {LDE 150.3}<br>
+"<b>Nem kell a régi mártírok bátorságával és állhatatosságával rendelkeznünk, míg olyan helyzetbe nem kerülünk, amilyenben ők voltak… Ha az üldözések visszatérnek, megadatik majd a kegyelem, hogy a Lélek minden erejét mozgósítsuk, és ezzel igazi hősiességről tehessünk bizonyságot</b> (OHC, 1889, 125. o.)." {LDE 150.4}<br>
+"A tanítványok nem rendelkeztek a mártírok bátorságával és állhatatosságával, amíg erre a kegyelemre nem volt szükségük (DA, 1898, 354. o.)." {LDE 150.5}
+</details>
 
+<details><summary>
 Csak a fenevad bélyegét (vagy nevét, vagy nevének számát) viselők adhatnak-vehetnek majd.
+</summary>
+Jel 13:16 "Azt is teszi mindenkivel, kicsinyekkel és nagyokkal, gazdagokkal és szegényekkel, szabadokkal és szolgákkal, hogy az ő jobb kezükre vagy a homlokukra bélyeget tegyenek;"<br>
+Jel 13:17 "<b>És hogy senki se vehessen, se el ne adhasson [semmit], hanem csak akin a fenevad bélyege van, vagy neve, vagy nevének száma.</b>"<br>
+"A felhalmozott gazdagság hamarosan értéktelenné válik. Amikor <b>kiadják a rendeletet, hogy senki sem adhat és nem vehet</b>, hacsak nincs rajta a fenevad bélyege. Isten felszólít bennünket, hogy most tegyünk meg minden tőlünk telhetőt a világ figyelmeztetésére (RH, 1878. március 21.)." {LDE 148.2}<br>
+"Közeledik az idő, amikor semmilyen áron sem tudunk eladni. Hamarosan <b>kiadják a rendeletet, amely megtiltja az embereknek, hogy bárkitől vásároljanak vagy bárkinek eladjanak, hacsak az illetőn nincs a fenevad bélyege</b>. Röviddel ezelőtt ez majdnem megvalósult Kaliforniában, de csak a négy szél fújásának fenyegetése volt (Jel 7:1), mert még mindig féken tartja őket a négy angyal. Még nem készültünk el. Még mindig van munka, amit el kell végeznünk, és azután az angyalok parancsot kapnak, engedjék, hogy a négy szél fújjon a földre (5T, 1882, 152. o.)." {LDE 148.3}<br>
+"A Sátánnal folytatott küzdelem végső nagy összecsapásában az Istenhez hűségesek minden földi támogatást nélkülözni fognak. Mivel nem hajlandóak a világi hatalmaknak engedve az Úr törvényét áthágni, <b>megtiltják nekik, hogy vegyenek és adjanak</b> (DA, 1898, 93. o.)." {LDE 148.4}<br>
+"Sátán azt mondja: „Az élelem és ruházat hiányától félve csatlakoznak a világhoz Isten törvényének áthágásában. A föld teljes mértékben az uralmam alá kerül” (PK, 1914, 183–184. o.)." {LDE 149.1}
+</details>
 
 ## Isten pecsétje és a fenevad bélyege
 
 ### Isten pecsétje
 
-A Jel. 7. fejezete szerint addig nem lesz elengedve a négy szél, **azaz addig tartják féken a gonoszságot, amíg meg nem pecsételik Isten népét a homlokukon.**
+<details><summary>
+A Jel. 7. fejezete szerint addig nem lesz elengedve a négy szél, <b>azaz addig tartják féken a gonoszságot, amíg meg nem pecsételik Isten népét a homlokukon.</b>
+</summary>
+Jel 7:1 "Ezek után láték négy angyalt állani a földnek négy szegletén, a földnek négy szélét tartva, hogy szél ne fújjon a földre, se a tengerre, se semmi élőfára."<br>
+Jel 7:2 "És láték más angyalt feljőni napkelet felől, akinek kezében vala az élő Istennek pecséte; és nagy szóval kiálta a négy angyalnak, akinek adatott, hogy ártson a földnek és a tengernek,"<br>
+Jel 7:3 "Ezt mondván: Ne ártsatok se a földnek, se a tengernek, se a fáknak addig, míg meg nem pecsételjük a mi Istenünk szolgáit az ő homlokukon."
+</details>
 
-Továbbá Jel. 7. szerint **a megpecsételtek száma: 144 000**.
+<details><summary>
+Továbbá Jel. 7. szerint <b>a megpecsételtek száma: 144 000</b>.
+</summary>
+Jel 7:4 "És hallám a megpecsételtek számát: Száznegyvennégyezer, az Izrael fiainak minden nemzetségéből elpecsételve."
+</details>
 
-EW szerint "az Úr népét a homlokukon elpecsételik – de **ez nem valamilyen látható pecsét vagy bélyeg lesz, hanem az igazságban való megingathatatlan szellemi és lelki alap** –, …"
+EW szerint "az Úr népét a homlokukon elpecsételik – de **ez nem valamilyen látható pecsét vagy bélyeg lesz, hanem az igazságban való megingathatatlan szellemi és lelki alap** –, …" {LDE 219.4}
 
 ### A szombat megünneplése a pecsét megkapásának egyik feltétele, és a pecsét az Isteni védelem jele (ami ugyan emberi szemmel nem látható).
 
-"**Az élő Isten pecsétjét azokra helyezik, akik lelkiismeretesen megtartják az Úr szombatját**" **Miért? Mert "a Tízparancsolatból egyedül a negyedik viseli magán a nagy Törvényadó, a menny és a föld Teremtőjének pecsétjét". A "szombatnak a megünneplése lesz az Isten iránti hűségünk próbája".**
+<details><summary>
+<b>"Az élő Isten pecsétjét azokra helyezik, akik lelkiismeretesen megtartják az Úr szombatját". Miért? Mert "a Tízparancsolatból egyedül a negyedik viseli magán a nagy Törvényadó, a menny és a föld Teremtőjének pecsétjét". A "szombatnak a megünneplése lesz az Isten iránti hűségünk próbája".</b>
+</summary>
+"Az élő Isten pecsétjét azokra helyezik, akik lelkiismeretesen megtartják az Úr szombatját (7BC, 1897, 980. o.)." {LDE 220.1}<br>
+"Akik majd elnyerik homlokukra az élő Isten pecsétjét, azoknak meg kell tartaniuk a negyedik parancsolat szombatját (7BC, 1899, 970. o.)." {LDE 220.2}<br>
+"A szombat igazi megünneplése a menny iránti hűség jele (7BC, 1899, 981. o.)." {LDE 220.3}<br>
+"A Tízparancsolatból egyedül a negyedik viseli magán a nagy Törvényadó, a menny és a föld Teremtőjének pecsétjét (6T, 1900, 350. o.)." {LDE 220.4}<br>
+"A Mindenható emlékművének, az Édenben elrendelt hetedik napi szombatnak a megünneplése lesz az Isten iránti hűségünk próbája (Letter, 1900, 94.)." {LDE 220.5}
+</details>
 
 "Jel kerül az Örökkévaló népének minden tagjára, **ugyanolyan valóságosan**, ahogyan megjelölték a héber otthonok ajtaján a szemöldökfát, hogy megőrizzék magukat a pusztulástól. Isten kijelenti: „**És adám nékik a szombataimat is, hogy legyenek jegyül köztem és őközöttük; hogy megtudják, hogy én vagyok az Úr, az Ő megszentelőjük**” (Ez 20:12) (7BC, 1900, 969. o.)." {LDE 220.6}
 
 ### Milyen jellemű emberek kapnak pecsétet az Istentől?
 
+<details><summary>
 Csak azok, "akik Krisztuséhoz hasonló jellemmel rendelkeznek", akiknek "teljesen Jézus képmását kell visszatükrözniük".
+</summary>
+"Az élő Isten pecsétje csak azokra kerül, akik Krisztuséhoz hasonló jellemmel rendelkeznek (7BC, 1895, 970. o.)." {LDE 221.1}<br>
+"Akik megkapják az Úr pecsétjét, és védelmet élveznek a nyomorúság idején, teljesen Jézus képmását kell visszatükrözniük (EW, 1851, 1. o.)." {LDE 221.2}
+</details>
 
+<details><summary>
 "Törekszünk-e elérni az Ő teljességét, mind magasabbra és magasabbra jutva, megpróbálva elnyerni jellemének tökéletességét? Amikor a menny szolgái elérik ezt a pontot, akkor elpecsételtetnek a homlokukon. ... Tökéletesek lesznek benne, ..."
+</summary>
+"Küzdünk-e minden Istentől jövő erőnkkel, hogy eljussunk a Krisztus teljességével ékeskedő kor mértékére? Törekszünk-e elérni az Ő teljességét, mind magasabbra és magasabbra jutva, megpróbálva elnyerni jellemének tökéletességét? Amikor a menny szolgái elérik ezt a pontot, akkor elpecsételtetnek a homlokukon. A jegyző angyal kijelenti: „Elvégeztetett!” Tökéletesek lesznek benne, övéi a teremtés és a megváltás által (3SM, 1899, 427. o.)." {LDE 222.1}
+</details>
 
 ### Fenevad bélyege
 
@@ -342,11 +577,31 @@ Jel 13:16 "Azt is teszi mindenkivel, kicsinyekkel és nagyokkal, gazdagokkal és
 
 Jel 13:17 "És hogy senki se vehessen, se el ne adhasson [semmit], hanem csak akin a fenevad bélyege van, vagy neve, vagy nevének száma."
 
-**EW egyértelműen többször is a vasárnap megünneplésével azonosítja a fenevad bélyegét.**
+<details><summary>
+<b>EW egyértelműen többször is a vasárnap megünneplésével azonosítja a fenevad bélyegét.</b>
+</summary>
+"Isten egy népet mutatott Jánosnak, amely különbözött azoktól, akik a hét első napját ünnepelve imádják a fenevadat vagy annak képét. <b>A vasárnap megünneplése lesz a fenevad bélyege</b> (TM, 1898, 133. o.)." {LDE 223.4}<br>
+"<b>A fenevad bélyege a pápaság nyugalomnapja</b> (Ev, 1899, 234. o.)." {LDE 224.1}<br>
+"Amikor eljön a próba, világosan kitűnik, hogy mi <b>a fenevad bélyege: a vasárnap megtartása</b> (7BC, 1900, 980. o.)." {LDE 224.2}<br>
+"Isten jele vagy pecsétje a hetedik nap, a szombat, azaz a teremtés emlékünnepének megtartásában nyilvánul meg… <b>A fenevad bélyege</b> ezzel ellentétes: <b>a hét első napjának a megünneplése</b> (8T, 1904, 117. o.)." {LDE 224.3}
+</details>
 
-"Vasárnap nemcsak a kezükkel nem dolgozhatnak az emberek, hanem értelmükkel is el kell ismerniük a vasárnapot nyugalomnapként."
+"„Azt teszi mindenkivel, kicsinyekkel és nagyokkal… hogy az ő jobb *kezük*re  vagy **homlokuk**ra bélyeget tegyenek” (Jel 13:16). *Vasárnap* nemcsak a  *kezükkel nem dolgozhatnak* az emberek, hanem **értelmükkel is el kell  ismerniük a vasárnapot nyugalomnapként** (SpTBC, 1897, 6–7. o.)." {LDE  224.4}
 
+<details><summary>
+"Ránk akarják majd erőltetni a fenevad bélyegének felvételét."
+</summary>
+"Nincs már messze az az idő, amikor minden lélek próba elé kerül. <b>Ránk akarják majd erőltetni a fenevad bélyegének felvételét.</b> Akik lépésről lépésre engedtek a világ igényeinek és alkalmazkodtak szokásaihoz, azok inkább meghódolnak az éppen fennálló hatalmasságok előtt, mintsem kitegyék magukat a gúnyolódásnak és bántalmazásnak, a börtön- vagy halálbüntetésnek. <b>A küzdelem az isteni és az emberi parancsolatok megtartása között folyik.</b> Ekkoriban válik külön az egyházban az arany és a salak (5T, 1882, 81. o.)." {LDE 173.6}
+</details>
 ### "Csak két csoport létezhet." Valaki vagy az Isten pecsétjét vagy a fenevad bélyegét kapja meg, nincs harmadik opció. A két csoport közti nagy különbség, választóvonal az lesz, hogy az Istenhez tartozó csoport tagjai újjászületett emberek lesznek.
+
+<details><summary>
+Bizonyíték
+</summary>
+"<b>Csak két csoport létezhet.</b> Mindegyik megkülönböztető jegyet visel: az élő Isten pecsétjét <b>vagy</b> a fenevadnak és képének bélyegét (RH, 1900. január 30.)." {LDE 215.1}<br>
+"Az egész keresztény világ részese lesz a hit és a hitetlenség közötti nagy összecsapásnak. <b>Mindenki állást foglal.</b> Néhányan látszólag egyik oldalon sem bonyolódnak bele a viszályba. Úgy tűnhet, hogy <b>nem vetik el az igazságot, de nem fognak bátran kiállni a javaik elvesztése vagy a szemrehányástól való félelem miatt az Úrért. – Ők mindnyájan az Üdvözítő ellenségei közé számláltatnak</b> (RH, 1893. február 7.)." {LDE 215.2}<br>
+"Az idők végéhez közeledve a világosság és a sötétség gyermekei közötti határvonal egyre élesebben fog kirajzolódni. Mindinkább különböznek majd egymástól. Ezt az eltérést Jézus szavai fejezik ki: <b>„újonnan született”</b> – vagyis újjáteremtetett Krisztusban, meghalt a világnak és Istennek él. Ezek azok a falak, amelyek választóvonalat húznak a mennyei és a földi közé, és leírják a különbséget a világhoz tartozók és az abból kihívottak között. Ők a kiválasztottak és a becsesek Atyjuk szemében (SpTBC, 1882, 3. o.)." {LDE 215.3}
+</details>
 
 ### Miért olyan nagy jelentőségű dolog a Szombat megtartása?
 
@@ -356,30 +611,64 @@ Szombat: Isten tekintélyének jele.
 
 Vasárnap: Róma uralmának jele.
 
+"Az ember boldogságának nagy ellensége a kereszténység idején a negyedik parancsolatban rögzített szombatot sorozatos támadások célpontjává tette. **Sátán így szólt:** „Én Isten céljaival ellentétesen cselekszem. Követőimet felhatalmazom rá, hogy félretegyék az Úr emlékünnepét, a hetedik napi szombatot. Így megmutatom a világnak, hogy a menny által megszentelt és megáldott idő megváltozott. Többé nem él ez a nap az emberek emlékezetében. Azt teszem, hogy mindenki megfeledkezzék róla. Egy olyan napot állítok a helyére, amely nem hordja magán Isten hitelesítő pecsétjét illetve nem lehet jel az Örökkévaló és népe között. Arra késztetem majd a vasárnap elfogadóit, hogy e napnak tulajdonítsák azt a szentséget, amellyel Isten a szombatot ruházta fel” (PK, 1914, 183–184. o.)." {LDE 123.3}
+
 ### Kiről és mikor lehet mondani, hogy felvette a fenevad bélyegét?
 
-"Még senki sem vette magára a fenevad bélyegét".
+"Még senki sem vette magára a fenevad bélyegét (Ev, 1899, 234. o.)." {LDE  224.5}
 
+<details><summary>
 Addig nem lehet felvenni a fenevad bélyegét, míg ki nem adják a rendeletet a vasárnap imádásának kikényszerítésére.
+</summary>
+"A vasárnapünneplés most még nem a fenevad bélyege, és mindaddig nem is lesz az, amíg ki nem adják a rendeletet, amellyel az embereket a hamis nyugalomnap imádására kényszerítik. Elérkezik az idő, amikor ez a nap lesz a próba, de ez az idő most még nincs itt (7BC, 1899, 977. o.)." {LDE 224.6}
+</details>
 
-A rendelet idején is csak azok veszik magukra a fenevad bélyegét, akik már kaptak világosságot Isten törvényéről, és ennek ellenére választják az emberi törvényeket, tehát akiknek ismertetve lett a szombat igazsága és a szombat be nem tartásának következményei, de ennek ellenére a vasárnap imádását választják. "Isten büntetése csak akkor fog lesújtani, ha az ember már meggyőződhetett az igazságról, és azt tudatosan elutasította." "Mindenki eleget fog tudni ahhoz, hogy értelmesen dönthessen."
+<details><summary>
+A rendelet idején is csak azok veszik magukra a fenevad bélyegét, akik már kaptak világosságot Isten törvényéről, és ennek ellenére választják az emberi törvényeket, tehát akiknek ismertetve lett a szombat igazsága és a szombat be nem tartásának következményei, de ennek ellenére a vasárnap imádását választják. "Isten büntetése csak akkor fog lesújtani, ha az ember már meggyőződhetett az igazságról, és azt tudatosan elutasította. ... Mindenki eleget fog tudni ahhoz, hogy értelmesen dönthessen." {GC 605.1}
+</summary>
+"Isten azért adta az embereknek a szombatot, hogy jel legyen közte és közöttük, ezzel a hűségüket próbálja meg. Azok, akik az előttünk álló nagy válság idején is engedetlenek maradnak, és továbbra is emberi törvényeket emelnek a menny rendelkezése fölé, miután világosságot kaptak Isten törvényéről, magukra fogják venni a fenevad bélyegét (Ev, 1900, 235. o.)." {LDE 225.1}<br>
+"Másrészről pedig Isten törvénye, amely elrendeli a Teremtő nyugalomnapjának megtartását, követel engedelmességet, és kinyilatkoztatja mindazok megbüntetését, akik megsértik rendelkezéseit. {GC 604.2}<br>
+"Aki e félreérthetetlen <b>következmények ismeretében</b> lábbal tiporva Isten törvényét, emberi törvényeknek engedelmeskedik, az magára veszi a fenevad bélyegét, annak a hatalomnak a hűségjelét, amelynek Istent megtagadva engedelmeskedik. A menny intése így hangzik: „Ha valaki imádja a fenevadat és annak képét, és bélyegét felveszi vagy homlokára vagy kezére, az is iszik az Isten haragjának borából, amely elegyítetlenül töltetett az Ő haragjának poharába” (Jel. 14:9–10)." {GC 604.3}<br>
+"<b>De Isten büntetése csak akkor fog lesújtani, ha az ember már meggyőződhetett az igazságról, és azt tudatosan elutasította.</b> Sok embernek még soha nem volt alkalma meghallani a korunknak szóló különleges igazságokat. A negyedik parancsolat kötelező voltát még senki nem világította meg nekik igazán. De aki olvas minden szívben, és mérlegre tesz minden indítékot, nem engedi, hogy bárkinek is, aki tudni akarja az igazságot, téves fogalmai legyenek a küzdelem kimeneteléről. Isten nem kíván vak engedelmességet. <b>Mindenki eleget fog tudni ahhoz, hogy értelmesen dönthessen.</b> {GC 605.1}"
+</details>
 
+<details><summary>
 Tehát a fenevad bélyege felvételének két feltétele van:
+</summary>
+"Senkit sem fognak kárhoztatni, amíg nem nyert világosságot, és nem szembesült a negyedik parancsolatban foglalt kötelezettséggel. De amikor <b>a hamis szombatot kötelezővé tévő rendeletet kiadják</b>, és <b>a harmadik angyal hangos kiáltása óv a fenevad és annak képe imádásától</b>, világos választóvonalat húz a hamis és az igaz közé. <b>Ha valaki ekkor továbbra is folytatja a törvényszegést, magára veszi a fenevad bélyegét</b> (Ev, 1899, 234–235. o.)." {LDE 225.4}<br>
+"Amikor <b>a vasárnapünneplést törvény teszi kötelezővé</b>, és <b>a világ megvilágosodik az igazi szombat követelményét illetően</b>, ha valaki akkor szegi meg Isten törvényét, hogy olyan rendelkezésnek engedelmeskedjen, amely nem bír magasabb tekintéllyel Rómáénál, ezzel a pápaságot Isten fölé helyezi. Rómának hódol, és annak a hatalomnak, amely érvényt akar szerezni a Róma által elrendelt ünnepnek. – A fenevadat és annak képét imádja." {LDE 226.1}
+</details>
 
 - "a vasárnapünneplést törvény teszi kötelezővé"
 - "a világ megvilágosodik az igazi szombat követelményét illetően", "a harmadik angyal hangos kiáltása óv a fenevad és annak képe imádásától"
 
+<details><summary>
 Aki e feltételek teljesülésekor tudatosan választja (vagy folytatja) a vasárnap megünneplését, az magára veszi a fenevad bélyegét.
+</summary>
+"Ha az emberek elvetik az ünnepet, amelyet Isten a saját tekintélye jelének nyilvánított, és helyette azt tartják tiszteletben, amit Róma fennhatóságának jeléül választott, ezzel elfogadják a Róma iránti hódolat jelét: a fenevad bélyegét. Ez azonban nem történik meg, amíg a kérdést világosan az emberek elé nem tárják, és nem választottak Isten parancsolatai és az emberi rendeletek között. Aki ekkor is folytatja a törvényszegést, az magára veszi a fenevad bélyegét (GC, 1911, 449. o.)." {LDE 226.2}
+</details>
 
-"Ha valaki nem dolgozik vasárnap, az még nem jelenti a fenevad bélyegének felvételét…"
+"Ha valaki nem dolgozik vasárnap, az még nem jelenti a fenevad bélyegének felvételét…" {LDE  139.1}
 
+<details><summary>
 Ne dolgozzunk szándékosan vasárnap, nehogy bajt hozzunk magunkra, inkább végezzünk missziómunkát vasárnap.
+</summary>
+… Ahol az ellenállás annyira erős, hogy a munkavégzés üldözést támaszthatna, testvéreink tegyék ezt a napot az igazi missziómunka alkalmává! (SW, 1895, 69–70. o.)." {LDE 139.1}
+</details>
 
+<details><summary>
 Ha vállalkozásod eddig vasárnap is üzemelt, és arra kényszerítenek, hogy hagyd abba a munkát és zárd be a vállalkozásodat vasárnap, és ezt meg is teszed, "emiatt nem kerülsz összeütközésbe Isteneddel".
+</summary>
+"Ha idejönnének, és így szólnának: „hagyd abba a munkát, és zárd be a nyomdát vasárnap”, én nem mondanám, hogy „folytasd a nyomtatást”, mert emiatt <b>nem</b> kerülsz összeütközésbe Isteneddel! (Ms, 1898, 163. o.)." {LDE 139.2}
+</details>
 
 ### Az, hogy régen nem volt próba a szombat, nem jelenti azt, hogy akkor a jövőben sem lehet
 
+<details><summary>
 "Mivel olyan sok jó keresztény aludt el a hitben diadalmaskodva, anélkül, hogy megtartotta volna az igazi szombatot, egyesek kételkedtek, hogy az most próba lenne a számunkra…"
+</summary>
+"Láttam, hogy a szombat jelen próbája nem jöhetett el, amíg Jézus közbenjárása a szentélyben be nem fejeződött, és amíg be nem ment a második kárpit mögé; ezért azok a keresztények, akik a szentek szentjébe vezető ajtó kinyílása előtt aludtak el, amikor az éjféli kiáltás lezárult, 1844 júliusában, és akik nem tartották meg az igazi szombatot, most reménységben nyugodnak, mert nem volt meg az a világosságuk és próbájuk a szombatot illetően, amellyel mi most rendelkezünk, amióta ez az ajtó megnyílt. Láttam, hogy Sátán megkísértett némelyeket Isten népe közül ezen a ponton. <b>Mivel olyan sok jó keresztény aludt el a hitben diadalmaskodva, anélkül, hogy megtartotta volna az igazi szombatot, egyesek kételkedtek, hogy az most próba lenne a számunkra</b>…" {LDE 222.2}
+</details>
 
 ## Késői eső
 
