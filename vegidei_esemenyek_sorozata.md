@@ -77,7 +77,15 @@ Mi adventisták a nevünk alapján advent várók vagyunk. Tudjuk, hogy előbb-u
 
 A természetfeletti lények létezése még nem nyilvános, ezért a világon még - főleg Európában - az ateizmus / szekularizmus az uralkodó nézet, ezért (is) tudnak még úgy érvelni az ateisták, hogy nem látnak bizonyítékokat Isten vagy az angyalok létezésére. Az európai vezetés szinte teljesen szekuláris alapokon nyugszik, még a látszólag keresztény vezetésű országoknál is. Viszont az Amerikai Egyesült Államokban (AEÁ-ban) a keresztény vallás felemelését célzó, az állam-egyház egyesülést szorgalmazó, vasárnaptörvényt pedzegető párt jutott mondhatni teljhatalomra (náluk van a többség mindenhol).
 
+<details><summary>
 Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy a végidei események elkezdődtek, de hogy visszafordíthatatlanul vagy sem, ez kérdés.
+</summary>
+https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_church-state_union_article_2025_dec_30.md<br>
+https://youtu.be/Xcd5vKzgWO8?si=rr3Vxo9f9mJbeIas<br>
+https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_revival_in_gen_z_2025_dec_5.md<br>
+https://youtu.be/PQyhReLNwig?si=EvHAcoZQpx87EC7b
+</details>
+
 
 ### Az adventista egyház helyzete
 
@@ -156,7 +164,7 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
 <details><summary>
 <b>A hitetés nagy jelek és csodák által fog végbemenni:</b>
 </summary>
-... "<b>A természetfölötti megnyilatkoztatásokba vetett hit ajtót nyit az ördög csalásai és tanításai előtt, és a szellemvilág befolyása meg fog mutatkozni az egyházakban.</b>" {GC 603.2}
+"... <b>A természetfölötti megnyilatkoztatásokba vetett hit ajtót nyit az ördög csalásai és tanításai előtt, és a szellemvilág befolyása meg fog mutatkozni az egyházakban.</b>" {GC 603.2}
 </details>
 
 - <details><summary>
@@ -206,14 +214,14 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
 <b>Sátán világosság angyalaként és mint Jézus Krisztus jelenik majd meg külön-külön.</b> "Eljut addig a pontig, hogy megszemélyesíti a világosság angyalait, sőt felölti az Üdvözítő alakját <b>is</b> (2SM, 1894, 96. o.)." {LDE 162.1}
 </summary>
 2Kor 11:14 “Nem is csoda; hisz <b>maga a Sátán is átváltoztatja magát világosság angyalává</b>.”<br>
-... "<b>Sátán</b> alkalmazkodik a mai élet körülményeihez. <b>Világosság angyalaként jelenik meg.</b>" ...  {GC 588.2}<br>
-... "<b>A világosság angyalait és Jézus Krisztust megszemélyesítve fog megjelenni.</b>" {2SM 21.4}
+"... <b>Sátán</b> alkalmazkodik a mai élet körülményeihez. <b>Világosság angyalaként jelenik meg.</b>" ...  {GC 588.2}<br>
+"... <b>A világosság angyalait és Jézus Krisztust megszemélyesítve fog megjelenni.</b>" {2SM 21.4}
 </details>
 
 <details><summary>
 <b>A spiritizmus lesz az új világvallás</b>, amibe Sátán egyesíteni akar mindenféle embert, állítólagos keresztényeket és hitetleneket egyaránt. (Persze ezt a vallást valószínűleg nem spiritizmusnak fogják majd nevezni.)
 </summary>
-... "<b>A spiritizmus útján meglepő dolgok fognak történni. Betegek meggyógyulnak, és sok tagadhatatlan csoda történik. És mivel a gonosz lelkek úgy tesznek, mintha hinnének a Bibliában, és tisztelik az egyházat, az emberek isteni erő megnyilatkozásaként fogják elfogadni munkájukat.</b>" {GC 588.2}<br>
+"... <b>A spiritizmus útján meglepő dolgok fognak történni. Betegek meggyógyulnak, és sok tagadhatatlan csoda történik. És mivel a gonosz lelkek úgy tesznek, mintha hinnének a Bibliában, és tisztelik az egyházat, az emberek isteni erő megnyilatkozásaként fogják elfogadni munkájukat.</b>" {GC 588.2}<br>
 "Az állítólagos keresztények és a hitetlenek között ma alig lehet különbséget tenni. Számos egyháztag szereti azt, amit a világ szeret, és könnyen felzárkózik a világ mellé. <b>Sátán egyesíteni akarja őket, hogy mindnyájukat a spiritizmus soraiba sodorva ügyét erősebbé tegye.</b> A pápistákat, akik a csodákat az igaz egyház jeleként dicsőítik, könnyen megtéveszti ez a csodatevő hatalom; a protestánsok pedig, mivel eldobták az igazság pajzsát, szintén a csalás áldozatai lesznek. <b>Katolikusok, protestánsok és a világ fiai egyaránt</b> elfogadják a kegyesség formáját a kegyesség ereje nélkül, és ebben a szövetségben a <b>világot megtérítő</b> és régóta várt <b>millennium</b> nagyszerű mozgalmának kezdetét látják." {GC 588.3}
 </details>
 
@@ -838,8 +846,11 @@ Miről szól a hit általi megigazulás üzenete?
 </summary>
 "Abban az időben majd a késői eső, a felüdülés jön az Úr színétől, hogy <b>erőt adjon</b> a harmadik angyal hangos kiáltásának. <b>Felkészíti</b> a szenteket, hogy megállhassanak a hét utolsó csapás időszakában (EW, 1854, 86. o.)." {LDE 186.4}
 </details>
-
-"**Az angyal ekként válaszolt: „Ez a késői eső, a felüdülés az Úr színétől, a harmadik angyal hangos kiáltása”**".
+<details><summary>
+"<b>Az angyal ekként válaszolt: „Ez a késői eső, a felüdülés az Úr színétől, a harmadik angyal hangos kiáltása”</b>".
+</summary>
+"<b>Hallottam</b>, hogy nagy erővel hirdették az igazságot, akik időben felfegyverkeztek. Volt hatása… Megkérdeztem, mi eredményezte ezt a nagy változást. Az angyal ekként válaszolt: „<b>Ez a késői eső</b>, a felüdülés az Úr színétől, <b>a harmadik angyal hangos kiáltása</b>” (EW, 1858, 271. o.)." {LDE 186.5}
+</details>
 
 "Nem lesz kisebb az az erő, amivel Isten az evangélium hatalmas munkáját lezárja, mint amilyennel ezt a munkát elindította."
 
