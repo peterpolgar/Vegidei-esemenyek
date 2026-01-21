@@ -75,11 +75,13 @@ Mi adventisták a nevünk alapján advent várók vagyunk. Tudjuk, hogy előbb-u
 
 ### A világ helyzete
 
-A természetfeletti lények létezése még nem nyilvános, ezért a világon még - főleg Európában - az ateizmus / szekularizmus az uralkodó nézet, ezért (is) tudnak még úgy érvelni az ateisták, hogy nem látnak bizonyítékokat Isten vagy az angyalok létezésére. Az európai vezetés szinte teljesen szekuláris alapokon nyugszik, még a látszólag keresztény vezetésű országoknál is. Viszont az Amerikai Egyesült Államokban (AEÁ-ban) a keresztény vallás felemelését célzó, az állam-egyház egyesülést szorgalmazó, vasárnaptörvényt pedzegető párt jutott teljhatalomra.
+A természetfeletti lények létezése még nem nyilvános, ezért a világon még - főleg Európában - az ateizmus / szekularizmus az uralkodó nézet, ezért (is) tudnak még úgy érvelni az ateisták, hogy nem látnak bizonyítékokat Isten vagy az angyalok létezésére. Az európai vezetés szinte teljesen szekuláris alapokon nyugszik, még a látszólag keresztény vezetésű országoknál is. Viszont az Amerikai Egyesült Államokban (AEÁ-ban) a keresztény vallás felemelését célzó, az állam-egyház egyesülést szorgalmazó, vasárnaptörvényt pedzegető párt jutott mondhatni teljhatalomra (náluk van a többség mindenhol).
+
+Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy a végidei események elkezdődtek, de hogy visszafordíthatatlanul vagy sem, ez kérdés.
 
 ### Az adventista egyház helyzete
 
-Azt látom adventista YouTube csatornákat figyelve, hogy a próféciák beteljesedése szempontjából kulcsfontosságú országban, az AEÁ-ban mintha elkezdődött volna egy lelki megújulás az adventista egyházban, pl. Pavel Goia missziós módszere és sikerei a volt gyülekezeteivel.
+Azt látom adventista YouTube csatornákat figyelve, hogy a próféciák beteljesedése szempontjából kulcsfontosságú országban, az AEÁ-ban mintha elkezdődött volna egy lelki megújulás az adventista egyházban.
 
 ## Mi a végidei események elindítója, mi váltja ki a végidei események megindulását?
 
@@ -676,79 +678,166 @@ Ha vállalkozásod eddig vasárnap is üzemelt, és arra kényszerítenek, hogy 
 
 **„Ismerjük hát el, törekedjünk megismerni az Urat. Az Ő kijövetele bizonyos, mint a hajnal, és eljő hozzánk, mint eső, mint késői eső, amely megáztatja a földet.” (Hós. 6:3) „Ti is, Sionnak fiai! Örvendezzetek és vigadjatok az Úrban, a ti Istenetekben; mert megadja néktek az esőt igazság szerint, és korai és kései esőt hullat néktek.” (Jóel 2:23) „Az utolsó napokban, ezt mondja az Isten, kitöltök az én Lelkemből minden testre.” „És lészen, hogy mindaz, aki az Úrnak nevét segítségül hívja, megtartatik.” (Acs. 2:17, 21)**
 
+<details><summary>
 "Az Úr a természet működésével ábrázolja a Szentlélek munkáját".
+</summary>
+"„Megadja néktek az esőt… korai és kései esőt hullat néktek” (Jóel 2:23). Keleten a korai eső a vetés idején hull, mert szükség van rá a mag meggyökerezéséhez. A termékenyítő esők hatására a gyönge sarj kibújik. A késői eső az évszak vége felé esik, megérleli a gabonát, és előkészíti az aratásra. Az Úr a természet működésével ábrázolja a Szentlélek munkáját (lásd: Zak 10:1; Hós 6:3; Jóel 2:28)." {LDE 183.1}<br>
+"Amiképpen a harmat és az eső arra adatott, hogy a mag először kicsírázzon, azután megérjen az aratásra, úgy a Szentlélek is azért jön, hogy munkálja a fejlődés és a lelki növekedés folyamatát. A búzaszem érése bemutatja, hogyan teljesedik ki Isten kegyelmének munkája a lélekben. A Szentlélek erejének hatására a Mindenható erkölcsi képmására formálódik a jellem. Teljesen át kell alakulnunk Krisztus hasonlatosságára." {LDE 183.2}
+</details>
 
-"A föld aratását érlelő késői eső azt a lelki kegyelmet ábrázolja, amely **előkészíti az egyházat az ember Fiának eljövetelére**."
+<details><summary>
+"A föld aratását érlelő késői eső azt a lelki kegyelmet ábrázolja, amely <b>előkészíti az egyházat az ember Fiának eljövetelére</b>."
+</summary>
+"Közvetlenül azelőtt, hogy Krisztus másodszor is eljönne a menny felhőiben, Keresztelő Jánoséhoz hasonlítható munkát kell végezni. Isten olyan embereket hív el, akik előkészítik a népet, hogy megállhassanak az Úr nagy napján… Jánoséhoz hasonló lelki tapasztalattal kell rendelkeznünk ahhoz, hogy olyan üzenetet közvetíthessünk, mint ő. Ugyanannak a munkának kell hatnia bennünk is. Istenre kell tekintenünk, és ha rá figyelünk, nem saját magunkkal foglalkozunk (8T, 1904, 332–333. o.)." {LDE 63.1}<br>
+"A föld aratását érlelő késői eső azt a lelki kegyelmet ábrázolja, amely előkészíti az egyházat az ember Fiának eljövetelére. Ellenben ha nem hull a korai eső, nem lesz élet; a zöld gabonaszár nem érik be. Ha a korai záporok nem végezték el munkájukat, a késői eső egyetlen magot sem tehet tökéletessé (TM, 1897, 506. o.)." {LDE 183.3}
+</details>
 
-"A világ aratásának befejezéséhez közeledve a lelki kegyelem rendkívüli kiáradását ígérte Isten, amely előkészíti a gyülekezetet az ember Fiának eljövetelére. **A Szentírás a Lélek kitöltetését a késői esőhöz hasonlítja**".
+"A világ aratásának befejezéséhez közeledve a lelki kegyelem rendkívüli kiáradását ígérte Isten, amely előkészíti a gyülekezetet az ember Fiának eljövetelére. **A Szentírás a Lélek kitöltetését a késői esőhöz hasonlítja** (AA,  1911, 55. o.)." {LDE 186.1}
 
-"A korai eső volt a Lélek kitöltetése az apostolok idejében, amely csodálatos gyümölcsöt érlelt. **A késői eső azonban ennél is nagyobb hatású lesz**".
+<details><summary>
+"A korai eső volt a Lélek kitöltetése az apostolok idejében, amely csodálatos gyümölcsöt érlelt. <b>A késői eső azonban ennél is nagyobb hatású lesz</b> (8T, 1904, 21. o.)." {LDE 185.5}
+</summary>
+"A Lélek kiáradása volt a korai eső kezdete az apostolok napjaiban, amely dicső gyümölcsöt érlelt. Az idők végezetéig érezhető lesz jelenléte az igaz egyházban (AA, 1911, 54–55. o.)." {LDE 184.4}
+</details>
 
-"Mielőtt az Örökkévaló ítéletei utoljára látogatnák meg a földet, az egyszerű istenfélelem olyan mértékben fog **megújulni** az Úr népe körében, **amilyenre az apostoli idők óta nem volt példa**. Isten és a Szentlélek kitölti erejét a népére".
+"Mielőtt az Örökkévaló ítéletei utoljára látogatnák meg a földet, az egyszerű istenfélelem olyan mértékben fog **megújulni** az Úr népe körében, **amilyenre az apostoli idők óta nem volt példa**. Isten és a Szentlélek kitölti erejét a népére (GC, 1911, 464. o.)." {LDE 186.2}
 
-"A munka hasonló lesz a pünkösdnapihoz. Ahogyan az örömhír terjesztésének kezdetén korai eső hullt a Szentlélek kiáradásával, hogy szárba szökkentse az értékes magot, úgy **fog majd hullani a késői eső az evangélium hirdetésének lezárulásakor**, hogy beérlelje a termést".
+"A munka hasonló lesz a pünkösdnapihoz. Ahogyan az örömhír terjesztésének kezdetén korai eső hullt a Szentlélek kiáradásával, hogy szárba szökkentse az értékes magot, úgy **fog majd hullani a késői eső az evangélium hirdetésének lezárulásakor**, hogy beérlelje a termést (GC, 1911, 611. o.)." {LDE 186.3}
 
 ### Mikor volt / van / lesz?
 
-Még nem volt és jelenleg nincs késői eső: "**jövő esemény**ként tekintünk a Szentlélek gyülekezetekre való kitöltetésére".
+Még nem volt és jelenleg nincs késői eső: "**jövő esemény**ként tekintünk a Szentlélek gyülekezetekre való kitöltetésére". {LDE 188.4}
 
-De "kiváltsága az egyháznak, hogy **már most is** rendelkezzen vele. Keressétek őt, imádkozzatok érte, higgyetek benne! Szükségünk van rá, és a menny csak arra vár, hogy mindnyájunknak adhasson Lelkéből!"
+De "kiváltsága az egyháznak, hogy **már most is** rendelkezzen vele. Keressétek őt, imádkozzatok érte, higgyetek benne! Szükségünk van rá, és a menny csak arra vár, hogy mindnyájunknak adhasson Lelkéből! (Ev, 1895, 701. o.)." {LDE 188.4}
 
 ### Útkészítés és lelki tanácsok
 
 **Mi a feltétele a Lélek kitöltésének?**
 
+<details><summary>
 "Amint elkészül az út a Szentlélek előtt, megérkezik az áldás is."
+</summary>
+"<b>Amint elkészül az út a Szentlélek előtt, megérkezik az áldás is.</b> Sátán többé éppúgy nem tudja megakadályozni az Isten népére hulló áldás záporát, mint ahogy az ég csatornáit sem képes bezárni, hogy eső ne essék a földre (1SM, 1887, 124. o.)." {LDE 188.2}
+</details>
 
-"**Láttam**, hogy senki sem részesülhet a „felüdülésben”, hacsak nem győzedelmeskedett **már** minden gyengeség, büszkeség, önzés, világ iránti szeretet vagy minden rossz szó és cselekedet fölött. Közeledjünk ezért egyre jobban az Úrhoz! Komolyan törekedjünk megvalósítani ama előkészületet, ami által képesek leszünk megállni a csatában Istenünk nagy napján! (EW, 1851, 71. o.)."
+"**Láttam**, hogy senki sem részesülhet a „felüdülésben”, hacsak nem győzedelmeskedett **már** minden gyengeség, büszkeség, önzés, világ iránti szeretet vagy minden rossz szó és cselekedet fölött. Közeledjünk ezért egyre jobban az Úrhoz! Komolyan törekedjünk megvalósítani ama előkészületet, ami által képesek leszünk megállni a csatában Istenünk nagy napján! (EW, 1851, 71. o.)." {LDE 192.2}
 
-"**Sátán semmitől nem fél annyira, mint hogy Isten népe megtisztítja az utat, és eltávolít minden akadályt, hogy az Úr kiáraszthassa Lelkét elbágyadt egyházára… Minden kísértésnek, minden nyílt vagy titkos ellentétes befolyásnak sikeresen ellen lehet állni: „nem erővel, sem hatalommal, hanem az én Lelkemmel! Azt mondja a Seregeknek Ura” (Zak 4:6)** (1SM, 1887, 124. o.)."
+"**Sátán semmitől nem fél annyira, mint hogy Isten népe megtisztítja az utat, és eltávolít minden akadályt, hogy az Úr kiáraszthassa Lelkét elbágyadt egyházára… Minden kísértésnek, minden nyílt vagy titkos ellentétes befolyásnak sikeresen ellen lehet állni: „nem erővel, sem hatalommal, hanem az én Lelkemmel! Azt mondja a Seregeknek Ura” (Zak 4:6)** (1SM, 1887, 124. o.)." {LDE 192.4}
 
-"**A késői eső el fog jönni, és Isten áldása majd mindenkit betölt, aki megtisztíttatott a szennytől. Ma kell átadnunk magunkat Jézus Krisztusnak, hogy alkalmassá tehessen az Úr színétől jövő felüdülés idejére – alkalmassá a Szentlélek keresztségére**".
+<details><summary>
+"<b>A késői eső el fog jönni, és Isten áldása majd mindenkit betölt, aki megtisztíttatott a szennytől. Ma kell átadnunk magunkat Jézus Krisztusnak, hogy alkalmassá tehessen az Úr színétől jövő felüdülés idejére – alkalmassá a Szentlélek keresztségére</b> (1SM, 1892, 191. o.)."  {LDE 193.1}
+</summary>
+"Reánk bízták jellemhibáink gyógyítását, hogy tisztítsuk meg a lélek templomát minden szennytől. <b>Csak ezután</b> árad ki ránk a késői eső, ahhoz hasonlóan, ahogy egykor a korai eső hullott a tanítványokra pünkösd napján (5T, 1882, 214. o.)." {LDE 192.3}
+</details>
 
-"**Az Úr közölte**, hogy ha Isten népe nem feszíti meg erejét, hanem tétlenül várja a felüdülést, hogy rájuk szálljon, és eltávolítsa hibáikat, s helyesbítse tévedéseiket; ha arra támaszkodnak, hogy az tisztítsa meg őket a test és a lélek minden szennyétől, s alkalmassá tegye őket a harmadik angyal hangos kiáltásában való részvételre, akkor híjával találtatnak. A felüdülés, vagyis **Isten ereje csak azokra száll, akik elkészítették magukat erre**, végezve az Isten által rájuk bízott feladatot; nevezetesen, megtisztítják magukat a test és lélek minden szennyétől, **Isten félelmében tökéletessé téve megszentelődésüket**." {1T 619.1}
+<details><summary>
+"<b>Az Úr közölte</b>, hogy ha Isten népe nem feszíti meg erejét, hanem tétlenül várja a felüdülést, hogy rájuk szálljon, és eltávolítsa hibáikat, s helyesbítse tévedéseiket; ha arra támaszkodnak, hogy az tisztítsa meg őket a test és a lélek minden szennyétől, s alkalmassá tegye őket a harmadik angyal hangos kiáltásában való részvételre, akkor híjával találtatnak. A felüdülés, vagyis <b>Isten ereje csak azokra száll, akik elkészítették magukat erre</b>, végezve az Isten által rájuk bízott feladatot; nevezetesen, megtisztítják magukat a test és lélek minden szennyétől, <b>Isten félelmében tökéletessé téve megszentelődésüket</b>." {1T 619.1}
+</summary>
+"<b>Akik határozott erőfeszítések helyett egyszerűen a Szentlélektől várják el, hogy cselekvésre késztesse őket, el fognak veszni a sötétségben. Nem ülhetsz nyugodtan, semmit sem téve Isten művéért!</b> (ChS, 1903, 228. o.)." {LDE 196.1}
+</details>
 
 ### Mikor jön el a Lélek kitöltése?
 
+<details><summary>
 "Amikor a gyülekezetek élő, dolgozó közösséggé alakulnak".
+</summary>
+"<b>Amikor a gyülekezetek élő, dolgozó közösséggé alakulnak</b>, őszinte kérésükre válaszul megkapják a Szentlelket… Akkor a menny csatornái megnyílnak, hogy kiárasszák rájuk a késői esőt (RH, 1890. február 25.)." {LDE 193.2}
+</details>
 
-Amikor Isten népe "tapasztalatból tudja, mit jelent az Üdvözítővel együtt dolgozni."
+Amikor Isten népe "tapasztalatból tudja, mit jelent az Üdvözítővel együtt dolgozni." {LDE 193.3}
 
-"**Amikor teljes szívvel, egészen odaszenteljük magunkat Krisztus szolgálatára**, Isten ezt a tényt a Szentlélek mérték nélküli kiárasztásával ismeri el; de ez nem történik meg addig, amíg **az egyház legnagyobb része** nem válik a menny munkatársává"
+<details><summary>
+"<b>Amikor teljes szívvel, egészen odaszenteljük magunkat Krisztus szolgálatára</b>, Isten ezt a tényt a Szentlélek mérték nélküli kiárasztásával ismeri el; de ez nem történik meg addig, amíg <b>az egyház legnagyobb része</b> nem válik a menny munkatársává"
+</summary>
+"Isten Lelkének nagy kiárasztása, amely dicsőségével fogja beragyogni az egész földet, nem jön el addig, amíg nem vagyunk megvilágosodott nép, amely <b>tapasztalatból tudja, mit jelent az Üdvözítővel együtt dolgozni. Amikor teljes szívvel, egészen odaszenteljük magunkat Krisztus szolgálatára</b>, Isten ezt a tényt a Szentlélek mérték nélküli kiárasztásával ismeri el; de ez nem történik meg addig, amíg <b>az egyház legnagyobb része</b> nem válik a menny munkatársává (ChS, 1896, 253. o.)." {LDE 193.3}
+</details>
 
+<details><summary>
 "Amikor majd eltűnik a tunyaság és lustaság szégyene az egyházból".
+</summary>
+"<b>Amikor majd eltűnik a tunyaság és lustaság szégyene az egyházból</b>, az Úr Lelke kegyelmesen megnyilatkozik. Isteni erő nyilvánul meg, és az egyház meglátja a seregek Urának gondviselő munkáját (9T, 1909, 46. o.)." {LDE 193.4}
+</details>
 
 ### A késői eső eredménye
 
-A késői eső eredménye minden bizonnyal hasonló lesz ahhoz az eredményhez, amit a Szentlélek pünkösdnapi kiárasztása eredményezett, ami az, hogy **a** "**feltámadt Üdvözítőről szóló örömhír eljutott a lakott világ legtávolabbi részeibe is… Mindenfelől özönlöttek az újonnan megváltott emberek a gyülekezetekbe. A visszaeső bűnösök ismételten megtértek…**". Erről az eredményről **bővebb információ a következő fejezetben** (hangos kiáltás).
+<details><summary>
+A késői eső eredménye minden bizonnyal hasonló lesz ahhoz az eredményhez, amit a Szentlélek pünkösdnapi kiárasztása eredményezett, ami az, hogy <b>a</b> "<b>feltámadt Üdvözítőről szóló örömhír eljutott a lakott világ legtávolabbi részeibe is… Mindenfelől özönlöttek az újonnan megváltott emberek a gyülekezetekbe. A visszaeső bűnösök ismételten megtértek…</b>". Erről az eredményről <b>bővebb információ a következő fejezetben</b> (hangos kiáltás).
+</summary>
+"Mit eredményezett a Szentlélek pünkösdnapi kiárasztása? A feltámadt Üdvözítőről szóló örömhír eljutott a lakott világ legtávolabbi részeibe is… Mindenfelől özönlöttek az újonnan megváltott emberek a gyülekezetekbe. A visszaeső bűnösök ismételten megtértek… A hívőket csak az a cél vezérelte, hogy Krisztus jellemének hasonlóságát bemutassák, és országa kiterjesztésén munkálkodjanak (AA, 1911, 48. o.)." {LDE 185.4}
+</details>
 
-" A késői eső megeleveníti és megerősíti őket, hogy megállhassanak a nyomorúság idején." őket, mármint Isten népét.
+" A késői eső megeleveníti és megerősíti őket, hogy megállhassanak a nyomorúság idején." {LDE 201.1} Őket, mármint Isten népét.
 
-"**Felkészíti a szenteket, hogy megállhassanak a hét utolsó csapás időszakában**".
+"**Felkészíti a szenteket, hogy megállhassanak a hét utolsó csapás időszakában**". {LDE 186.4}
 
 ## A hangos kiáltás, a hármas angyali üzenet
 
 ### Az utolsó üzenet a világnak
 
-A **Jel. 14. és 18. fejezeteiben szereplő üzenetek**nek egészen a földi történelem lezárulásáig jelentőségük lesz. A Jel. 14. fejezetében van a hármas-angyali üzenet, míg a 18. fejezetben van az ún. negyedik angyal üzenete, ami a második angyal üzenete kiegészítve. A 4. angyal üzenete "a harmadik angyal üzenetével együtt alkotják a föld lakóinak adandó utolsó figyelmeztetést".
+<details><summary>
+A <b>Jel. 14. és 18. fejezeteiben szereplő üzenetek</b>nek egészen a földi történelem lezárulásáig jelentőségük lesz. A Jel. 14. fejezetében van a hármas-angyali üzenet, míg a 18. fejezetben van az ún. negyedik angyal üzenete, ami a második angyal üzenete kiegészítve. A 4. angyal üzenete "a harmadik angyal üzenetével együtt alkotják a föld lakóinak adandó utolsó figyelmeztetést".
+</summary>
+Jel 14:6 "És láték más angyalt az ég közepén repülni, akinél vala az örökkévaló evangélium, hogy a föld lakosainak hirdesse az evangéliumot, és minden nemzetségnek és ágazatnak, és nyelvnek és népnek,"<br>
+Jel 14:7 "Ezt mondván nagy szóval: Féljétek az Istent, és neki adjatok dicsőséget: mert eljött az ő ítéletének órája; és imádjátok azt, aki teremtette a mennyet és a földet, és a tengert és a vizek forrásait."<br>
+Jel 14:8 "És más angyal követé azt, mondván: Leomlott, leomlott Babilon, a nagy város! mert az ő paráznaságának haragborából adott inni minden pogány népnek."<br>
+Jel 14:9 "És harmadik angyal [is] követé azokat, mondván nagy szóval: Ha valaki imádja a fenevadat és annak képét, és bélyegét felveszi vagy homlokára vagy kezére,"<br>
+Jel 14:10 "Az is iszik az Isten haragjának borából, amely elegyítetlenül töltetett az ő haragjának poharába: és kínoztatik tűzzel és kénkővel a szent angyalok előtt és a Bárány előtt;"<br>
+Jel 14:11 "És az ő kínlódásuknak füstje felmegy örökkön örökké; és nem lesz nyugalmuk éjjel és nappal, akik imádják a fenevadat és annak képét, és ha valaki az ő nevének bélyegét felveszi."<br>
+Jel 14:12 "Itt van a szenteknek békességes tűrése, itt akik megtartják az Isten parancsolatait és a Jézus hitét!"<br>
+Jel 14:13 "És hallék az égből szózatot, amely ezt mondja vala nekem: Írd meg: Boldogok a halottak, akik az Úrban halnak meg mostantól fogva. Bizony, azt mondja a Lélek, mert megnyugosznak az ő fáradságuktól, és az ő cselekedeteik követik őket."<br>
+Jel 18:1 "És ezek után láték más angyalt leszállani a mennyből, akinek nagy hatalma vala; és a föld fénylett annak dicsőségétől."<br>
+Jel 18:2 "És kiálta [teljes] erejéből, nagy szóval mondván: Leomlott, leomlott a nagy Babilon, és lett ördögöknek lakhelyévé, minden tisztátalan léleknek tömlöcévé, és minden tisztátalan és gyűlölséges madárnak tömlöcévé."<br>
+Jel 18:3 "Mert az ő paráznasága haragjának borából ivott valamennyi nép, és a földnek királyai ő vele paráználkodtak, és a földnek kalmárai az ő dobzódásának erejéből meggazdagodtak."<br>
+Jel 18:4 "És hallék más szózatot a mennyből, amely ezt mondja vala: Fussatok ki belőle én népem, hogy ne legyetek részesek az ő bűneiben, és ne kapjatok az ő csapásaiból:"<br>
+Jel 18:5 "Mert az ő bűnei az égig hatottak, és megemlékezett az Isten az ő gonoszságairól."<br>
+Jel 18:6 "Fizessetek úgy neki, amint ő fizetett nektek, és kétszerrel kettőztessétek meg neki az ő cselekedetei szerint; amely pohárból itatott, ugyanabból két annyit töltsetek neki."<br>
+Jel 18:7 "Amennyire dicsőítette magát és dobzódott, annyi kínnal és gyásszal fizessetek neki; mert ezt mondja az ő szívében: Úgy ülök, mint királynéasszony, és nem vagyok özvegy, és semmi gyászt nem látok."<br>
+Jel 18:8 "Ennek okáért egy nap jőnek ő reá az ő csapásai: a halál, a gyász és az éhség; és tűzzel égettetik meg; mert erős az Úr, az Isten, aki megbünteti őt."<br>
+"<b>Isten helyet adott a Jelenések könyve 14. fejezetében foglalt üzeneteknek a próféciák sorában, és munkájuk nem szűnik meg a földi történelem lezárulásáig</b> (EGW ’88, 1890, 804. o.)." {LDE 198.6}<br>
+"„És ezek után láttam más angyalt leszállni a mennyből, akinek nagy hatalma volt; és a föld fénylett annak dicsőségétől. És kiáltott teljes erejéből, nagy szóval, mondván: Leomlott, leomlott a nagy Babilon, és lett ördögöknek lakhelyévé, minden tisztátalan léleknek tömlöcévé és minden tisztátalan és gyűlölséges madárnak tömlöcévé. És hallottam más szózatot a mennyből, amely ezt mondta: Fussatok ki belőle, én népem, hogy ne legyetek részesek az ő bűneiben, és ne kapjatok az ő csapásaiból!” (Jel 18:1-2, 4). Ez az igeszakasz egy olyan időre mutat előre, amikor megismétlődik Babilon bukásának kihirdetése, ahogy azt Jelenések könyve 14. fejezetének második angyala (14:8) tette azokkal a romlásokkal kiegészítve, amelyek az üzenet 1844 nyarán történt első közzététele óta történtek a Babilont alkotó szervezetekben. <b>Ezek az üzenetek a harmadik angyal üzenetével együtt alkotják a föld lakóinak adandó utolsó figyelmeztetést</b>…" {LDE 199.2}
+</details>
 
-"**„Fussatok ki belőle én népem!”. Ez az üzenet és a harmadik angyal üzenete a föld lakóihoz szóló utolsó figyelmeztetés.**“ {GC 604.1}
+<details><summary>
+"<b>„Fussatok ki belőle én népem!”. Ez az üzenet és a harmadik angyal üzenete a föld lakóihoz szóló utolsó figyelmeztetés.</b>“ {GC 604.1}
+</summary>
+"Isten azt parancsolja szolgáinak, hogy közöljék a kegyelem utolsó hívását a világgal." {GC 609.1}<br>
+"hogy a harmadik angyal üzenete elvégezhesse munkáját. Amikor felhangzik az utolsó intés" {GC 610.3}
+</details>
 
-"**Babilon bűnei nyilvánvalóvá válnak.** Az egyházi előírások polgári hatalommal történő kikényszerítésének félelmetes következményei, a spiritizmus térnyerése, a pápai hatalom rejtett, de rohamos előretörése mindmind lelepleződnek."
+<details><summary>
+"<b>Babilon bűnei nyilvánvalóvá válnak.</b> Az egyházi előírások polgári hatalommal történő kikényszerítésének félelmetes következményei, a spiritizmus térnyerése, a pápai hatalom rejtett, de rohamos előretörése mindmind lelepleződnek."
+</summary>
+"Babilon bűnei nyilvánvalóvá válnak. Az egyházi előírások polgári hatalommal történő kikényszerítésének félelmetes következményei, a spiritizmus térnyerése, a pápai hatalom rejtett, de rohamos előretörése mindmind lelepleződnek. Ezek a komoly figyelmeztetések felrázzák az embereket. Ezrek és ezrek figyelnek fel rájuk, olyanok, akik soha nem hallottak minderről (GC, 1911, 603–604, 606. o.)." {LDE 199.3}
+</details>
 
 "Néhányan írtak nekem, az iránt érdeklődve, hogy **a hit általi megigazulás üzenete** lenne a harmadik angyal üzenete, és azt válaszoltam: „Ez **valóban a harmadik angyal üzenete**” (2SM, 1890, 372. o.)." {LDE 199.4}
 
-**A harmadik angyal üzenete "magába foglalja az előző kettőt".**
+<details><summary>
+Miről szól a hit általi megigazulás üzenete?
+</summary>
+"Az Úr az Ő nagy kegyelmében a legdrágább üzenetet küldte népének Ellet J. Waggoner és Alonso T. Jones testvéreken keresztül. Ez az üzenet arra adatott, hogy még nagyszerűbben állítsa a világ elé a felemeltetett Üdvözítőt és az egész világ bűneiért hozott áldozatát. A kezesbe vetett hit általi megigazulást mutatták be; felhívták az embereket, hogy fogadják be Krisztus igazságát, amely az Isten törvénye iránti engedelmességben mutatkozik meg." {LDE 200.1}<br>
+"Sokan szem elől veszítették Jézust. Krisztus isteni személyére kellett volna irányítani tekintetüket, az Ő érdemeire és az emberi család iránt érzett változhatatlan szeretetére. Minden hatalom az Ő kezébe adatott, hogy gazdag ajándékait az emberekre árassza, és ezzel saját igazságának felbecsülhetetlen adományában részesítse a tehetetlen embereket. Erről az üzenetről parancsolta meg Isten, hogy hirdessék a világnak. <b>A harmadik angyal üzenete az, amit hangos szóval fognak hirdetni, és amit Lelkének nagymértékű kiárasztása fog kísérni</b> (TM, 1895, 91–92. o.)." {LDE 200.2}
+</details>
+
+<details><summary>
+<b>A harmadik angyal üzenete "magába foglalja az előző kettőt".</b>
+</summary>
+"Ez az üzenet (Jel 14:9-12) magába foglalja az előző kettőt. Úgy mutatják be, mint ami hangos szóval, a Szentlélek erejével hangzik (7BC, 1900, 980. o.)." {LDE 201.3}
+</details>
 
 ### A harmadik angyal üzenetének hirdetése és a késői eső egyidőben lesz
 
-"Ahogy azt **Jelenések könyvének 18. fejezete** megjövendölte, a harmadik angyal üzenete nagy erővel hirdettetik majd azok által, akik a végső figyelmeztetést közvetítik a fenevaddal és annak képmásával szemben (8T, 1904, 118. o.)."
+"Ahogy azt **Jelenések könyvének 18. fejezete** megjövendölte, a harmadik angyal üzenete nagy erővel hirdettetik majd azok által, akik a végső figyelmeztetést közvetítik a fenevaddal és annak képmásával szemben (8T, 1904, 118. o.)." {LDE 201.6}
 
-"A harmadik angyal üzenete az, amit hangos szóval fognak hirdetni, és amit Lelkének nagymértékű kiárasztása fog kísérni".
+"... A harmadik angyal üzenete az, amit hangos szóval fognak hirdetni, és amit Lelkének nagymértékű kiárasztása fog kísérni". {LDE 200.2}
 
-"Úgy mutatják be, mint ami hangos szóval, a Szentlélek erejével hangzik".
+"... Úgy mutatják be, mint ami hangos szóval, a Szentlélek erejével hangzik". {LDE 201.3}
 
-"Abban az időben majd a késői eső, a felüdülés jön az Úr színétől, hogy **erőt adjon** a harmadik angyal hangos kiáltásának."
+<details><summary>
+"Abban az időben majd a késői eső, a felüdülés jön az Úr színétől, hogy <b>erőt adjon</b> a harmadik angyal hangos kiáltásának."
+</summary>
+"Abban az időben majd a késői eső, a felüdülés jön az Úr színétől, hogy <b>erőt adjon</b> a harmadik angyal hangos kiáltásának. <b>Felkészíti</b> a szenteket, hogy megállhassanak a hét utolsó csapás időszakában (EW, 1854, 86. o.)." {LDE 186.4}
+</details>
 
 "**Az angyal ekként válaszolt: „Ez a késői eső, a felüdülés az Úr színétől, a harmadik angyal hangos kiáltása”**".
 
