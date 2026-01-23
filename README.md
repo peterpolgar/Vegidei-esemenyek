@@ -17,7 +17,7 @@ __A Biblia és Ellen White írásai alapján. Az aktuális események részletes
   - [A világ helyzete](#a-világ-helyzete)
   - [Az adventista egyház helyzete](#az-adventista-egyház-helyzete)
 - [Az adventisták körében egy soha nem látott lelki ébredés lesz](#az-adventisták-körében-egy-soha-nem-látott-lelki-ébredés-lesz)
-- [Nagy jelek és csodák általi hitetés – spiritizmus mozgalma](#nagy-jelek-és-csodák-általi-hitetés-–-spiritizmus-mozgalma)
+- [Nagy jelek és csodák általi hitetés – spiritizmus mozgalma](#nagy-jelek-és-csodák-általi-hitetés-spiritizmus-mozgalma)
 - [Mikor fogja Sátán megszemélyesíteni Jézust?](#mikor-fogja-sátán-megszemélyesíteni-Jézust)
 - [Rostálás](#rostálás)
 - [Természeti katasztrófák “egyre sűrűsödnek és súlyosbodnak”](#természeti-katasztrófák-“egyre-sűrűsödnek-és-súlyosbodnak”)
