@@ -194,7 +194,7 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
 - <details><summary>
   Sátán a csodákat "egészen a próbaidő lezárulásáig folytatja majd".
   </summary>
-  "Isten figyelmeztetett minket, hogy az utolsó napokban Sátán jeleket és csodákat fog véghezvinni. Egészen a próbaidő lezárulásáig folytatja majd ezeket a csodákat, mert általuk azt akarja igazolni, hogy ő a világosság angyala, és nem a sötétségé." {2SM 50.4}
+  "Isten figyelmeztetett minket, hogy az utolsó napokban Sátán jeleket és csodákat fog véghezvinni. <b>Egészen a próbaidő lezárulásáig folytatja majd ezeket a csodákat</b>, mert általuk azt akarja igazolni, hogy ő a világosság angyala, és nem a sötétségé." {2SM 50.4}
   </details>
 
 - <details><summary>
@@ -234,7 +234,8 @@ A spiritizmus hasonlítani fog a mai névleges kereszténységhez: "A spiritizmu
 <details><summary>
 Az <b>Amerikai Egyesült Államok protestánsai</b> fogják először felkarolni, elfogadni a <b>spiritizmus</b>t, majd a <b>római katolikus hatalom</b> is csatlakozik ehhez a spiritiszta mozgalomhoz, <b>így egy hármas szövetség jön létre, mely kényszeríteni fogja az embereket a vasárnap megünneplésére</b>.
 </summary>
-"Az Egyesült Államok protestánsai <b>elsőként</b> fognak a szakadékon át kezet nyújtani a spiritizmusnak; és átnyúlnak a mélység felett is, hogy a római hatalommal kezet fogjanak. E <b>hármas szövetség</b> hatására ez az ország követni fogja Rómát a lelkiismeret jogainak sárba tiprásában." {GC 588.1}
+"Az Egyesült Államok protestánsai <b>elsőként</b> fognak a szakadékon át kezet nyújtani a spiritizmusnak; és átnyúlnak a mélység felett is, hogy a római hatalommal kezet fogjanak. E <b>hármas szövetség</b> hatására ez az ország követni fogja Rómát a lelkiismeret jogainak sárba tiprásában." {GC 588.1}<br>
+"Amikor a vallásszabadság hazája, az Egyesült Államok egyesül majd a pápasággal a lelkiismeret elnyomásában, és <b>arra kényszeríti az embereket, hogy hamis szombatot tiszteljenek</b>, a föld minden népét ráveszik, hogy kövessék a példájukat (6T, 1900, 18. o.)." {LDE 135.1}
 </details>
 
 A spiritiszta világvallás, mint hamisítvány "annyira fog hasonlítani az igazságra, hogy csakis a Szentírás által lehet különbséget tenni köztük. ..." {GC 593.1}
@@ -242,7 +243,9 @@ A spiritiszta világvallás, mint hamisítvány "annyira fog hasonlítani az iga
 <details><summary>
 E világvallás vezetői azt fogják hirdetni, hogy elérkezett a <b>millenium</b>, azaz "elérkezett az ezer földi esztendő, amelyre olyan régóta vártak. <b>Az egész világ 'megtért'</b>".
 </summary>
-"A gonoszok kijelentették, hogy náluk az igazság, közöttük csodás események történtek, mennyei angyalok beszéltek velük és kísérték őket. <b>Nagy erők, jelek és csodák</b> megnyilvánulásait tapasztalták, és azt állítják, hogy <b>elérkezett az ezer földi esztendő, amelyre olyan régóta vártak. Az egész világ „megtért”</b>, és összhangban van a vasárnaptörvénnyel (3SM, 1884, 427–428. o.)." {LDE 136.1}
+"A gonoszok kijelentették, hogy náluk az igazság, közöttük csodás események történtek, mennyei angyalok beszéltek velük és kísérték őket. <b>Nagy erők, jelek és csodák</b> megnyilvánulásait tapasztalták, és azt állítják, hogy <b>elérkezett az ezer földi esztendő, amelyre olyan régóta vártak. Az egész világ „megtért”</b>, és összhangban van a vasárnaptörvénnyel (3SM, 1884, 427–428. o.)." {LDE 136.1}<br>
+"... Katolikusok, protestánsok és a világ fiai egyaránt elfogadják a kegyesség formáját a kegyesség ereje nélkül, és ebben a szövetségben a világot megtérítő és régóta várt <b>millennium</b> nagyszerű mozgalmának kezdetét látják." {GC 588.3}<br>
+"... A gonoszok azt állították magukról, hogy náluk van az igazság, csodák történtek közöttük és mennyei angyalok beszéltek velük, nagy hatalom, jelek és csodák nyilatkoztak meg, és ez az evilági <b>millennium</b>, melyet olyan régen vártak. Az egész világ megtért, összhangba került a vasárnaptörvénnyel, és ez a szánalmas kis nép dacol a világ törvényeivel, azt állítva, hogy csak nekik van igazuk a Földön.” (6. levél, 1884)" {Mar 209.3}
 </details>
 
 ## Mikor fogja Sátán megszemélyesíteni Jézust?
