@@ -85,6 +85,7 @@ https://youtu.be/Xcd5vKzgWO8?si=rr3Vxo9f9mJbeIas<br>
 https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_revival_in_gen_z_2025_dec_5.md<br>
 https://youtu.be/PQyhReLNwig?si=EvHAcoZQpx87EC7b
 </details>
+
 ### Az adventista egyház helyzete
 
 Azt látom adventista YouTube csatornákat figyelve, hogy a próféciák beteljesedése szempontjából kulcsfontosságú országban, az AEÁ-ban mintha elkezdődött volna egy lelki megújulás az adventista egyházban.
@@ -601,6 +602,7 @@ Jel 13:17 "És hogy senki se vehessen, se el ne adhasson [semmit], hanem csak ak
 </summary>
 "Nincs már messze az az idő, amikor minden lélek próba elé kerül. <b>Ránk akarják majd erőltetni a fenevad bélyegének felvételét.</b> Akik lépésről lépésre engedtek a világ igényeinek és alkalmazkodtak szokásaihoz, azok inkább meghódolnak az éppen fennálló hatalmasságok előtt, mintsem kitegyék magukat a gúnyolódásnak és bántalmazásnak, a börtön- vagy halálbüntetésnek. <b>A küzdelem az isteni és az emberi parancsolatok megtartása között folyik.</b> Ekkoriban válik külön az egyházban az arany és a salak (5T, 1882, 81. o.)." {LDE 173.6}
 </details>
+
 ### "Csak két csoport létezhet." Valaki vagy az Isten pecsétjét vagy a fenevad bélyegét kapja meg, nincs harmadik opció. A két csoport közti nagy különbség, választóvonal az lesz, hogy az Istenhez tartozó csoport tagjai újjászületett emberek lesznek.
 
 <details><summary>
