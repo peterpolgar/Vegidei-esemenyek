@@ -146,6 +146,7 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
 “Dél a bibliai hagyományban az Isten nélküli emberi hatalmat jelképezi.”<br>
 “Történetileg ez azt jelenti, hogy <b>az egyház diadalt fog aratni a politikai és ateista mozgalmak felett</b>, majd egyazon karcsapással rövid időre benyomul Isten népe területére is.”
 </details>
+
 **Ez a hitetés** nem lokális, hanem **globális** esemény lesz, EW szerint "Az ellenség arra készül, hogy csodatévő hatalma által megtévessze az **egész világot**." {2SM 21.4}
 
 <details><summary>
