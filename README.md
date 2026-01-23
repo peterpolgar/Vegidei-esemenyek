@@ -1,12 +1,72 @@
-[toc]
-
-# Végidei események sorozata a jelentől a kegyelemidő  lezárulásáig
+# Végidei események sorozata a jelentől a kegyelemidő lezárulásáig
 
 __A Biblia és Ellen White írásai alapján. Az aktuális események részletes vizsgálata nélkül. Kifejezetten adventisták számára.__
 
 [GitHub](https://github.com/peterpolgar/Vegidei-esemenyek) bigdatahpc7@gmail.com
 
 (Ahol ▶ jelet lát, az azt jelenti, hogy amely bekezdés előtt szerepel ez a jel, ott a bekezdés állításának alátámasztásához van bizonyíték, ami a nyílra vagy a bekezdésre kattintással a bekezdés alatt lenyílva megjelenik, ismételt kattintással eltűnik. Ugyanezt fejezet és alfejezet címek esetén technikailag csak úgy lehetett megoldani, hogy az adott cím állításához tartozó bizonyíték a cím alatt egy ▶ jellel ellátott "Bizonyíték" nevű bekezdésre kattintva tekinthető meg.)
+
+## Tartalomjegyzék
+
+- [Bevezetés](#bevezetés)
+  - [Mi szükség van a próféciákat tanulmányozni?](#mi-szükség-van-a-próféciákat-tanulmányozni\?)
+  - [EW szerint többet kellene foglalkoznunk a próféciákkal, az előttünk levő eseményekkel.](#ew-szerint-többet-kellene-foglalkoznunk-a-próféciákkal,-az-előttünk-levő-eseményekkel.)
+  - [Hol tartunk a prófétikus időben?](#hol-tartunk-a-prófétikus-időben\?)
+  - [Mire várunk?](#mire-várunk\?)
+- [Jelen helyzet rövid összefoglalása](#jelen-helyzet-rövid-összefoglalása)
+  - [A világ helyzete](#a-világ-helyzete)
+  - [Az adventista egyház helyzete](#az-adventista-egyház-helyzete)
+- [Az adventisták körében egy soha nem látott lelki ébredés lesz](#az-adventisták-körében-egy-soha-nem-látott-lelki-ébredés-lesz)
+- [Nagy jelek és csodák általi hitetés – spiritizmus mozgalma](#nagy-jelek-és-csodák-általi-hitetés-–-spiritizmus-mozgalma)
+- [Mikor fogja Sátán megszemélyesíteni Jézust?](#mikor-fogja-sátán-megszemélyesíteni-Jézust\?)
+- [Rostálás](#rostálás)
+- [Természeti katasztrófák “egyre sűrűsödnek és súlyosbodnak”](#természeti-katasztrófák-“egyre-sűrűsödnek-és-súlyosbodnak”)
+- [Vasárnaptörvény](#vasárnaptörvény)
+- [Isten pecsétje és a fenevad bélyege](#isten-pecsétje-és-a-fenevad-bélyege)
+  - [Isten pecsétje](#isten-pecsétje)
+  - [A szombat megünneplése a pecsét megkapásának egyik feltétele, és a pecsét az Isteni védelem jele (ami ugyan emberi szemmel nem látható).](#a-szombat-megünneplése-a-pecsét-megkapásának-egyik-feltétele,-és-a-pecsét-az-isteni-védelem-jele-(ami-ugyan-emberi-szemmel-nem-látható).)
+  - [Milyen jellemű emberek kapnak pecsétet az Istentől?](#milyen-jellemű-emberek-kapnak-pecsétet-az-istentől?)
+  - [Fenevad bélyege](#fenevad-bélyege)
+  - ["Csak két csoport létezhet." Valaki vagy az Isten pecsétjét vagy a fenevad bélyegét kapja meg, nincs harmadik opció. A két csoport közti nagy különbség, választóvonal az lesz, hogy az Istenhez tartozó csoport tagjai újjászületett emberek lesznek.](#"csak-két-csoport-létezhet."-valaki-vagy-az-isten-pecsétjét-vagy-a-fenevad-bélyegét-kapja-meg,-nincs-harmadik-opció.-a-két-csoport-közti-nagy-különbség,-választóvonal-az-lesz,-hogy-az-istenhez-tartozó-csoport-tagjai-újjászületett-emberek-lesznek.)
+  - [Miért olyan nagy jelentőségű dolog a Szombat megtartása?](#miért-olyan-nagy-jelentőségű-dolog-a-szombat-megtartása?)
+  - [Kiről és mikor lehet mondani, hogy felvette a fenevad bélyegét?](#kiről-és-mikor-lehet-mondani,-hogy-felvette-a-fenevad-bélyegét?)
+  - [Az, hogy régen nem volt próba a szombat, nem jelenti azt, hogy akkor a jövőben sem lehet](#az,-hogy-régen-nem-volt-próba-a-szombat,-nem-jelenti-azt,-hogy-akkor-a-jövőben-sem-lehet)
+- [Késői eső](#késői-eső)
+  - [Mi az?](#mi-az\?)
+  - [Mikor volt / van / lesz?](#mikor-volt-/-van-/-lesz\?)
+  - [Mi a feltétele a Lélek kitöltésének?](#mi-a-feltétele-a-lélek-kitöltésének\?)
+  - [Mikor jön el a Lélek kitöltése?](#mikor-jön-el-a-lélek-kitöltése\?)
+  - [A késői eső eredménye](#a-késői-eső-eredménye)
+- [A hangos kiáltás, a hármas angyali üzenet](#a-hangos-kiáltás,-a-hármas-angyali-üzenet)
+  - [Az utolsó üzenet a világnak](#az-utolsó-üzenet-a-világnak)
+  - [A harmadik angyal üzenetének hirdetése és a késői eső egyidőben lesz](#a-harmadik-angyal-üzenetének-hirdetése-és-a-késői-eső-egyidőben-lesz)
+  - [Csodák fogják kísérni Isten üzenetének hirdetését, a jó és rossz oldal verseng egymással](#csodák-fogják-kísérni-isten-üzenetének-hirdetését,-a-jó-és-rossz-oldal-verseng-egymással)
+  - [Emberek ezrével térnek majd meg egyetlen napon, úgy mint pünkösdkor.](#emberek-ezrével-térnek-majd-meg-egyetlen-napon,-úgy-mint-pünkösdkor.)
+  - [A harmadik angyal "elválasztja a búzát a konkolytól és elpecsétel".](#a-harmadik-angyal-"elválasztja-a-búzát-a-konkolytól-és-elpecsétel".)
+  - [Hogyan fog terjedni az utolsó üzenet?](#hogyan-fog-terjedni-az-utolsó-üzenet\?)
+  - [Hol és kiknek fogják hirdetni?](#hol-és-kiknek-fogják-hirdetni\?)
+  - [Mi lesz a harmadik angyal üzenete hirdetésének hatása, eredménye?](#mi-lesz-a-harmadik-angyal-üzenete-hirdetésének-hatása,-eredménye\?)
+- [Üldözés jön, miközben és miután hirdetik az üzenetet amit Isten rájuk bízott](#üldözés-jön,-miközben-és-miután-hirdetik-az-üzenetet-amit-isten-rájuk-bízott)
+- [Egyedül megállni](#egyedül-megállni)
+- [Háború és gonoszság Jézus eljövetele előtt](#háború-és-gonoszság-jézus-eljövetele-előtt)
+- [Meddig fékezi a gonoszságot Isten?](#meddig-fékezi-a-gonoszságot-isten\?)
+- [Lesz egy rövid, nyomorúságos időszak a kegyelemidő lezárulása előtt](#lesz-egy-rövid,-nyomorúságos-időszak-a-kegyelemidő-lezárulása-előtt)
+- [Kegyelemidő lezárása](#kegyelemidő-lezárása)
+  - [Mikor fog bekövetkezni? Mire kell várni?](#mikor-fog-bekövetkezni\?-mire-kell-várni\?)
+  - [Nem fogjuk tudni, mikor következik be, nem lesz fizikai jele](#nem-fogjuk-tudni,-mikor-következik-be,-nem-lesz-fizikai-jele)
+  - [A kegyelemidő váratlanul végetér](#a-kegyelemidő-váratlanul-végetér)
+  - [Mi történik a kegyelemidő lezárásakor?](#mi-történik-a-kegyelemidő-lezárásakor\?)
+  - [Mi kezdődik a kegyelemidő lezárása után?](#mi-kezdődik-a-kegyelemidő-lezárása-után\?)
+  - [Isten által meghatározott tetszőleges időpont, vagy emberektől függő esemény?](#isten-által-meghatározott-tetszőleges-időpont,-vagy-emberektől-függő-esemény\?)
+  - [Mi szerint ítéltetünk meg?](#mi-szerint-ítéltetünk-meg\?)
+    - [Az elnyert világosság szerint](#az-elnyert-világosság-szerint)
+    - [Nincs mentség a szándékos vakságra](#nincs-mentség-a-szándékos-vakságra)
+    - [Istent és az igazságot meg nem ismerő emberek sorsa nem reménytelen](#istent-és-az-igazságot-meg-nem-ismerő-emberek-sorsa-nem-reménytelen)
+    - [A cselekedet indítéka a mérvadó, nem maga a cselekedet](#a-cselekedet-indítéka-a-mérvadó,-nem-maga-a-cselekedet)
+  - [A kegyelemidő lezárásáig kell felkészülni, mert Jézus eljövetelekor nem fog megváltozni a jellem](#a-kegyelemidő-lezárásáig-kell-felkészülni,-mert-jézus-eljövetelekor-nem-fog-megváltozni-a-jellem)
+- [Mi a bizonyíték arra, hogy a végső események néhány éven belül lezajlanak?](#mi-a-bizonyíték-arra,-hogy-a-végső-események-néhány-éven-belül-lezajlanak\?)
+- [Mi a végidei események elindítója, mi váltja ki a végidei események megindulását?](#mi-a-végidei-események-elindítója,-mi-váltja-ki-a-végidei-események-megindulását\?)
+- [Irodalomjegyzék](#irodalomjegyzék)
 
 ## Bevezetés
 
@@ -23,11 +83,11 @@ __A Biblia és Ellen White írásai alapján. Az aktuális események részletes
   Micsoda önző kijelentés volt, hogy más életet élne, ha tudná, hogy Ura tíz éven belül eljön! Hiszen Énók háromszáz évig járt Istennel. Ez tanulságul szolgál nekünk, hogy minden nap járjunk Istennel, és nincs biztonságunk, csak ha kitartóan várunk és őrködünk. (Ms, 1886, 10. o.) {LDE 42.5}"
   </details>
 
-- Máté 24:32 "A fügefáról vegyétek pedig a példát: mikor az ága már  zsendül, és levelet hajt, tudjátok, hogy közel van a nyár:"
+- Máté 24:32 "A fügefáról vegyétek pedig a példát: mikor az ága már zsendül, és levelet hajt, tudjátok, hogy közel van a nyár:"
 
-  Máté 24:33 "Azonképpen ti is, mikor mindezeket látjátok, tudjátok  meg, hogy közel van, az ajtó előtt."
+  Máté 24:33 "Azonképpen ti is, mikor mindezeket látjátok, tudjátok meg, hogy közel van, az ajtó előtt."
 
-  1Thess 5:4 "**De ti, atyámfiai, nem vagytok sötétségben, hogy [az]  a nap tolvaj módra lep[het]ne meg titeket.**"
+  1Thess 5:4 "**De ti, atyámfiai, nem vagytok sötétségben, hogy [az] a nap tolvaj módra lep[het]ne meg titeket.**"
 
 - Azért van értelme próféciákat tanulmányozni (többek között legalábbis), hogy a világban bekövetkező eseményeket látva, fel tudjuk mérni, hogy a nyugodt életmódot meddig lehet még folytatni, és a megsaccolt időtartam szerint meg tudjuk határozni, hogy milyen projekteket, munkákat érdemes megvalósítani a jövőben. Ha már rövid az előttünk álló idő, akkor:
 
@@ -35,7 +95,7 @@ __A Biblia és Ellen White írásai alapján. Az aktuális események részletes
   - Vallási projektekből is inkább a rövidebb távú vallási projektek választása. Talán érdemes nagyobb hangsúlyt fektetni a végidei eseményekre.
 
 - <details><summary>
-  A beteljesedő és a beteljesedett próféciák a keresztény vallás  hitelességének és Isten létezésének egyik bizonyítéka.
+  A beteljesedő és a beteljesedett próféciák a keresztény vallás hitelességének és Isten létezésének egyik bizonyítéka.
   </summary>
   Blaise Pascal, “Gondolatok”, 693. rész, 2. bekezdés:<br>
   “Különféle, egymással ellentétes vallásokat látok, következésképpen mind hamis, kivéve egyet, amelyik nem az. Mindegyik a maga tekintélyére hivatkozva követeli, hogy higgyenek benne, és fenyegeti a hitetleneket. Ezen az alapon tehát nem hiszek bennük. Mert ezt akárki mondhatja, akárki kijelentheti, hogy ő próféta. Ám azt látom, hogy a keresztény vallásban beteljesedett jövendölések vannak, ezt pedig egyik sem mondhatja el magáról.”
@@ -43,7 +103,7 @@ __A Biblia és Ellen White írásai alapján. Az aktuális események részletes
 
 - Jövőben teljesedő próféciák megismerése céljából, pl.:
 
-  - Felkészülés a jövőre, a nagy küzdelem mélyebb megértése,  felhívás megtérésre, figyelmeztetés a fenevad bélyegéről,  Babilonból való kihívás, stb.
+  - Felkészülés a jövőre, a nagy küzdelem mélyebb megértése, felhívás megtérésre, figyelmeztetés a fenevad bélyegéről, Babilonból való kihívás, stb.
 
 ### EW szerint többet kellene foglalkoznunk a próféciákkal, az előttünk levő eseményekkel.
 
@@ -65,13 +125,13 @@ Bizonyíték
 
 ### Hol tartunk a prófétikus időben?
 
-Tudjuk azt, hogy az utolsó bibliai idői prófécia 1844-ben  teljesedett be, ezért 1844-től fogva végidőben élünk.
+Tudjuk azt, hogy az utolsó bibliai idői prófécia 1844-ben teljesedett be, ezért 1844-től fogva végidőben élünk.
 
 Jelenleg valahol 1844 és a vasárnaptörvény bevezetése között vagyunk.
 
 ### Mire várunk?
 
-Mi adventisták a nevünk alapján advent várók vagyunk. Tudjuk, hogy előbb-utóbb vasárnaptörvény lesz bevezetve. Nehezen tudjuk elképzelni egy alapvetően szekuláris világban a  vasárnaptörvény bevezetését. Tudjuk azt, hogyha a vasárnaptörvény megjelenik, akkor **van rá  esély**, hogy Jézus eljövetele nagyon közeli, kb. néhány év. Tehát, ha azt látjuk, hogy a vasárnap-törvény előkészületei  kezdenek megjelenni, akkor elindul**hat** a végső események  sorozata, és itt fontos a feltételes mód, mert ugye az 1900-as év környékén (+- 20év) elkezdték megerősíteni és kiterjeszteni a már régebbi vasárnaptörvényeket, amiket kék törvényeknek (blue laws) neveznek, úgy tűnt, mintha elkezdődött volna a végidő, de végül mégsem kezdődött el. Mi a garancia, hogy ez nem ismétlődik meg, hogy azt látjuk a világban, de legfőképpen az USA-ban, hogy megjelennek a vasárnaptörvény előkészületei, de végül ezek ugyanúgy jelentéktelenné válnak, mint az 1900-as évek erőfeszítései? Felmerül a kérdés, hogy van-e biztosabb támpont a vasárnaptörvénynél, amiből tudhatjuk, hogy a végidei események elkezdődtek visszafordíthatatlanul?
+Mi adventisták a nevünk alapján advent várók vagyunk. Tudjuk, hogy előbb-utóbb vasárnaptörvény lesz bevezetve. Nehezen tudjuk elképzelni egy alapvetően szekuláris világban a vasárnaptörvény bevezetését. Tudjuk azt, hogyha a vasárnaptörvény megjelenik, akkor **van rá esély**, hogy Jézus eljövetele nagyon közeli, kb. néhány év. Tehát, ha azt látjuk, hogy a vasárnap-törvény előkészületei kezdenek megjelenni, akkor elindul**hat** a végső események sorozata, és itt fontos a feltételes mód, mert ugye az 1900-as év környékén (+- 20év) elkezdték megerősíteni és kiterjeszteni a már régebbi vasárnaptörvényeket, amiket kék törvényeknek (blue laws) neveznek, úgy tűnt, mintha elkezdődött volna a végidő, de végül mégsem kezdődött el. Mi a garancia, hogy ez nem ismétlődik meg, hogy azt látjuk a világban, de legfőképpen az USA-ban, hogy megjelennek a vasárnaptörvény előkészületei, de végül ezek ugyanúgy jelentéktelenné válnak, mint az 1900-as évek erőfeszítései? Felmerül a kérdés, hogy van-e biztosabb támpont a vasárnaptörvénynél, amiből tudhatjuk, hogy a végidei események elkezdődtek visszafordíthatatlanul?
 
 ## Jelen helyzet rövid összefoglalása
 
@@ -210,7 +270,7 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
 <b>Sátán világosság angyalaként és mint Jézus Krisztus jelenik majd meg külön-külön.</b> "Eljut addig a pontig, hogy megszemélyesíti a világosság angyalait, sőt felölti az Üdvözítő alakját <b>is</b> (2SM, 1894, 96. o.)." {LDE 162.1}
 </summary>
 2Kor 11:14 “Nem is csoda; hisz <b>maga a Sátán is átváltoztatja magát világosság angyalává</b>.”<br>
-"... <b>Sátán</b> alkalmazkodik a mai élet körülményeihez. <b>Világosság angyalaként jelenik meg.</b>" ...  {GC 588.2}<br>
+"... <b>Sátán</b> alkalmazkodik a mai élet körülményeihez. <b>Világosság angyalaként jelenik meg.</b>" ... {GC 588.2}<br>
 "... <b>A világosság angyalait és Jézus Krisztust megszemélyesítve fog megjelenni.</b>" {2SM 21.4}
 </details>
 
@@ -387,7 +447,7 @@ A balesetekért, szerencsétlenségekért, természeti csapásokért, és az erk
 "<b>A bibliai szombat tisztelőit a törvény és a rend ellenségeinek fogják nevezni, akik ledöntik a társadalom erkölcsi korlátait, felfordulást és erkölcsi romlást okoznak, és Isten csapásait hozzák a földre.</b> Lelkiismereti aggályaikat megátalkodottságnak, konokságnak és a felsőbbség semmibevevésének bélyegzik. Állampolgári hűtlenséggel fogják vádolni őket. Az Isten törvényének kötelező érvényét megtagadó lelkészek a szószékről fogják hirdetni, hogy engedelmességgel tartozunk a polgári hatalmaknak, mint Istentől rendelt tekintélynek. Törvényhozó testületek és bíróságok a parancsolatok megtartóit hamis színben tüntetik fel és elítélik. Szavaikat kiforgatják, és indítékaikat a lehető legrosszabbnak tartják." {GC 592.1}
 </details>
 
-Egy prófécia beazonosítása: "A Jelenések könyve 13. fejezetének próféciája kijelenti, hogy a  bárányszarvú fenevad által jelképezett hatalom **„azt cselekszi,  hogy a föld és annak lakosai imádják” a pápaságot**, amelyet itt a  „párduchoz hasonló” fenevad szimbolizál… **Ez a jövendölés akkor  teljesedik be**, amikor az Egyesült Államok kényszeríteni fogja  lakosait a vasárnap megtartására, amelyre Róma a maga  felsőbbsége elismerésének különleges jeleként tart igényt…" {LDE  129.2}
+Egy prófécia beazonosítása: "A Jelenések könyve 13. fejezetének próféciája kijelenti, hogy a bárányszarvú fenevad által jelképezett hatalom **„azt cselekszi, hogy a föld és annak lakosai imádják” a pápaságot**, amelyet itt a „párduchoz hasonló” fenevad szimbolizál… **Ez a jövendölés akkor teljesedik be**, amikor az Egyesült Államok kényszeríteni fogja lakosait a vasárnap megtartására, amelyre Róma a maga felsőbbsége elismerésének különleges jeleként tart igényt…" {LDE 129.2}
 
 <details><summary>
 "A szellemvilág követei azt állítják magukról, hogy a menny küldöttei, akiket Isten azzal bízott meg, hogy a vasárnap megtagadóit meggyőzzék tévedésükről, és arról, hogy az ország törvényeinek az Isten törvényének kijáró engedelmességgel tartoznak. Ezek a lények keseregni fognak a világ romlottsága miatt, és a vallástanítókkal együtt ők is vallják, hogy az erkölcstelenség oka a vasárnap meggyalázása."
@@ -412,7 +472,7 @@ A vasárnaptörvény nem felülről hanem alulról lesz kezdeményezve, azaz a n
 "Nagy és döntő események színtere lesz az úgynevezett keresztény világ. A lelkiismeret ellenőrzése érdekében – a pápai hatalom példája alapján törvényeket hoznak a hatalomon lévő emberek. Babilon <b>az összes nemzetet</b> a paráznaság haragborával itatja. <b>Ennek kivétel nélkül minden ország részese lesz.</b> Erről az időről jelenti ki János, a próféta (Jel 18:3-7; 17:13-14): „Ezeknek egy a szándékuk…”, az <b>egyetemes szövetség</b>, egyetlen nagy harmónia, <b>a sátáni erők egyesülése</b>. ..." {LDE 136.4}
 </details>
 
-**Mikor omlik le Babilon?** Jel 14:8 "És más angyal követé azt, mondván: Leomlott, leomlott  Babilon, a nagy város! **mert az ő paráznaságának haragborából  adott inni minden pogány népnek**." "Még mindig nem mondhatjuk azonban, hogy „paráznaságának  haragborából adott inni minden pogány népnek”. **Még nem itatott  meg minden népet**…" {LDE 198.3} "**Amíg ez az állapot nem következik be, illetve az egyház és a  világ egyesülése nem valósul meg teljes egészében a  kereszténységen belül, addig Babilon bukása nem lesz teljessé.  A változás fokozatos**, és a Jelenések 14:8-ban leírt jövendölés  tökéletes beteljesedése a jövő eseménye (GC, 1911, 389–390. o.)."  {LDE 198.4}
+**Mikor omlik le Babilon?** Jel 14:8 "És más angyal követé azt, mondván: Leomlott, leomlott Babilon, a nagy város! **mert az ő paráznaságának haragborából adott inni minden pogány népnek**." "Még mindig nem mondhatjuk azonban, hogy „paráznaságának haragborából adott inni minden pogány népnek”. **Még nem itatott meg minden népet**…" {LDE 198.3} "**Amíg ez az állapot nem következik be, illetve az egyház és a világ egyesülése nem valósul meg teljes egészében a kereszténységen belül, addig Babilon bukása nem lesz teljessé. A változás fokozatos**, és a Jelenések 14:8-ban leírt jövendölés tökéletes beteljesedése a jövő eseménye (GC, 1911, 389–390. o.)." {LDE 198.4}
 
 <details><summary>
 A bukott protestantizmus Rómának dolgozik. "A protestáns egyházak a vasárnapünneplés erőltetésével kierőszakolják a pápaság imádását…"
@@ -595,7 +655,7 @@ Jel 13:17 "És hogy senki se vehessen, se el ne adhasson [semmit], hanem csak ak
 "Isten jele vagy pecsétje a hetedik nap, a szombat, azaz a teremtés emlékünnepének megtartásában nyilvánul meg… <b>A fenevad bélyege</b> ezzel ellentétes: <b>a hét első napjának a megünneplése</b> (8T, 1904, 117. o.)." {LDE 224.3}
 </details>
 
-"„Azt teszi mindenkivel, kicsinyekkel és nagyokkal… hogy az ő jobb *kezük*re  vagy **homlokuk**ra bélyeget tegyenek” (Jel 13:16). *Vasárnap* nemcsak a  *kezükkel nem dolgozhatnak* az emberek, hanem **értelmükkel is el kell  ismerniük a vasárnapot nyugalomnapként** (SpTBC, 1897, 6–7. o.)." {LDE  224.4}
+"„Azt teszi mindenkivel, kicsinyekkel és nagyokkal… hogy az ő jobb *kezük*re vagy **homlokuk**ra bélyeget tegyenek” (Jel 13:16). *Vasárnap* nemcsak a *kezükkel nem dolgozhatnak* az emberek, hanem **értelmükkel is el kell ismerniük a vasárnapot nyugalomnapként** (SpTBC, 1897, 6–7. o.)." {LDE 224.4}
 
 <details><summary>
 "Ránk akarják majd erőltetni a fenevad bélyegének felvételét."
@@ -625,7 +685,7 @@ Vasárnap: Róma uralmának jele.
 
 ### Kiről és mikor lehet mondani, hogy felvette a fenevad bélyegét?
 
-"Még senki sem vette magára a fenevad bélyegét (Ev, 1899, 234. o.)." {LDE  224.5}
+"Még senki sem vette magára a fenevad bélyegét (Ev, 1899, 234. o.)." {LDE 224.5}
 
 <details><summary>
 Addig nem lehet felvenni a fenevad bélyegét, míg ki nem adják a rendeletet a vasárnap imádásának kikényszerítésére.
@@ -658,7 +718,7 @@ Aki e feltételek teljesülésekor tudatosan választja (vagy folytatja) a vasá
 "Ha az emberek elvetik az ünnepet, amelyet Isten a saját tekintélye jelének nyilvánított, és helyette azt tartják tiszteletben, amit Róma fennhatóságának jeléül választott, ezzel elfogadják a Róma iránti hódolat jelét: a fenevad bélyegét. Ez azonban nem történik meg, amíg a kérdést világosan az emberek elé nem tárják, és nem választottak Isten parancsolatai és az emberi rendeletek között. Aki ekkor is folytatja a törvényszegést, az magára veszi a fenevad bélyegét (GC, 1911, 449. o.)." {LDE 226.2}
 </details>
 
-"Ha valaki nem dolgozik vasárnap, az még nem jelenti a fenevad bélyegének felvételét…" {LDE  139.1}
+"Ha valaki nem dolgozik vasárnap, az még nem jelenti a fenevad bélyegének felvételét…" {LDE 139.1}
 
 <details><summary>
 Ne dolgozzunk szándékosan vasárnap, nehogy bajt hozzunk magunkra, inkább végezzünk missziómunkát vasárnap.
@@ -700,7 +760,7 @@ Ha vállalkozásod eddig vasárnap is üzemelt, és arra kényszerítenek, hogy 
 "A föld aratását érlelő késői eső azt a lelki kegyelmet ábrázolja, amely előkészíti az egyházat az ember Fiának eljövetelére. Ellenben ha nem hull a korai eső, nem lesz élet; a zöld gabonaszár nem érik be. Ha a korai záporok nem végezték el munkájukat, a késői eső egyetlen magot sem tehet tökéletessé (TM, 1897, 506. o.)." {LDE 183.3}
 </details>
 
-"A világ aratásának befejezéséhez közeledve a lelki kegyelem rendkívüli kiáradását ígérte Isten, amely előkészíti a gyülekezetet az ember Fiának eljövetelére. **A Szentírás a Lélek kitöltetését a késői esőhöz hasonlítja** (AA,  1911, 55. o.)." {LDE 186.1}
+"A világ aratásának befejezéséhez közeledve a lelki kegyelem rendkívüli kiáradását ígérte Isten, amely előkészíti a gyülekezetet az ember Fiának eljövetelére. **A Szentírás a Lélek kitöltetését a késői esőhöz hasonlítja** (AA, 1911, 55. o.)." {LDE 186.1}
 
 <details><summary>
 "A korai eső volt a Lélek kitöltetése az apostolok idejében, amely csodálatos gyümölcsöt érlelt. <b>A késői eső azonban ennél is nagyobb hatású lesz</b> (8T, 1904, 21. o.)." {LDE 185.5}
@@ -731,7 +791,7 @@ De "kiváltsága az egyháznak, hogy **már most is** rendelkezzen vele. Keress�
 "**Sátán semmitől nem fél annyira, mint hogy Isten népe megtisztítja az utat, és eltávolít minden akadályt, hogy az Úr kiáraszthassa Lelkét elbágyadt egyházára… Minden kísértésnek, minden nyílt vagy titkos ellentétes befolyásnak sikeresen ellen lehet állni: „nem erővel, sem hatalommal, hanem az én Lelkemmel! Azt mondja a Seregeknek Ura” (Zak 4:6)** (1SM, 1887, 124. o.)." {LDE 192.4}
 
 <details><summary>
-"<b>A késői eső el fog jönni, és Isten áldása majd mindenkit betölt, aki megtisztíttatott a szennytől. Ma kell átadnunk magunkat Jézus Krisztusnak, hogy alkalmassá tehessen az Úr színétől jövő felüdülés idejére – alkalmassá a Szentlélek keresztségére</b> (1SM, 1892, 191. o.)."  {LDE 193.1}
+"<b>A késői eső el fog jönni, és Isten áldása majd mindenkit betölt, aki megtisztíttatott a szennytől. Ma kell átadnunk magunkat Jézus Krisztusnak, hogy alkalmassá tehessen az Úr színétől jövő felüdülés idejére – alkalmassá a Szentlélek keresztségére</b> (1SM, 1892, 191. o.)." {LDE 193.1}
 </summary>
 "Reánk bízták jellemhibáink gyógyítását, hogy tisztítsuk meg a lélek templomát minden szennytől. <b>Csak ezután</b> árad ki ránk a késői eső, ahhoz hasonlóan, ahogy egykor a korai eső hullott a tanítványokra pünkösd napján (5T, 1882, 214. o.)." {LDE 192.3}
 </details>
