@@ -85,8 +85,6 @@ https://youtu.be/Xcd5vKzgWO8?si=rr3Vxo9f9mJbeIas<br>
 https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_revival_in_gen_z_2025_dec_5.md<br>
 https://youtu.be/PQyhReLNwig?si=EvHAcoZQpx87EC7b
 </details>
-
-
 ### Az adventista egyház helyzete
 
 Azt látom adventista YouTube csatornákat figyelve, hogy a próféciák beteljesedése szempontjából kulcsfontosságú országban, az AEÁ-ban mintha elkezdődött volna egy lelki megújulás az adventista egyházban.
@@ -718,9 +716,7 @@ Még nem volt és jelenleg nincs késői eső: "**jövő esemény**ként tekint�
 
 De "kiváltsága az egyháznak, hogy **már most is** rendelkezzen vele. Keressétek őt, imádkozzatok érte, higgyetek benne! Szükségünk van rá, és a menny csak arra vár, hogy mindnyájunknak adhasson Lelkéből! (Ev, 1895, 701. o.)." {LDE 188.4}
 
-### Útkészítés és lelki tanácsok
-
-**Mi a feltétele a Lélek kitöltésének?**
+### **Mi a feltétele a Lélek kitöltésének?**
 
 <details><summary>
 "Amint elkészül az út a Szentlélek előtt, megérkezik az áldás is."
