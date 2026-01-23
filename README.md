@@ -192,6 +192,12 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
   </details>
 
 - <details><summary>
+  Sátán a csodákat "egészen a próbaidő lezárulásáig folytatja majd".
+  </summary>
+  "Isten figyelmeztetett minket, hogy az utolsó napokban Sátán jeleket és csodákat fog véghezvinni. Egészen a próbaidő lezárulásáig folytatja majd ezeket a csodákat, mert általuk azt akarja igazolni, hogy ő a világosság angyala, és nem a sötétségé." {2SM 50.4}
+  </details>
+
+- <details><summary>
   A démonok embereket megszemélyesítő cselekedetei egyre gyakoribbá válnak.
   </summary>
   "Nem nehéz a gonosz angyaloknak meghalt szentek vagy bűnösök alakját fölvenni, és emberi szemek számára láthatóvá válni. <b>Ezek a jelenségek egyre gyakoribbak lesznek</b>, és az idők végéhez közeledve mind megdöbbentőbb eseményeknek leszünk tanúi (Ev, 1875, 604. o.)." {LDE 161.2}<br>
@@ -242,7 +248,7 @@ E világvallás vezetői azt fogják hirdetni, hogy elérkezett a <b>millenium</
 ## Mikor fogja Sátán megszemélyesíteni Jézust?
 
 <details><summary>
-EW szerint <b>ez a megszemélyesítés lesz</b> "<b>a dráma utolsó nagy felvonása</b>", "a csalás nagy drámájának tetőfoka", amit az "utolsó napok"ra tesz, azt is mondja, hogy Sátán a csodákat "egészen a próbaidő lezárulásáig folytatja majd", ez lesz <b>Sátán</b> "<b>utolsó, kétségbeesett erőfeszítés"e</b>, "utolsó stratégiája".
+EW szerint <b>ez a megszemélyesítés lesz</b> "<b>a dráma utolsó nagy felvonása</b>", "a csalás nagy drámájának tetőfoka", amit az "utolsó napok"ra tesz, ez lesz <b>Sátán</b> "<b>utolsó, kétségbeesett erőfeszítés"e</b>, "utolsó stratégiája".
 </summary>
 "Alulról jövő erő munkálkodik azon, hogy létrehozza <b>a dráma utolsó nagy felvonását</b>: Sátán Megváltóként való eljövetelét. ..." {LDE 162.4}<br>
 "... <b>Az utolsó napokban</b> úgy jelenik meg, hogy az emberek a másodszor is a földünkre eljövő Krisztusnak hiszik. Csakugyan átváltoztatja magát a világosság angyalává. Minden részletben utánozza Jézus megjelenését, ez mégis csak azokat tévesztheti meg, akik a fáraóhoz hasonlóan ellenállnak az igazságnak (5T, 1889, 698. o.)." {LDE 163.1}<br>
