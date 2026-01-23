@@ -1144,10 +1144,6 @@ EW-tól vannak idézetek, lásd ezt a bekezdést lenyitva, amikben arról ír, h
 További kapcsolódó idézetekért lásd: <u>https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/white-estate_issues_delay_forditasa.md</u>
 </details>
 
-## A végidei események rövid áttekintése
-
-todo
-
 ## Irodalomjegyzék
 
 - A **nem** revideált, 'eredeti' Károli fordítású Biblia
