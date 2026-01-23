@@ -20,7 +20,7 @@ __A Biblia és Ellen White írásai alapján. Az aktuális események részletes
 - [Nagy jelek és csodák általi hitetés – spiritizmus mozgalma](#nagy-jelek-és-csodák-általi-hitetés--spiritizmus-mozgalma)
 - [Mikor fogja Sátán megszemélyesíteni Jézust?](#mikor-fogja-sátán-megszemélyesíteni-Jézust)
 - [Rostálás](#rostálás)
-- [Természeti katasztrófák “egyre sűrűsödnek és súlyosbodnak”](#természeti-katasztrófák-“egyre-sűrűsödnek-és-súlyosbodnak”)
+- [Természeti katasztrófák “egyre sűrűsödnek és súlyosbodnak”](#természeti-katasztrófák-egyre-sűrűsödnek-és-súlyosbodnak)
 - [Vasárnaptörvény](#vasárnaptörvény)
 - [Isten pecsétje és a fenevad bélyege](#isten-pecsétje-és-a-fenevad-bélyege)
   - [Isten pecsétje](#isten-pecsétje)
