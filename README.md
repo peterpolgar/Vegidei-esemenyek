@@ -1,3 +1,5 @@
+[toc]
+
 # Végidei események sorozata a jelentől a kegyelemidő  lezárulásáig
 
 __A Biblia és Ellen White írásai alapján. Az aktuális események részletes vizsgálata nélkül. Kifejezetten adventisták számára.__
