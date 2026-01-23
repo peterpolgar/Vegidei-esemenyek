@@ -90,18 +90,6 @@ https://youtu.be/PQyhReLNwig?si=EvHAcoZQpx87EC7b
 
 Azt látom adventista YouTube csatornákat figyelve, hogy a próféciák beteljesedése szempontjából kulcsfontosságú országban, az AEÁ-ban mintha elkezdődött volna egy lelki megújulás az adventista egyházban.
 
-## Mi a végidei események elindítója, mi váltja ki a végidei események megindulását?
-
-EW halála óta eltelt több mint 100 év, de a végidei események még mindig nem kezdődtek el, látványosan legalábbis. Mire várunk, mi az az esemény, ami ha bekövetkezik, akkor egyértelműen tudhatjuk, hogy most már itt a vég, nincs visszaút? Ez az esemény a nagy jelek és csodák általi hitetés, a spiritizmus mozgalma. De ez az esemény csak úgy random valamikor elkezdődik, vagy van valami, ami ezt kiváltja? Igen van valami, ami nem más, mint Isten népének lelki megújulása. Tehát a végidei események kiváltó oka nem más, mint Isten népének lelki megújulása, erre várunk EW halála óta több mint 100 éve. És ez azt is jelenti, hogy Isten népének szüksége van lelki megújulásra, tehát a jelenlegi állapota nem megfelelő. És ez a nem megfelelő állapot is meg van jövendölve a Szentírásban, a Jelenések könyvében az egyház jelenlegi állapota a laodiceai állapottal jellemezhető, ami azt jelenti, hogy Isten népének többsége nem buzgó, nem lelkes, nem teljesen motivált az Istennek való szolgálatra, az Isten akaratának való teljes alárendelésre. **Tehát a laodiceai állapotból való megújulás hozza el a végidőt**, különösen az AEÁ-ban élő testvéreink lelki ébredése nagy jelentőségű, mert az AEÁ-ból indulnak ki a végidei események, ahogy azt alább látni fogjuk.
-
-<details><summary>
-EW-tól vannak idézetek, lásd ezt a bekezdést lenyitva, amikben arról ír, hogy Jézus az ő idejében eljöhetett volna, ha az adventisták elvégezték volna küldetésüket, éppen úgy, mint ahogy Izrael népe is bemehetett volna az ígéret földjére negyven évnyi vándorlás nélkül is, ha bíztak volna Istenben. Tehát ha EW igazat mond, és én hiszem, hogy igazat mond, ez azt jelenti, hogy a végidei események beindulása az adventistáktól mindenképpen függ. Lehet, hogy függ attól is, hogy Sátán és a többi gonosz angyalok és emberek mikorra készítik elő a terepet az embernél magasabb rendű lények létezésének nagy leleplezésére, a spiritiszta mozgalom nyílt elindítására. Meglátásom szerint Sátán nagyon is figyelembe veszi Isten népének állapotát, és csak akkor fog lépni a tervében, amikor Isten népe nagy mértékben elkezd megújulni, felébredni a laodiceai langyosságból, erre utal az alábbiakban idézett LDE 158.2 jelű bekezdés.
-</summary>
-"Nem az Isten akarata volt, hogy Krisztus eljövetele így késsen. Isten nem tervezte, hogy népe, Izrael, negyven évig a pusztában vándoroljon. Azt ígérte, hogy közvetlenül Kánaán földjére fogja vezetni őket, és szent, egészséges, és boldog néppé teszi őket. De azok, akikhez az ígéret először szólt, nem mehettek be "hitetlenség miatt" (Zsid 3:19). Szívüket bosszankodás, lázadás és gyűlölet töltötte el, s így Isten nem teljesíthette hozzájuk intézett ígéretét." {1SM 68.3}<br>
-"A negyven évig tartó hitetlenség, panaszkodás és lázadás kizárta az ősi Izraelt Kánaán földjéről. Ugyanezek a bűnök késleltették a modern Izrael bejutását a mennyei Kánaánba. Egyik esetben sem Isten ígéretei voltak a hibásak. Az Úr hitvalló népe körében megnyilvánuló hitetlenség, világiasság, szentségtelenség és viszálykodás azok, amik ebben a bűnös és fájdalmas világban tartanak hosszú évekig." {1SM 69.1}<br>
-“Ha akik egy szívvel-lélekkel fáradoztak 1844 munkájában, mind befogadták volna a harmadik angyal üzenetét, s a Szentlélek erejével hirdették volna, az Úr hatalmasan megsegítette volna igyekezetüket. Világosság özöne árasztotta volna el a világot. Évekkel ezelőtt figyelmeztettük volna a föld lakosait, befejeztük volna a záró munkát, s Krisztus eljött volna megváltani népét.” {8T 115.5}<br>
-További kapcsolódó idézetekért lásd: <u>https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/white-estate_issues_delay_forditasa.md</u>
-</details>
 
 ## Az adventisták körében egy soha nem látott lelki ébredés lesz
 
@@ -1142,6 +1130,23 @@ Akiknek nem volt lehetőségük megismerni Istent és az evangéliumot, sorsuk n
 Máté 24:34 "Bizony mondom nektek, **el nem múlik ez a nemzetség, mígnem mindezek meglesznek**."
 
 "Világunkban hamarosan fontos változások történnek, és **a végső események gyorsan követik egymást** (9T, 1909, 11, o.)." {LDE 11.2}
+
+## Mi a végidei események elindítója, mi váltja ki a végidei események megindulását?
+
+EW halála óta eltelt több mint 100 év, de a végidei események még mindig nem kezdődtek el, látványosan legalábbis. Mire várunk, mi az az esemény, ami ha bekövetkezik, akkor egyértelműen tudhatjuk, hogy most már itt a vég, nincs visszaút? Ez az esemény a nagy jelek és csodák általi hitetés, a spiritizmus mozgalma. De ez az esemény csak úgy random valamikor elkezdődik, vagy van valami, ami ezt kiváltja? Igen van valami, ami nem más, mint Isten népének lelki megújulása. Tehát a végidei események kiváltó oka nem más, mint Isten népének lelki megújulása, erre várunk EW halála óta több mint 100 éve. És ez azt is jelenti, hogy Isten népének szüksége van lelki megújulásra, tehát a jelenlegi állapota nem megfelelő. És ez a nem megfelelő állapot is meg van jövendölve a Szentírásban, a Jelenések könyvében az egyház jelenlegi állapota a laodiceai állapottal jellemezhető, ami azt jelenti, hogy Isten népének többsége nem buzgó, nem lelkes, nem teljesen motivált az Istennek való szolgálatra, az Isten akaratának való teljes alárendelésre. **Tehát a laodiceai állapotból való megújulás hozza el a végidőt**, különösen az AEÁ-ban élő testvéreink lelki ébredése nagy jelentőségű, mert az AEÁ-ból indulnak ki a végidei események, ahogy azt alább látni fogjuk.
+
+<details><summary>
+EW-tól vannak idézetek, lásd ezt a bekezdést lenyitva, amikben arról ír, hogy Jézus az ő idejében eljöhetett volna, ha az adventisták elvégezték volna küldetésüket, éppen úgy, mint ahogy Izrael népe is bemehetett volna az ígéret földjére negyven évnyi vándorlás nélkül is, ha bíztak volna Istenben. Tehát ha EW igazat mond, és én hiszem, hogy igazat mond, ez azt jelenti, hogy a végidei események beindulása az adventistáktól mindenképpen függ. Lehet, hogy függ attól is, hogy Sátán és a többi gonosz angyalok és emberek mikorra készítik elő a terepet az embernél magasabb rendű lények létezésének nagy leleplezésére, a spiritiszta mozgalom nyílt elindítására. Meglátásom szerint Sátán nagyon is figyelembe veszi Isten népének állapotát, és csak akkor fog lépni a tervében, amikor Isten népe nagy mértékben elkezd megújulni, felébredni a laodiceai langyosságból, erre utal az alábbiakban idézett LDE 158.2 jelű bekezdés.
+</summary>
+"Nem az Isten akarata volt, hogy Krisztus eljövetele így késsen. Isten nem tervezte, hogy népe, Izrael, negyven évig a pusztában vándoroljon. Azt ígérte, hogy közvetlenül Kánaán földjére fogja vezetni őket, és szent, egészséges, és boldog néppé teszi őket. De azok, akikhez az ígéret először szólt, nem mehettek be "hitetlenség miatt" (Zsid 3:19). Szívüket bosszankodás, lázadás és gyűlölet töltötte el, s így Isten nem teljesíthette hozzájuk intézett ígéretét." {1SM 68.3}<br>
+"A negyven évig tartó hitetlenség, panaszkodás és lázadás kizárta az ősi Izraelt Kánaán földjéről. Ugyanezek a bűnök késleltették a modern Izrael bejutását a mennyei Kánaánba. Egyik esetben sem Isten ígéretei voltak a hibásak. Az Úr hitvalló népe körében megnyilvánuló hitetlenség, világiasság, szentségtelenség és viszálykodás azok, amik ebben a bűnös és fájdalmas világban tartanak hosszú évekig." {1SM 69.1}<br>
+“Ha akik egy szívvel-lélekkel fáradoztak 1844 munkájában, mind befogadták volna a harmadik angyal üzenetét, s a Szentlélek erejével hirdették volna, az Úr hatalmasan megsegítette volna igyekezetüket. Világosság özöne árasztotta volna el a világot. Évekkel ezelőtt figyelmeztettük volna a föld lakosait, befejeztük volna a záró munkát, s Krisztus eljött volna megváltani népét.” {8T 115.5}<br>
+További kapcsolódó idézetekért lásd: <u>https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/white-estate_issues_delay_forditasa.md</u>
+</details>
+
+## A végidei események rövid áttekintése
+
+todo
 
 ## Irodalomjegyzék
 
