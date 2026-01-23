@@ -4,7 +4,7 @@ __A Biblia és Ellen White írásai alapján. Az aktuális események részletes
 
 [GitHub](https://github.com/peterpolgar/Vegidei-esemenyek) bigdatahpc7@gmail.com
 
-(Ahol ▶ jelet lát, az azt jelenti, hogy amely bekezdés előtt szerepel ez a jel, ott a bekezdés állításának alátámasztásához van bizonyíték, ami a nyílra vagy a bekezdésre kattintással a bekezdés alatt lenyílva megjelenik, ismételt kattintással eltűnik. Ugyanezt fejezet és alfejezet címek esetén technikailag csak úgy lehetett megoldani, hogy az adott cím állításához tartozó bizonyíték a cím alatt egy ▶ jellel ellátott "Bizonyíték" nevű bekezdésre kattintva tekinthető meg.)
+(Ahol ▶ jelet lát, az azt jelenti, hogy amely bekezdés előtt szerepel ez a jel, ott a bekezdés állításának alátámasztásához van bizonyíték és/vagy kapcsolódó idézet, ami a nyílra vagy a bekezdésre kattintással a bekezdés alatt lenyílva megjelenik, ismételt kattintással eltűnik. Ugyanezt fejezet és alfejezet címek esetén technikailag csak úgy lehetett megoldani, hogy az adott cím állításához tartozó bizonyíték a cím alatt egy ▶ jellel ellátott "Bizonyíték" nevű bekezdésre kattintva tekinthető meg.)
 
 ## Tartalomjegyzék
 
