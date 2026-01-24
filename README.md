@@ -322,8 +322,11 @@ EW szerint <b>ez a megszemélyesítés lesz</b> "<b>a dráma utolsó nagy felvon
 "... Az ördögi lelkek bejárják az egész világot. Elmennek a föld királyaihoz, hogy rávegyék őket a csalásra, és arra, hogy Sátánnak segítsenek a menny ellen vívott <b>utolsó</b> csatájában. ..." {GC 624.1}<br>
 "<b>A csalás nagy drámájának tetőfokán</b> Sátán meg fogja személyesíteni Krisztust. ..." {GC 624.2}
 </details>
-
-Sátán "hallja a meg nem szűnő kiáltást, hogy jöjjön el Jézus Krisztus és szabadítsa meg őket", ezek szerint mielőtt megtörténne a megszemélyesítés eseménye, az emberek (a hamis kereszténység tagjai) kívánni fogják Jézus visszatérését és szabadítását (persze Isten népe is várja Jézust, de a megszemélyesítés a hamis vallás tagjainak kiáltására lesz válasz). Miért akarnak szabadítást az emberek? **EW azt írja, hogy Sátán "Csaló és pusztító munkája** **a nyomorúság idején fog tetőzni**." {GC 623.3}. Ezek szerint **az emberek a nyomorúságból való szabadítást kívánják**. És **Sátán a megszemélyesítéssel "elhiteti velük, hogy megérkezett imáikra a válasz"**.
+<details><summary>
+Sátán "hallja a meg nem szűnő kiáltást, hogy jöjjön el Jézus Krisztus és szabadítsa meg őket", ezek szerint mielőtt megtörténne a megszemélyesítés eseménye, az emberek (a hamis kereszténység tagjai) kívánni fogják Jézus visszatérését és szabadítását (persze Isten népe is várja Jézust, de a megszemélyesítés a hamis vallás tagjainak kiáltására lesz válasz). Miért akarnak szabadítást az emberek? <b>EW azt írja, hogy Sátán "Csaló és pusztító munkája a nyomorúság idején fog tetőzni."</b> {GC 623.3}. Ezek szerint <b>az emberek a nyomorúságból való szabadítást kívánják</b>. És <b>Sátán a megszemélyesítéssel "elhiteti velük, hogy megérkezett imáikra a válasz".</b>
+</summary>
+"Sátán végső erőfeszítéseivel igyekszik megtéveszteni az embereket. <b>Hallja a meg nem szűnő kiáltást, hogy jöjjön el Jézus Krisztus és szabadítsa meg őket.</b> Utolsó stratégiája értelmében megszemélyesíti a várva várt Üdvözítőt, és <b>elhiteti velük, hogy megérkezett imáikra a válasz</b> (Ms, 1884, 16. o.)." {LDE 165.1}
+</details>
 
 <details><summary>
 <b>Mikor Sátán megszemélyesíti Krisztust, "azt állítja, hogy a szombatot áttette vasárnapra".</b>
