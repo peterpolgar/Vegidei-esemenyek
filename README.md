@@ -1072,7 +1072,11 @@ Máté 24:14 "És az Isten országának ez az evangéliuma hirdettetik majd az e
 
 "A hosszú, kesergéssel töltött sötétség éjszakája megpróbáltatást jelent, de **a reggel az emberek iránti kegyelemből késik**, mert ha már most visszatérne a Mester, sokakat készületlenül találna (2T, 1868, 194. o.)." {LDE 37.4}
 
-"**Isten hosszan várakozott**, hogy a szolgálat lelkülete az egész gyülekezetet birtokba vehesse, és mindenki a maga képessége szerint dolgozzon. **Amikor** az egyház tagjai a szükséges területeken, legyen az itthon vagy külföldön, elvégzik kijelölt munkájukat, és teljesítik evangéliumi küldetésüket: **ekkor** az egész világ **rövid idő alatt** részesül a figyelmeztetésben, **és az Úr Jézus hatalommal és dicsőséggel visszatér a földre** (AA, 1911, 111. o.)." {LDE 75.1}
+<details><summary>
+"<b>Isten hosszan várakozott</b>, hogy a szolgálat lelkülete az egész gyülekezetet birtokba vehesse, és mindenki a maga képessége szerint dolgozzon. <b>Amikor</b> az egyház tagjai a szükséges területeken, legyen az itthon vagy külföldön, elvégzik kijelölt munkájukat, és teljesítik evangéliumi küldetésüket: <b>ekkor</b> az egész világ <b>rövid idő alatt</b> részesül a figyelmeztetésben, <b>és az Úr Jézus hatalommal és dicsőséggel visszatér a földre</b> (AA, 1911, 111. o.)." {LDE 75.1}
+</summary>
+"Minden keresztény kiváltsága, hogy ne csak várja, hanem siettesse is a mi Urunknak, Jézus Krisztusnak az eljövetelét. Ha mindenki, aki az ő nevét vallja, gyümölcsöt teremne a dicsőségére, milyen gyorsan szét lehetne hinteni az egész világban az evangélium magját! Hamar beérne a termés a végső nagy aratásra, a Megváltó pedig eljönne, hogy begyűjtse az értékes gabonát. (Christ’s Object Lessons, 69.)" {ChS 96.3}
+</details>
 
 "**Mindenki eleget fog tudni ahhoz, hogy értelmesen dönthessen** (GC, 1911, 605. o.)." {LDE 217.4}
 
