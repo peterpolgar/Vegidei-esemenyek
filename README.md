@@ -427,7 +427,7 @@ Isten fokozatosan visszavonja óvó kezét, így a gonosz egyre nagyobb mérték
 ## Vasárnaptörvény
 
 <details><summary>
-A Jel. 13. fejezetében szereplő fenevad bélyege jelképezi a vasárnaptörvényt, bizonyítás a következő alfejezetben.
+A Jel. 13. fejezetében szereplő fenevad bélyege jelképezi a vasárnaptörvényt, bizonyítás a következő fejezetben.
 </summary>
 Jel 13:11 Azután láték más fenevadat feljőni a földből, akinek két szarva vala, a Bárányéhoz hasonló, de úgy szól vala, mint a sárkány;<br>
 Jel 13:16 Azt is teszi mindenkivel, kicsinyekkel és nagyokkal, gazdagokkal és szegényekkel, szabadokkal és szolgákkal, hogy az ő jobb kezükre vagy a homlokukra <b>bélyeg</b>et tegyenek;<br>
@@ -813,7 +813,11 @@ De "kiváltsága az egyháznak, hogy **már most is** rendelkezzen vele. Keress�
 "<b>Amikor a gyülekezetek élő, dolgozó közösséggé alakulnak</b>, őszinte kérésükre válaszul megkapják a Szentlelket… Akkor a menny csatornái megnyílnak, hogy kiárasszák rájuk a késői esőt (RH, 1890. február 25.)." {LDE 193.2}
 </details>
 
-Amikor Isten népe "tapasztalatból tudja, mit jelent az Üdvözítővel együtt dolgozni." {LDE 193.3}
+<details><summary>
+Amikor Isten népe "tapasztalatból tudja, mit jelent az Üdvözítővel együtt dolgozni."
+</summary>
+"Isten Lelkének nagy kiárasztása, amely dicsőségével fogja beragyogni az egész földet, nem jön el addig, amíg nem vagyunk megvilágosodott nép, amely <b>tapasztalatból tudja, mit jelent az Üdvözítővel együtt dolgozni. Amikor teljes szívvel, egészen odaszenteljük magunkat Krisztus szolgálatára</b>, Isten ezt a tényt a Szentlélek mérték nélküli kiárasztásával ismeri el; de ez nem történik meg addig, amíg <b>az egyház legnagyobb része</b> nem válik a menny munkatársává (ChS, 1896, 253. o.)." {LDE 193.3}
+</details>
 
 <details><summary>
 "<b>Amikor teljes szívvel, egészen odaszenteljük magunkat Krisztus szolgálatára</b>, Isten ezt a tényt a Szentlélek mérték nélküli kiárasztásával ismeri el; de ez nem történik meg addig, amíg <b>az egyház legnagyobb része</b> nem válik a menny munkatársává"
