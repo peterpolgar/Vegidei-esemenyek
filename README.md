@@ -403,7 +403,7 @@ A természeti katasztrófákban, emberi balesetekben, szerencsétlenségekben <b
 </details>
 
 <details><summary>
-"A föld történelmének utolsó jeleneteiben háború dúl."
+"Járványok, ragályos kórok és éhség lesz tapasztalható. ... Tűz és áradat pusztít el életet és vagyont."
 </summary>
 "A föld történelmének utolsó jeleneteiben háború dúl. Járványok, ragályos kórok és éhség lesz tapasztalható. A mélység vizei átlépik határukat. Tűz és áradat pusztít el életet és vagyont. Készen kell lennünk ama hajlékok számára, melyeket Krisztus készített az őt szeretőknek (Mar, 1897, 174. o.)." {LDE 24.2}
 </details>
