@@ -366,7 +366,7 @@ Az igazi keresztények fennmaradnak a rostán, míg a hamisak kirostáltatnak.
 </details>
 
 <details><summary>
-Lesz egy olyan rostálás, amit a "laodiceabeliekhez írt nyílt, egyenes bizonyságtétel" idéz elő. Akik szembeszállnak ezzel az üzenettel, ők fogják előidézni a rostálást Jézus népe körében.
+<b>Lesz egy olyan rostálás, amit a "laodiceabeliekhez írt nyílt, egyenes bizonyságtétel" idéz elő. Akik szembeszállnak ezzel az üzenettel, ők fogják előidézni a rostálást Jézus népe körében.</b>
 </summary>
 "<b>Megkérdeztem a látott rostálás jelentőségét, és megmutatták nekem, hogy azt az Igaz Bizonyság laodiceabeliekhez írt nyílt, egyenes bizonyságtétele idézte elő.</b> Ez mély benyomást gyakorol annak szívére, aki elfogadja; és arra indítja őt, hogy célját magasra tűzze, és a teljes igazságot hirdesse. Többen is lesznek, <b>akik nem tudják elviselni ezt a határozott tanúságtevést. Ők szembe fognak szállni az igazakkal, és ezzel előidézik a rostálást Jézus népe körében</b> (1T, 1875, 181. o.)." {LDE 175.3}<br>
 "Sokak Ákánhoz hasonlóan túl későn vallják meg bűneiket a megmeneküléshez. Nem állnak összhangban az igazsággal. Megvetik a nyílt és egyenes bizonyságtevést, ami elhatol a szívig, mi több, örülnének, ha a feddő üzenetet közvetítőket elhallgattatnák (3T, 1873, 272. o.)." {LDE 175.4}<br>
@@ -405,7 +405,7 @@ A természeti katasztrófákban, emberi balesetekben, szerencsétlenségekben <b
 <details><summary>
 "Járványok, ragályos kórok és éhség lesz tapasztalható. ... Tűz és áradat pusztít el életet és vagyont."
 </summary>
-"A föld történelmének utolsó jeleneteiben háború dúl. Járványok, ragályos kórok és éhség lesz tapasztalható. A mélység vizei átlépik határukat. Tűz és áradat pusztít el életet és vagyont. Készen kell lennünk ama hajlékok számára, melyeket Krisztus készített az őt szeretőknek (Mar, 1897, 174. o.)." {LDE 24.2}
+"A föld történelmének utolsó jeleneteiben háború dúl. <b>Járványok, ragályos kórok és éhség lesz tapasztalható.</b> A mélység vizei átlépik határukat. <b>Tűz és áradat pusztít el életet és vagyont.</b> Készen kell lennünk ama hajlékok számára, melyeket Krisztus készített az őt szeretőknek (Mar, 1897, 174. o.)." {LDE 24.2}
 </details>
 
  "**A tüzek, az árvizek, a földrengések, a nagy mélység dühöngései, a tengeri és szárazföldi szerencsétlenségek mind arra figyelmeztetnek, hogy Isten Lelke nem küzd örökké az emberrel** (3MR, 1897, 315. o.)." {LDE 26.2}
