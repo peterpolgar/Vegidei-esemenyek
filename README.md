@@ -145,6 +145,7 @@ Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy
 https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_church-state_union_article_2025_dec_30.md<br>
 https://youtu.be/Xcd5vKzgWO8?si=rr3Vxo9f9mJbeIas<br>
 https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_revival_in_gen_z_2025_dec_5.md<br>
+https://www.nadadventist.org/news/sunday-rest-proposal-raises-troubling-religious-liberty-concerns<br>
 https://youtu.be/PQyhReLNwig?si=EvHAcoZQpx87EC7b
 </details>
 
