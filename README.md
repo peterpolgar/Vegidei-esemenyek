@@ -156,7 +156,17 @@ Azt látom adventista YouTube csatornákat figyelve, hogy a próféciák betelje
 
 ## Az adventisták körében egy soha nem látott lelki ébredés lesz
 
+<details><summary>
 "Az egyház laodiceai állapotba süllyedt. Isten nincs jelen közöttük (1NL, 1898, 99. o.)." {LDE 49.1}
+</summary>
+Jel 3:14 "A laodiceabeli gyülekezet angyalának is írd meg: Ezt mondja az Ámen, a hű és igaz bizonyság, az Isten teremtésének kezdete:"<br>
+Jel 3:15 "Tudom a te dolgaidat, hogy te sem hideg nem vagy, sem hév; vajha hideg volnál, vagy hév."<br>
+Jel 3:16 "Így mivel lágymeleg vagy, sem hideg, sem hév, kivetlek téged az én számból."<br>
+Jel 3:17 "Mivel ezt mondod: Gazdag vagyok, és meggazdagodtam és semmire nincs szükségem; és nem tudod, hogy te vagy a nyomorult és a nyavalyás és szegény és vak és mezítelen:"<br>
+Jel 3:18 "Azt tanácslom neked, hogy végy tőlem tűzben megpróbált aranyat, hogy gazdaggá légy; és fehér ruhákat, hogy öltözeted legyen, és ne láttassék ki a te mezítelenségednek rútsága; és szemgyógyító írral kend meg a te szemeidet, hogy láss."<br>
+Jel 3:19 "Akiket én szeretek, megfeddem és megfenyítem: légy buzgóságos azért, és térj meg."<br>
+Jel 3:20 "Íme az ajtó előtt állok és zörgetek; ha valaki meghallja az én szómat és megnyitja az ajtót, bemegyek ahhoz és vele vacsorálok, és ő én velem."
+</details>
 
 <details><summary>
 "Azt mondom, hogy mélyreható ébredésnek kell történnie közöttünk! ... Bűnvallomásra, bűnbánatra és megtérésre van szükség. ..." {LDE 189.2}
