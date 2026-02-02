@@ -203,7 +203,7 @@ Továbbá Ellen White részletesen kifejti, hogy miért az Amerikai Egyesült Á
 </details>
 
 <details><summary>
-Ez a fenevad "elhiteti a földnek lakosait a jelekkel" (Jel 13:14-ből). <b>A jelenlegi szekuláris világból vallásos világ válik a nagy jelekkel és csodákkal kísért hitetés által</b>, erre enged következtetni a <b>Jelenések 13. fejezete</b> mellett a <b>Dániel 11:40</b> is.
+Ez a fenevad "elhiteti a földnek lakosait a jelekkel" (Jel 13:14-ből). <b>A jelenlegi szekuláris világból vallásos világ válik a nagy jelekkel és csodákkal kísért hitetés által</b>, erre enged következtetni a <b>Jelenések 13. fejezete</b> és egyéb (erre a bekezdésre kattintva megtekinthető) bibliaversek.
 </summary>
 Jel 13:11 "Azután láték más fenevadat feljőni a földből, akinek két szarva vala, a Bárányéhoz hasonló, de úgy szól vala, mint a sárkány;"<br>
 Jel 13:12 "És az előbbi fenevadnak minden hatalmasságát cselekszi ő előtte; és azt is cselekszi, hogy a föld és annak lakosai imádják az első fenevadat, amelynek halálos sebe meggyógyult vala;"<br>
@@ -214,11 +214,12 @@ Jel 19:20 "És megfogaték a fenevad, és ő vele együtt <b>a hamis próféta, 
 Máté 24:24 "Mert hamis Krisztusok és hamis próféták támadnak, és <b>nagy jeleket és csodákat tesznek</b>, annyira, hogy elhitessék, ha lehet, a választottakat is."<br>
 2Thess 2:8 "És akkor fog megjelenni <b>a törvénytaposó</b>, akit megemészt az Úr az ő szájának leheletével, és megsemmisít az ő megjelenésének feltűnésével;"<br>
 2Thess 2:9 "<b>Akinek eljövetele a Sátán ereje által van, a hazugságnak minden hatalmával, jeleivel és csodáival</b>,"<br>
-Dán 11:40 "<b>De a vég idején összetűz vele a déli király, és mint a forgószél, úgy megy reá az északi király szekerekkel, lovasokkal és sok hajóval, és betör az országokba, elözönli és végigjárja [azokat].</b>"<br>
+Dán 11:40 "De a vég idején összetűz vele a déli király, és mint a forgószél, úgy megy reá az északi király szekerekkel, lovasokkal és sok hajóval, és betör az országokba, elözönli és végigjárja [azokat]."<br>
 Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószövetségi írásmagyarázat professzora – a magyarul “Titkok megfejtése” című könyvében, a Dán 11:40-hez és szövegkörnyezetéhez kapcsolódóan ezt írja (részlet):<br>
 “Észak ily módon a Rossz hatalmát ábrázolja, amely Isten helyére tőr.”<br>
 “Dél a bibliai hagyományban az Isten nélküli emberi hatalmat jelképezi.”<br>
-“Történetileg ez azt jelenti, hogy <b>az egyház diadalt fog aratni a politikai és ateista mozgalmak felett</b>, majd egyazon karcsapással rövid időre benyomul Isten népe területére is.”
+“Történetileg ez azt jelenti, hogy <b>az egyház diadalt fog aratni a politikai és ateista mozgalmak felett</b>, majd egyazon karcsapással rövid időre benyomul Isten népe területére is.”<br>
+<b>De ez a magyarázata Dán 11:40-nek vitatható</b>, itt egy történelmi magyarázat: https://youtu.be/PI5X3vUnzvs?si=H5ucsIaMQiPWr0Fz
 </details>
 
 **Ez a hitetés** nem lokális, hanem **globális** esemény lesz, EW szerint "Az ellenség arra készül, hogy csodatévő hatalma által megtévessze az **egész világot**." {2SM 21.4}
