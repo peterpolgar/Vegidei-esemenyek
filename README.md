@@ -219,7 +219,7 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
 “Észak ily módon a Rossz hatalmát ábrázolja, amely Isten helyére tőr.”<br>
 “Dél a bibliai hagyományban az Isten nélküli emberi hatalmat jelképezi.”<br>
 “Történetileg ez azt jelenti, hogy <b>az egyház diadalt fog aratni a politikai és ateista mozgalmak felett</b>, majd egyazon karcsapással rövid időre benyomul Isten népe területére is.”<br>
-<b>De ez a magyarázata Dán 11:40-nek vitatható</b>, itt egy történelmi magyarázat: https://youtu.be/PI5X3vUnzvs?si=H5ucsIaMQiPWr0Fz
+<b>De ez a magyarázata Dán 11:40-nek vitatható</b>, itt egy történelmi magyarázat: https://youtu.be/PI5X3vUnzvs?si=H5ucsIaMQiPWr0Fz, de ezzel egy problémát látok, hogy szerintem a Dán 11:45 nem a jövőben fog beteljesedni, hanem már beteljesedett az Oszmán Birodalom 1918-as összeomlásával, amikor a mai Izrael területe feletti ellenőrzését is elvesztette.
 </details>
 
 **Ez a hitetés** nem lokális, hanem **globális** esemény lesz, EW szerint "Az ellenség arra készül, hogy csodatévő hatalma által megtévessze az **egész világot**." {2SM 21.4}
