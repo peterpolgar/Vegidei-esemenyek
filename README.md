@@ -61,8 +61,9 @@ __A Biblia és Ellen White írásai alapján. Az aktuális események részletes
   - [Mi szerint ítéltetünk meg?](#mi-szerint-ítéltetünk-meg)
     - [Az elnyert világosság szerint](#az-elnyert-világosság-szerint)
     - [Nincs mentség a szándékos vakságra](#nincs-mentség-a-szándékos-vakságra)
-    - [Istent és az igazságot meg nem ismerő emberek sorsa nem reménytelen](#istent-és-az-igazságot-meg-nem-ismerő-emberek-sorsa-nem-reménytelen)
     - [A cselekedet indítéka a mérvadó, nem maga a cselekedet](#a-cselekedet-indítéka-a-mérvadó-nem-maga-a-cselekedet)
+    - [Istent és az igazságot meg nem ismerő emberek sorsa nem reménytelen](#istent-és-az-igazságot-meg-nem-ismerő-emberek-sorsa-nem-reménytelen)
+    - ["a törvény szerint fognak megítélni minden embert"](#a-törvény-szerint-fognak-megítélni-minden-embert)
   - [A kegyelemidő lezárásáig kell felkészülni, mert Jézus eljövetelekor nem fog megváltozni a jellem](#a-kegyelemidő-lezárásáig-kell-felkészülni-mert-jézus-eljövetelekor-nem-fog-megváltozni-a-jellem)
 - [Mi a bizonyíték arra, hogy a végső események néhány éven belül lezajlanak?](#mi-a-bizonyíték-arra-hogy-a-végső-események-néhány-éven-belül-lezajlanak)
 - [Mi a végidei események elindítója, mi váltja ki a végidei események megindulását?](#mi-a-végidei-események-elindítója-mi-váltja-ki-a-végidei-események-megindulását)
@@ -227,7 +228,8 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
 <details><summary>
 <b>A hitetés nagy jelek és csodák által fog végbemenni:</b>
 </summary>
-"... <b>A természetfölötti megnyilatkoztatásokba vetett hit ajtót nyit az ördög csalásai és tanításai előtt, és a szellemvilág befolyása meg fog mutatkozni az egyházakban.</b>" {GC 603.2}
+"... <b>A természetfölötti megnyilatkoztatásokba vetett hit ajtót nyit az ördög csalásai és tanításai előtt, és a szellemvilág befolyása meg fog mutatkozni az egyházakban.</b>" {GC 603.2}<br>
+"... <b>A Sátán azért tesz csodákat, hogy félrevezessen.</b> Legfelsőbbnek fogja hirdetni hatalmát. ..." {7BC 911.6}
 </details>
 
 - <details><summary>
@@ -238,16 +240,22 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
   "A beteget előttünk gyógyítják meg. <b>Szemünk láttára</b> történnek majd káprázatos események. Vajon felkészültünk a megpróbáltatásra, amely akkor vár ránk, amikor Sátán hazug csodái még teljesebben mutatkoznak meg? (1T, 1862, 302. o.)." {LDE 166.2}<br>
   "Gonosz lelkek befolyása alatt álló emberek fognak csodákat véghezvinni. ..." {2SM 53.2}<br>
   "Az Ige azt mondja, hogy az ellenség olyan eszközök által dolgozik, akik elpártoltak a hittől, és most látszólag emberfeletti dolgokat művelnek, <b>akár tüzet is aláhoznak</b> az égből a szemünk láttára (2SM, 1907, 54. o.)." {LDE 167.5}<br>
-  "<b>Isten figyelmeztetett minket, hogy az utolsó napokban Sátán jeleket és csodákat fog véghezvinni. Egészen a próbaidő lezárulásáig folytatja majd ezeket a csodákat</b>, mert általuk azt akarja igazolni, hogy ő a világosság angyala, és nem a sötétségé." {2SM 50.4}
+  "<b>Isten figyelmeztetett minket, hogy az utolsó napokban Sátán jeleket és csodákat fog véghezvinni. Egészen a próbaidő lezárulásáig folytatja majd ezeket a csodákat</b>, mert általuk azt akarja igazolni, hogy ő a világosság angyala, és nem a sötétségé." {2SM 50.4}<br>
+  "Láttam, hogy lassanként istenkáromlásnak tekintik a kopogtatás kárhoztatását: mindjobban elterjed, s általa Sátán hatalma növekszik. <b>Követői közül soknak hatalma lesz csodákat művelni, még tüzet is hoznak alá az égből az emberek szeme láttára.</b> Láttam, hogy ezek a modern varázslók a kopogás és a mesmerismus által igyekeznek Krisztus csodatetteit megmagyarázni, és <b>sokan elhiszik majd, hogy Jézus minden csodatettének alapja ez a hatalom volt</b>. Utalást kaptam Mózes napjaira, s láttam azokat a jeleket és csodákat, amelyeket Isten művelt általa a Fáraó előtt, melyek legtöbbjét az egyiptomi varázslók is utánozták. S <b>éppen a szentek végső szabadulása előtt Isten hatalmasan munkálkodik népéért, s a modern kuruzslóknak is megengedi, hogy utánozzák Isten csodáit</b>." {EW 59.2}<br>
+  "... Eljön az idő, amikor a Sátán Krisztusnak mondva magát <b>„szemetek láttára"</b> fog csodákat tenni. ..." {7BC 911.3}<br>
+  "Az ellenség csodái - (Máté 7: 21-23) Ezek állítják, hogy a Krisztus követői, de szem elöl veszítették vezetőjüket. Hajtogathatják „Uram, Uram," rámutathatnak meggyógyított betegeikre, s más csodás cselekedetekre. Állíthatják, hogy többel rendelkeznek Isten hatalmából és Lelkéből, mint amennyiről törvényének megtartói bizonyságot tesznek. Cselekedeteik mégis az igazságosság, az igaz tettek ellenségének fölügyelete alatt történtek, akinek szándéka a lelkek elhitetése, célja pedig az engedelmességtől, az igazságtól és a kötelességtől való elvezetés. A csodatevő hatalom a közeljövőben még szembe-szökőbben fog megnyilvánulni, hiszen ezt olvassuk róla: „Nagy jeleket tesz annyira, hogy tüzet is hoz alá az égből a földre az emberek láttára." (Idők jelei 1885 február 26)" {7BC 975.12}
   </details>
   
-- "Betegek meggyógyulnak, és sok tagadhatatlan csoda történik." (EW)
+- "Hamis kijelentésekkel kell majd szembesülnünk. Hamis próféták támadnak. Lesznek hamis álmok és hamis látomások. ... Sátáni csalásokon keresztül nagyszerű csodákat visznek majd véghez. ..." {2SM 49.1}
+
+- "... Betegek meggyógyulnak, és sok tagadhatatlan csoda történik. ..." {GC 588.2}
 
 - <details><summary>
   Sátán tüzet hoz alá az égből a földre annak bizonyságaképpen, hogy ő Isten.
   </summary>
   „Nagy jeleket tesz, annyira, hogy tüzet is hoz alá az égből a földre, az emberek láttára. És elhiteti a föld lakosait a jelekkel, amelyek adatnak néki, hogy cselekedje” (Jel 13:13-14)<br>
-  "Sátán eljön, hogy megtévessze, ha lehet, még magukat a választottakat is. Azt állítja magáról, hogy ő Krisztus, nagy orvosmisszionáriusnak tetteti magát. <b>Tüzet hoz le mindenki szeme előtt, annak bizonyságaképpen, hogy ő Isten</b> (MM, 1903, 87–88. o.)." {LDE 167.4}
+  "Sátán eljön, hogy megtévessze, ha lehet, még magukat a választottakat is. Azt állítja magáról, hogy ő Krisztus, nagy orvosmisszionáriusnak tetteti magát. <b>Tüzet hoz le mindenki szeme előtt, annak bizonyságaképpen, hogy ő Isten</b> (MM, 1903, 87–88. o.)." {LDE 167.4}<br>
+  "... <b>Közel az idő, mikor a Sátán csodákat tesz megerősíteni azt a hiedelmet, hogy ő Isten.</b> Isten egész népe álljon most az igazság alapzatán, amint azt a harmadik angyal üzenete hirdeti. <b>Az összes kellemes képeket, a véghez vitt csodákat fölhozzák majd, hogy ha lehetséges lenne, elhitessék a választottakat is.</b> Egyedüli remény bárki számára, ha szilárdan ragaszkodik a bizonyítékokhoz, melyek igazságosságban alátámasztják az igazságot. (Szemle és hírnők 1906 augusztus 9)" {7BC 975.11}
   </details>
 
 - <details><summary>
@@ -257,7 +265,8 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
   "Gonosz lelkek befolyása alatt álló emberek fognak csodákat véghezvinni. Átkuk által beteggé teszik az embereket, majd az átkot visszavéve <b>azt a benyomást keltik</b> a kívülállók szemében, hogy csodálatos gyógyulást vittek véghez a betegeken. Sátán újra és újra így mutatkozik meg (259. Letter, 1903)." {2SM 53.2}<br>
   "Hamarosan tüneményes események szemtanúi leszünk, amelyek szorosan kapcsolódnak a hitetőhöz. Isten szava kijelenti, hogy az ördög csodákat fog tenni. <b>Embereket betegít meg, azután hirtelen visszavonja róluk gonosz hatalmát</b> és gyógyultnak tekintik őket. Ezek a látszólag gyors javulások próbára teszik a hetednapi adventisták állhatatosságát (2SM, 1904, 53. o.)." {LDE 166.4}<br>
   "Sátán bizonyos megtévesztések által olyan <b>csodák</b>at tud véghezvinni, amelyek <b>valódinak látszanak</b>. Ez a probléma jelentette az izraelitáknak a próbát Egyiptomból való szabadulásuk idején (2SM, 1907, 52. o.)." {LDE 167.1}<br>
-  "„Nagy jeleket tesz, annyira, hogy tüzet is hoz alá az égből a földre, az emberek láttára. És elhiteti a föld lakosait a jelekkel, amelyek adatnak néki, hogy cselekedje” (Jel 13:13-14). Ez a jövendölés <b>nem puszta csalások</b>ról szól. Az embereket olyan csodák vezetik félre, amelyek véghezvitelére <b>valóban hatalma lesz</b> Sátán eszközeinek, és <b>nem csak látszatot keltenek</b> (GC, 1911, 553. o.)." {LDE 168.1}
+  "„Nagy jeleket tesz, annyira, hogy tüzet is hoz alá az égből a földre, az emberek láttára. És elhiteti a föld lakosait a jelekkel, amelyek adatnak néki, hogy cselekedje” (Jel 13:13-14). Ez a jövendölés <b>nem puszta csalások</b>ról szól. Az embereket olyan csodák vezetik félre, amelyek véghezvitelére <b>valóban hatalma lesz</b> Sátán eszközeinek, és <b>nem csak látszatot keltenek</b> (GC, 1911, 553. o.)." {LDE 168.1}<br>
+  "A természetfeletti erőnek ezzel a megnyilvánulásával, amikor a kígyót tette közvetítőjévé, okozta Sátán Ádám és Éva bukását az Édenben. Az idők vége előtt pedig még megdöbbentőbb csodákat is tesz. <b>Ameddig a hatalma kiterjed, tényleges csodákat is fog művelni.</b> A Szentírás kijelenti: „E csodákkal, melyeket a fenevad színe előtt volt hatalma művelni, megtévesztette a föld lakóit.” (Jel. 13:14) Tehát nem csak színlelésre van hatalma. <b>A Szentírás többet mond, mint csaló szemfényvesztést. De van bizonyos határ, melyen Sátán nem léphet túl; ekkor hívja segítségül a szemfényvesztést, hogy hamisítsa azt, amit nincs hatalma valóságosan megtenni.</b> ..." {5T 698.1}
   </details>
 
 - <details><summary>
@@ -273,10 +282,12 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
   </details>
 
 - <details><summary>
-  A démonok embereket megszemélyesítő cselekedetei egyre gyakoribbá válnak.
+  A démonok embereket megszemélyesítő cselekedetei egyre gyakoribbá válnak, és ezeket a megszemélyesítéseket arra használják fel, hogy hamis tanokat fogadtassanak el emberekkel.
   </summary>
   "Nem nehéz a gonosz angyaloknak meghalt szentek vagy bűnösök alakját fölvenni, és emberi szemek számára láthatóvá válni. <b>Ezek a jelenségek egyre gyakoribbak lesznek</b>, és az idők végéhez közeledve mind megdöbbentőbb eseményeknek leszünk tanúi (Ev, 1875, 604. o.)." {LDE 161.2}<br>
-  "A szenteknek a jelenvaló igazság alapos ismeretére kell eljutniuk, állításaikat a Szentírásból kötelesek alátámasztani. Ismerniük kell a halottak állapotát, mert <b>ördögi lelkek jelennek meg előttük</b> rég elhunyt, szeretett barátaik vagy rokonaik képében, azt állítva, hogy a szombat és más bibliai tantételek is megváltoztak (EW, 1854, 87. o.)." {LDE 156.3}
+  "A szenteknek a jelenvaló igazság alapos ismeretére kell eljutniuk, állításaikat a Szentírásból kötelesek alátámasztani. Ismerniük kell a halottak állapotát, mert <b>ördögi lelkek jelennek meg előttük</b> rég elhunyt, szeretett barátaik vagy rokonaik képében, <b>azt állítva, hogy a szombat és más bibliai tantételek is megváltoztak</b> (EW, 1854, 87. o.)." {LDE 156.3}<br>
+  "<b>Sátánnak hatalma lesz ahhoz, hogy Jézusban elszunnyadt rokonaink vagy barátaink alakjában jelenjék meg előttünk.</b> Úgy tünteti fel, mintha ezek a barátaink megjelennének közöttünk, mert az általunk jól ismert szavaikat mondják, amelyeket életükben is használtak, s fülünket ugyanazok a hangok ütik meg, amelyekből az életben megismertük őket. <b>Mindennek egyedüli célja, hogy csapdásba esve, hitelt adjunk ennek a csalásnak.</b>" {EW 87.1}<br>
+  "<b>Láttam</b>, hogy a szenteknek teljesen tisztában kell lenniük az igazsággal, ezt pedig csak a Szentírás segítségével érhetik el. <b>Tisztában kell lenniük a holtak állapotával, mert ördögi lelkek gyakran fognak megjelenni nekik szeretett barátaiknak és rokonaiknak alakjában, s szeretnék elhitetni velük, hogy a szombat parancsolata megváltozott, és több olyan tant közölnek, amelynek a Szentírás ellentmond.</b> Mindent megtesznek, hogy rokonszenvet ébresszenek, és <b>szavaik bizonyítására csodákat is művelnek</b>. Isten népének fel kell készülnie, hogy e szellemeknek a Biblia igazsága által ellenállhasson: hogy a halottak semmit sem tudnak, s azok, akik megjelennek nekik, az ördög szellemei. ..." {EW 87.2}
   </details>
 
 <details><summary>
@@ -284,7 +295,9 @@ Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószöve
 </summary>
 2Kor 11:14 “Nem is csoda; hisz <b>maga a Sátán is átváltoztatja magát világosság angyalává</b>.”<br>
 "... <b>Sátán</b> alkalmazkodik a mai élet körülményeihez. <b>Világosság angyalaként jelenik meg.</b>" ... {GC 588.2}<br>
-"... <b>A világosság angyalait és Jézus Krisztust megszemélyesítve fog megjelenni.</b>" {2SM 21.4}
+"... <b>A világosság angyalait és Jézus Krisztust megszemélyesítve fog megjelenni.</b>" {2SM 21.4}<br>
+"... <b>Sátán</b> a világosság angyalának öltözve ment Jézushoz a kísértés pusztájában. Az emberhez sem jön visszataszító alakban, mint néha rajzolják, hanem a világosság angyalaként. <b>Jézust megszemélyesítve fog eljönni, hatalmas csodákat művelni. Az emberek le fognak borulni és imádják őt, mintha Jézus Krisztus lenne.</b> Ránk is ránk parancsolnak, hogy imádjuk ezt a lényt, akit a világ Krisztusként dicsőít. Mit tegyünk akkor? Mondjuk meg hogy Krisztus pontosan ilyen ellenségre figyelmeztetett minket, aki az ember leggonoszabb ellensége, mégis Istennek mondja magát. S hogy mikor Krisztus valóban megjelenik, hatalommal és nagy dicsőséggel jön tízezerszer tízezer és ezerszer ezer angyal kíséretében, s hogy mikor eljön, meg fogjuk ismerni hangját. (Szemle és hírnök 1888 december 18)" {6BC 1105.11}<br>
+"... Az utolsó napokban úgy jelenik majd meg, hogy az emberek Krisztusnak gondolják őt, aki most jött el másodszor a világunkba. Valóban a világosság angyalának változtatja el magát. Bár minden részletében olyan lesz a megjelenése, mintha Krisztus volna, ez azonban senki mást nem fog elhitetni, csak azokat, akik a fáraó módjára ellen akarnak állni az igazságnak." {5T 698.1}
 </details>
 
 <details><summary>
@@ -313,7 +326,13 @@ Az <b>Amerikai Egyesült Államok protestánsai</b> fogják először felkarolni
 "Amikor a vallásszabadság hazája, az Egyesült Államok egyesül majd a pápasággal a lelkiismeret elnyomásában, és <b>arra kényszeríti az embereket, hogy hamis szombatot tiszteljenek</b>, a föld minden népét ráveszik, hogy kövessék a példájukat (6T, 1900, 18. o.)." {LDE 135.1}
 </details>
 
+<details><summary>
 A spiritiszta világvallás, mint hamisítvány "annyira fog hasonlítani az igazságra, hogy csakis a Szentírás által lehet különbséget tenni köztük. ..." {GC 593.1}
+</summary>
+"... Isten népének a Szentírásnál kell védelmet keresnie a hamis tanítók befolyása és a sötétség lelkeinek megtévesztő hatalma ellen. Sátán ... Most összeszedi minden erejét a Krisztus és követői elleni végső küzdelemhez. Nemsokára szemtanúi lehetünk utolsó nagy csalásának. Az antikrisztus szemünk láttára viszi véghez bámulatos tetteit. <b>A hamisítvány annyira fog hasonlítani az igazságra, hogy csakis a Szentírás által lehet különbséget tenni köztük.</b> ..." {GC 593.1}<br>
+"Ez utolsó napokban a Sátán leszáll a gonoszságnak minden csalárdágával azok között, akik elvesznek. <b>Ő sátáni fölsége csodákat tesz a hamis próféták szemeláttára olyanok előtt, akik állítják, hogy ő valóban Krisztus. Azoknak adja hatalmát, akik segítik ámításaiban; ezért, akik állítják, hogy Isten nagy hatalmával rendelkeznek, azokat csakis a csodálatos leleplező: a Jehova törvénye segítségével lehet fölismernünk.</b> Az Úr mondja, hogyha lehetséges lenne, még magukat a választottakat is elhitetnék. <b>A báránybőr annyira valóságosnak tűnik, annyira eredetinek, hogy a farkast nem lehet fölismerni, csak ha Isten nagy erkölcsi mértékéhez fordulunk, s ott találjuk, hogy ezek az Úr törvényének megrontói.</b> (Advent szemle és szombat hírnök 1885 augusztus 25)" {5BC 1087.8}<br>
+"... Eljön az idő, amikor a Sátán Krisztusnak mondva magát „szemetek láttára" fog csodákat tenni. S ha lábad nem áll szilárdan Isten igazságán, el fog vezetni téged is alapzatodról. ..." {7BC 911.3}
+</details>
 
 <details><summary>
 E világvallás vezetői azt fogják hirdetni, hogy elérkezett a <b>millennium</b>, azaz "elérkezett az ezer földi esztendő, amelyre olyan régóta vártak. <b>Az egész világ 'megtért'</b>".
@@ -335,6 +354,7 @@ EW szerint <b>ez a megszemélyesítés lesz</b> "<b>a dráma utolsó nagy felvon
 "... Az ördögi lelkek bejárják az egész világot. Elmennek a föld királyaihoz, hogy rávegyék őket a csalásra, és arra, hogy Sátánnak segítsenek a menny ellen vívott <b>utolsó</b> csatájában. ..." {GC 624.1}<br>
 "<b>A csalás nagy drámájának tetőfokán</b> Sátán meg fogja személyesíteni Krisztust. ..." {GC 624.2}
 </details>
+
 <details><summary>
 Sátán "hallja a meg nem szűnő kiáltást, hogy jöjjön el Jézus Krisztus és szabadítsa meg őket", ezek szerint mielőtt megtörténne a megszemélyesítés eseménye, az emberek (a hamis kereszténység tagjai) kívánni fogják Jézus visszatérését és szabadítását (persze Isten népe is várja Jézust, de a megszemélyesítés a hamis vallás tagjainak kiáltására lesz válasz). Miért akarnak szabadítást az emberek? <b>EW azt írja, hogy Sátán "Csaló és pusztító munkája a nyomorúság idején fog tetőzni."</b> {GC 623.3}. Ezek szerint <b>az emberek a nyomorúságból való szabadítást kívánják</b>. És <b>Sátán a megszemélyesítéssel "elhiteti velük, hogy megérkezett imáikra a válasz".</b>
 </summary>
@@ -345,7 +365,7 @@ Sátán "hallja a meg nem szűnő kiáltást, hogy jöjjön el Jézus Krisztus �
 <b>Mikor Sátán megszemélyesíti Krisztust, "azt állítja, hogy a szombatot áttette vasárnapra".</b>
 </summary>
 "Isten népét azonban nem lehet megtéveszteni. E tanítások ellentmondanak a Szentírásnak. <b>A hamis Krisztus a fenevadra és a fenevad képének imádóira mond áldást</b>, pontosan azokra, akikre a Biblia tanúsága szerint Isten ki fogja tölteni elegyítetlen haragját." {GC 625.1}<br>
-"A csalás nagy drámájának tetőfokán Sátán meg fogja személyesíteni Krisztust. … <b>azt állítja, hogy a szombatot áttette vasárnapra</b>, …“{GC 624.2}
+"A csalás nagy drámájának tetőfokán Sátán meg fogja személyesíteni Krisztust. … <b>Betegeket gyógyít, majd Krisztustól bitorolt szerepében azt állítja, hogy a szombatot áttette vasárnapra, és megparancsolja mindenkinek, hogy szentelje meg azt a napot, amelyet ő megáldott. Kijelenti, hogy azok, akik a szombat szentségét makacsul vallják, az ő nevét káromolják, ha nem hajlandók meghallgatni angyalait, akik által fényt hint, és igazságot tanít.</b> …“{GC 624.2}
 </details>
 
 Jó **kérdés, hogy ez az esemény a kegyelemidő lezárása előtt vagy után következik-e be**. A józan ész és logika alapján azt lehetne várni, hogy a kegyelemidő lezárulása előtt, hiszen utána már eldőlt minden ember sorsa, bár nem lesz nyilvánvaló jele a kegyelemidő lezárása pillanatának, Sátán se tudja pontosan, hogy mikor zárul le a kegyelemidő. De EW a Nagy küzdelem című könyvben a Jákób nyomorúsága időszakról beszél a megszemélyesítés előtt, és a Jákób nyomorúsága időszak a kegyelemidő lezárta után következik, ki tudja milyen logika mentén írta EW azt a fejezetet, hogy időrendben vagy sem, ezt én nem tudom.
@@ -429,6 +449,8 @@ Isten fokozatosan visszavonja óvó kezét, így a gonosz egyre nagyobb mérték
 "Az éhínség fokozódik. A járvány ezreket ragad el. Veszély vesz körül bennünket. <b>Kívülbelül sátáni erők tevékenykednek, de Isten most még féken tartja őket</b> (19MR, 1897, 382. o.)." {LDE 27.2}<br>
 "<b>Láttam, hogy az Úr fokozatosan visszavonja Szentlelkét a földről.</b> Isten a megtartó hatalmát nemsokára megvonja mindazoktól, akik parancsolatait továbbra is semmibe veszik. A tisztességtelen üzletek, gyilkosságok és bűncselekmények minden fajtájáról szóló híreket naponta halljuk. <b>A gonoszság olyan általánossá válik, hogy az már nem rázza meg az embereket, mint ahogyan egykor tapasztaltuk</b> (Letter, 1907, 258.)." {LDE 27.3}
 </details>
+
+"Egyre több szárazföldi és vízi szerencsétlenségekről szerzünk tudomást. Mi történik? – Isten Lelke elvétetik azoktól, akiktől emberi életek függnek, Sátán pedig hatalma alá vonja őket, mert átadják magukat uralmának. Isten állítólagos gyermekei nem bízzák magukat a mennyei angyalok védelmére és Sátán, a romboló, rajtuk keresztül munkálkodik és hibákba kényszeríti őket. Megrészegednek és mértéktelenségük miatt gyakran szörnyű szerencsétlenségeket okoznak." {2SM 51.4}
 
 <details><summary>
 <b>"Az Úr nem akar beavatkozni, hogy megvédje azok javait, akik áthágják törvényét, megtörik szövetségét és megtapodják szombatját, és helyette a hamis nyugalomnapot fogadják el." "A Teremtő céllal engedi meg a szerencsétlenségeket. Ezek az eszközök az emberek figyelmeztetését szolgálják."</b>
@@ -1188,6 +1210,10 @@ Attól még, hogy Isten előre látja a jövőt, a mi szemszögünkből igenis t
 
 "Sokaknak alkalmuk van értesülni az igazságról, és mégsem veszik a fáradságot, hogy azt meghallgassák vagy megértsék. Azt gondolják, hogyha nem hallják, akkor majd számon sem kérhetik tőlük. De ugyanúgy bűnösnek ítélik őket Isten előtt, mintha hallották és elutasították volna. **Nincs mentség**e azoknak, akik a tévelygést választották, mikor megérthették volna az igazságot. **Jézus a szenvedéseivel és halálával** engesztelést hozott a tudatlanságból elkövetett bűnért, de **a szándékos vakságra nem nyújtott megoldást**." {LDE 218.1}
 
+#### A cselekedet indítéka a mérvadó, nem maga a cselekedet
+
+"Az ítélet napján egyesek ilyen vagy olyan jó cselekedetekre hivatkoznak, ami alapján ügyüket mérlegelni kellene. Ezt mondják: „Fiatal embereknek segítettem elhelyezkedni az üzleti életben. Pénzt adtam a kórházak alapításához. Özvegyek szükségét enyhítettem, és a szegényeket befogadtam az otthonomba.” Igen, de indítékaikat annyira beszennyezte az önzés, hogy a cselekedet nem fogadható el az Úr szemében. Tetteikben csak az „én” sugárzott (Ms, 1906, 53.o.)." {LDE 219.2} "Az indíték határozza meg cselekedeteink jellegét, és a gyalázat vagy a magas erkölcsi érték pecsétjét nyomja rá (DA, 1898, 615. o.)." {LDE 219.3}
+
 #### Istent és az igazságot meg nem ismerő emberek sorsa nem reménytelen
 
 <details><summary>
@@ -1197,9 +1223,9 @@ Akiknek nem volt lehetőségük megismerni Istent és az evangéliumot, sorsuk n
 "Mennyire meghökkennek és milyen boldogok lesznek majd a jelentéktelen nemzetek és a kevésre tartott pogányok, amikor az Üdvözítő ajkáról ezeket a szavakat hallják: „Amennyiben megcselekedtétek eggyel az én legkisebb atyámfiai közül, énvelem cselekedtétek meg” (Mt 25:40). Milyen boldogság tölti el a végtelen Szeretet szívét, amikor követői meglepetten és örömmel tekintenek fel a jóváhagyás szavait hallva! (DA, 1898, 637–638. o.)." {LDE 219.1}
 </details>
 
-#### A cselekedet indítéka a mérvadó, nem maga a cselekedet
+#### "a törvény szerint fognak megítélni minden embert"
 
-"Az ítélet napján egyesek ilyen vagy olyan jó cselekedetekre hivatkoznak, ami alapján ügyüket mérlegelni kellene. Ezt mondják: „Fiatal embereknek segítettem elhelyezkedni az üzleti életben. Pénzt adtam a kórházak alapításához. Özvegyek szükségét enyhítettem, és a szegényeket befogadtam az otthonomba.” Igen, de indítékaikat annyira beszennyezte az önzés, hogy a cselekedet nem fogadható el az Úr szemében. Tetteikben csak az „én” sugárzott (Ms, 1906, 53.o.)." {LDE 219.2} "Az indíték határozza meg cselekedeteink jellegét, és a gyalázat vagy a magas erkölcsi érték pecsétjét nyomja rá (DA, 1898, 615. o.)." {LDE 219.3}
+"... Isten törvénye szent, mint királyi széke, s a törvény szerint fognak megítélni minden embert, aki a világra jön. A jellemnek nincs másik mértéke. ..." {7BC 911.4}
 
 ### A kegyelemidő lezárásáig kell felkészülni, mert Jézus eljövetelekor nem fog megváltozni a jellem
 
