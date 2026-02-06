@@ -148,6 +148,7 @@ https://youtu.be/Xcd5vKzgWO8?si=rr3Vxo9f9mJbeIas<br>
 https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_revival_in_gen_z_2025_dec_5.md<br>
 https://www.nadadventist.org/news/sunday-rest-proposal-raises-troubling-religious-liberty-concerns<br>
 https://adventmessenger.org/kevin-roberts-says-the-heritage-foundations-new-saving-america-document-has-been-well-received-by-the-trump-administration<br>
+https://www.youtube.com/live/73ZxQYluOy8?si=LjfqNwwZvIy15T_B<br>
 https://youtu.be/PQyhReLNwig?si=EvHAcoZQpx87EC7b
 </details>
 
