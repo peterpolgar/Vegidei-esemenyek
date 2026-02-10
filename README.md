@@ -217,6 +217,7 @@ Jel 19:20 "És megfogaték a fenevad, és ő vele együtt <b>a hamis próféta, 
 Máté 24:24 "Mert hamis Krisztusok és hamis próféták támadnak, és <b>nagy jeleket és csodákat tesznek</b>, annyira, hogy elhitessék, ha lehet, a választottakat is."<br>
 2Thess 2:8 "És akkor fog megjelenni <b>a törvénytaposó</b>, akit megemészt az Úr az ő szájának leheletével, és megsemmisít az ő megjelenésének feltűnésével;"<br>
 2Thess 2:9 "<b>Akinek eljövetele a Sátán ereje által van, a hazugságnak minden hatalmával, jeleivel és csodáival</b>,"<br>
+1Tim 4:1 "A Lélek pedig nyilván mondja, hogy az utolsó időben némelyek elszakadnak a hittől, hitető lelkekre és gonosz lelkek tanításaira figyelmezvén." [a "gonosz lelkek" mögötti görög szó démonokat jelent]<br>
 Dán 11:40 "De a vég idején összetűz vele a déli király, és mint a forgószél, úgy megy reá az északi király szekerekkel, lovasokkal és sok hajóval, és betör az országokba, elözönli és végigjárja [azokat]."<br>
 Jacques Doukhan – aki az adventista Andrews egyetemen a héber és az Ószövetségi írásmagyarázat professzora – a magyarul “Titkok megfejtése” című könyvében, a Dán 11:40-hez és szövegkörnyezetéhez kapcsolódóan ezt írja (részlet):<br>
 “Észak ily módon a Rossz hatalmát ábrázolja, amely Isten helyére tőr.”<br>
