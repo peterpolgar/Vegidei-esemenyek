@@ -138,7 +138,7 @@ Mi adventisták a nevünk alapján advent várók vagyunk. Tudjuk, hogy előbb-u
 
 ### A világ helyzete
 
-A természetfeletti lények létezése még nem nyilvános, ezért a világon még - főleg Európában - az ateizmus / szekularizmus az uralkodó nézet, ezért (is) tudnak még úgy érvelni az ateisták, hogy nem látnak bizonyítékokat Isten vagy az angyalok létezésére. Az európai vezetés szinte teljesen szekuláris alapokon nyugszik, még a látszólag keresztény vezetésű országoknál is. Viszont az Amerikai Egyesült Államokban (AEÁ-ban) a keresztény vallás felemelését célzó, az állam-egyház egyesülést szorgalmazó, vasárnaptörvényt pedzegető párt jutott mondhatni teljhatalomra (náluk van a többség mindenhol).
+A természetfeletti lények létezése még nem nyilvános, ezért a világon még - főleg Európában - az ateizmus / szekularizmus az uralkodó nézet, ezért (is) tudnak még úgy érvelni az ateisták, hogy nem látnak bizonyítékokat Isten vagy az angyalok létezésére. Az európai vezetés szinte teljesen szekuláris alapokon nyugszik, még a látszólag keresztény vezetésű országoknál is. Viszont az Amerikai Egyesült Államokban (AEÁ-ban) a keresztény vallás felemelését célzó, az állam-egyház egyesülést szorgalmazó, vasárnaptörvényt pedzegető párt jutott hatalomra, többségben vannak a legfelsőbb bíróságban, a szenátusban és a képviselőházban, de nem túlnyomó többségben.
 
 <details><summary>
 Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy a végidei események elkezdődtek, de hogy visszafordíthatatlanul vagy sem, ez kérdés.
