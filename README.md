@@ -325,7 +325,7 @@ A spiritizmus hasonlítani fog a mai névleges kereszténységhez: "A spiritizmu
 Az <b>Amerikai Egyesült Államok protestánsai</b> fogják először felkarolni, elfogadni a <b>spiritizmus</b>t, majd a <b>római katolikus hatalom</b> is csatlakozik ehhez a spiritiszta mozgalomhoz, <b>így egy hármas szövetség jön létre, mely kényszeríteni fogja az embereket a vasárnap megünneplésére</b>.
 </summary>
 "Az Egyesült Államok protestánsai <b>elsőként</b> fognak a szakadékon át kezet nyújtani a spiritizmusnak; és átnyúlnak a mélység felett is, hogy a római hatalommal kezet fogjanak. E <b>hármas szövetség</b> hatására ez az ország követni fogja Rómát a lelkiismeret jogainak sárba tiprásában." {GC 588.1}<br>
-"Amikor a vallásszabadság hazája, az Egyesült Államok egyesül majd a pápasággal a lelkiismeret elnyomásában, és <b>arra kényszeríti az embereket, hogy hamis szombatot tiszteljenek</b>, a föld minden népét ráveszik, hogy kövessék a példájukat (6T, 1900, 18. o.)." {LDE 135.1}
+"<b>Amikor a vallásszabadság hazája, az Egyesült Államok egyesül majd a pápasággal a lelkiismeret elnyomásában, és arra kényszeríti az embereket, hogy hamis szombatot tiszteljenek, a föld minden népét ráveszik, hogy kövessék a példájukat</b> (6T, 1900, 18. o.)." {LDE 135.1}
 </details>
 
 <details><summary>
