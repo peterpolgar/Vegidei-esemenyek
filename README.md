@@ -143,13 +143,13 @@ A természetfeletti lények létezése még nem nyilvános, ezért a világon m�
 <details><summary>
 Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy a végidei események elkezdődtek, de hogy visszafordíthatatlanul vagy sem, ez kérdés.
 </summary>
-<a href="https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_church-state_union_article_2025_dec_30.md">The Image to the Beast: America's (Trump's) Faith Initiatives Provide More Evidence That The Church-State Union Is Happening Now</a><br>
-<a href="https://youtu.be/Xcd5vKzgWO8?si=rr3Vxo9f9mJbeIas">Is Fox Promoting Spiritualism and Preparing the World for Deception?</a><br>
-<a href="https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_revival_in_gen_z_2025_dec_5.md">False Revivals Are Coming to America Sparked by Gen Z: Feel-Good Christianity and the Forgotten Law of God</a><br>
-<a href="https://www.nadadventist.org/news/sunday-rest-proposal-raises-troubling-religious-liberty-concerns">Sunday Rest Proposal Raises Troubling Religious Liberty Concerns</a><br>
-<a href="https://adventmessenger.org/kevin-roberts-says-the-heritage-foundations-new-saving-america-document-has-been-well-received-by-the-trump-administration">Kevin Roberts Says the Heritage Foundation’s New “Saving America” Document Has Been Well Received by the Trump Administration</a><br>
-<a href="https://www.youtube.com/live/73ZxQYluOy8?si=LjfqNwwZvIy15T_B">The Sunday Law Update! Trump Rededicating America Back To God on SUNDAY May 17th! NSL 2026?</a><br>
-<a href="https://youtu.be/PQyhReLNwig?si=EvHAcoZQpx87EC7b">The Document Rome Hoped You’d Never See: The Coming One World Religion | TTP 25</a>
+- <a href="https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_church-state_union_article_2025_dec_30.md">The Image to the Beast: America's (Trump's) Faith Initiatives Provide More Evidence That The Church-State Union Is Happening Now</a><br>
+- <a href="https://youtu.be/Xcd5vKzgWO8?si=rr3Vxo9f9mJbeIas">Is Fox Promoting Spiritualism and Preparing the World for Deception?</a><br>
+- <a href="https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_revival_in_gen_z_2025_dec_5.md">False Revivals Are Coming to America Sparked by Gen Z: Feel-Good Christianity and the Forgotten Law of God</a><br>
+- <a href="https://www.nadadventist.org/news/sunday-rest-proposal-raises-troubling-religious-liberty-concerns">Sunday Rest Proposal Raises Troubling Religious Liberty Concerns</a><br>
+- <a href="https://adventmessenger.org/kevin-roberts-says-the-heritage-foundations-new-saving-america-document-has-been-well-received-by-the-trump-administration">Kevin Roberts Says the Heritage Foundation’s New “Saving America” Document Has Been Well Received by the Trump Administration</a><br>
+- <a href="https://www.youtube.com/live/73ZxQYluOy8?si=LjfqNwwZvIy15T_B">The Sunday Law Update! Trump Rededicating America Back To God on SUNDAY May 17th! NSL 2026?</a><br>
+- <a href="https://youtu.be/PQyhReLNwig?si=EvHAcoZQpx87EC7b">The Document Rome Hoped You’d Never See: The Coming One World Religion | TTP 25</a>
 </details>
 
 ### Az adventista egyház helyzete
