@@ -156,6 +156,7 @@ Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy
 <ul>
   <li><a href="https://www.nadadventist.org/news/sunday-rest-proposal-raises-troubling-religious-liberty-concerns">Sunday Rest Proposal Raises Troubling Religious Liberty Concerns</a></li>
   <li><a href="https://adventmessenger.org/kevin-roberts-says-the-heritage-foundations-new-saving-america-document-has-been-well-received-by-the-trump-administration">Kevin Roberts Says the Heritage Foundation’s New “Saving America” Document Has Been Well Received by the Trump Administration</a></li>
+  <li><a href="https://adventmessenger.org/2026-presbyterian-study-on-christian-politics-says-sunday-openings-are-an-act-of-tyranny-and-magistrates-are-duty-bound-to-impose-sabbath-closing-laws/">2026 Presbyterian Study on Christian Politics Says Sunday Openings are an “Act of Tyranny” and Magistrates are “Duty-Bound” to Impose Sabbath Closing Laws</a></li>
   <li><a href="https://adventmessenger.org/national-catholic-authority-the-loss-of-sunday-has-led-to-a-decline-in-gender-equality-family-cohesion-and-the-public-good-its-time-to-free-this-day-up/">National Catholic Authority: The Loss of Sunday Has Led to a Decline in Gender Equality, Family Cohesion, and the Public Good—It’s Time to Free This Day Up</a></li>
   <li><a href="https://adventmessenger.org/cardinal-timothy-dolan-its-time-to-get-back-to-no-unnecessary-work-on-sunday/">Cardinal Timothy Dolan: “It’s Time to Get Back to No Unnecessary Work on Sunday”</a></li>
   <li><a href="https://adventmessenger.org/the-economic-times-sunday-is-the-lords-day-and-the-universal-pause-button/">The Economic Times: Sunday is the Lord’s Day and the Universal Pause Button</a></li>
@@ -427,11 +428,7 @@ Az igazi keresztények fennmaradnak a rostán, míg a hamisak kirostáltatnak.
 "<b>Az Úr az elmúlt években hangzó kendőzetlen, egyértelmű tanúbizonysággal hív a megújulásra. A lelki élet megelevenedését várja mindannyiunktól. Sokáig volt tompa népének lelkiereje, de lesz feltámadás a tetszhalálból!</b> Imádkozás és bűnvallomás által készítsük az utat a Király előtt! (8T, 1904, 297. o.)." {LDE 176.1}
 </details>
 
-<details><summary>
-Egy másik rostálás lesz az, amikor a spiritiszta világvallás idején a fenevad bélyegének felvételét elkezdik ráerőltetni az emberekre, akkor ennek a bélyegnek való ellenállás vagy felvétel közötti döntés egyfajta rostálás lesz.
-</summary>
-"<b>Amikor Isten törvényét hatályon kívül helyezik, az egyház tüzes próbákkal lesz megrostálva</b>, és többen engednek majd a megtévesztő lelkeknek és az ördögi tanoknak, mint ahogy most azt feltételezzük (2SM, 1891, 368. o.)." {LDE 174.2}
-</details>
+Egy másik rostálás lesz: "**Amikor Isten törvényét hatályon kívül helyezik, az egyház tüzes próbákkal lesz megrostálva**, és többen engednek majd a megtévesztő lelkeknek és az ördögi tanoknak, mint ahogy most azt feltételezzük (2SM, 1891, 368. o.)." {LDE 174.2}
 
 <details><summary>
 Továbbá EW ír egy olyan időről, "Amikor a hamis tanok megjelenésével bekövetkezik a rostálás", de fogalmam sincs, hogy miféle hamis tanokra gondol itt EW.
