@@ -156,6 +156,7 @@ Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy
 <ul>
   <li><a href="https://www.nadadventist.org/news/sunday-rest-proposal-raises-troubling-religious-liberty-concerns">Sunday Rest Proposal Raises Troubling Religious Liberty Concerns</a></li>
   <li><a href="https://adventmessenger.org/kevin-roberts-says-the-heritage-foundations-new-saving-america-document-has-been-well-received-by-the-trump-administration">Kevin Roberts Says the Heritage Foundation’s New “Saving America” Document Has Been Well Received by the Trump Administration</a></li>
+  <li><a href="https://adventmessenger.org/a-call-to-revive-sunday-laws-prominent-methodist-bishop-says-they-helped-fill-the-pews/">A Call to Revive Sunday Laws: Prominent Methodist Bishop Says They Helped Fill the Pews</a></li>
   <li><a href="https://adventmessenger.org/2026-presbyterian-study-on-christian-politics-says-sunday-openings-are-an-act-of-tyranny-and-magistrates-are-duty-bound-to-impose-sabbath-closing-laws/">2026 Presbyterian Study on Christian Politics Says Sunday Openings are an “Act of Tyranny” and Magistrates are “Duty-Bound” to Impose Sabbath Closing Laws</a></li>
   <li><a href="https://adventmessenger.org/national-catholic-authority-the-loss-of-sunday-has-led-to-a-decline-in-gender-equality-family-cohesion-and-the-public-good-its-time-to-free-this-day-up/">National Catholic Authority: The Loss of Sunday Has Led to a Decline in Gender Equality, Family Cohesion, and the Public Good—It’s Time to Free This Day Up</a></li>
   <li><a href="https://adventmessenger.org/cardinal-timothy-dolan-its-time-to-get-back-to-no-unnecessary-work-on-sunday/">Cardinal Timothy Dolan: “It’s Time to Get Back to No Unnecessary Work on Sunday”</a></li>
@@ -168,9 +169,14 @@ Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy
 <b>Állam-egyház összefonódás az USA-ban</b><br>
 <ul>
   <li><a href="https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_church-state_union_article_2025_dec_30.md">The Image to the Beast: America's (Trump's) Faith Initiatives Provide More Evidence That The Church-State Union Is Happening Now</a></li>
+  <li><a href="https://adventmessenger.org/evangelical-pastors-from-across-the-nation-pray-for-trump-to-restore-america-as-one-nation-under-god/">Evangelical Pastors from Across the Nation Pray for Trump to Restore America as “One Nation Under God”</a></li>
   <li><a href="https://adventmessenger.org/as-part-of-the-coming-renewal-christians-will-rededicate-america-as-one-nation-under-god/">As part of the Coming “Renewal,” Christians will Rededicate America as One Nation Under God</a></li>
   <li><a href="https://youtu.be/UHGaCwaGBgM?si=2pFBNl0SWN6H4g4m">The Transition: Re-Christianizing America—From Vision to Policy | Eyes On The Times | Marie Dias</a></li>
   <li><a href="https://youtu.be/BaoI5FPWO5o?si=czxBG5sVXkGtEBjh">The False Prophet Rising: Part 2 - Trump's America 2024 | Truth Matters</a></li>
+</ul>
+<b>Egyéb</b><br>
+<ul>
+  <li><a href="https://adventmessenger.org/protestant-leaders-advocate-for-full-and-visible-unity-with-rome/">Protestant Leaders Advocate for Full and Visible Unity with Rome</a></li>
 </ul>
 </details>
 
