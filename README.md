@@ -169,6 +169,7 @@ Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy
 <b>Állam-egyház összefonódás az USA-ban</b><br>
 <ul>
   <li><a href="https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_church-state_union_article_2025_dec_30.md">The Image to the Beast: America's (Trump's) Faith Initiatives Provide More Evidence That The Church-State Union Is Happening Now</a></li>
+  <li><a href="https://adventmessenger.org/christ-is-king-turning-biblical-truth-into-a-political-message/">Christ is King: Turning Biblical Truth Into a Political Message</a></li>
   <li><a href="https://adventmessenger.org/evangelical-pastors-from-across-the-nation-pray-for-trump-to-restore-america-as-one-nation-under-god/">Evangelical Pastors from Across the Nation Pray for Trump to Restore America as “One Nation Under God”</a></li>
   <li><a href="https://adventmessenger.org/as-part-of-the-coming-renewal-christians-will-rededicate-america-as-one-nation-under-god/">As part of the Coming “Renewal,” Christians will Rededicate America as One Nation Under God</a></li>
   <li><a href="https://youtu.be/UHGaCwaGBgM?si=2pFBNl0SWN6H4g4m">The Transition: Re-Christianizing America—From Vision to Policy | Eyes On The Times | Marie Dias</a></li>
