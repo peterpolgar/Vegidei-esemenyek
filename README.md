@@ -176,7 +176,7 @@ Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy
   <li><a href="https://youtu.be/UHGaCwaGBgM?si=2pFBNl0SWN6H4g4m">The Transition: Re-Christianizing America—From Vision to Policy | Eyes On The Times | Marie Dias</a></li>
   <li><a href="https://youtu.be/BaoI5FPWO5o?si=czxBG5sVXkGtEBjh">The False Prophet Rising: Part 2 - Trump's America 2024 | Truth Matters</a></li>
 </ul>
-<b>Egyéb</b><br>
+<b>Ökumenizmus</b><br>
 <ul>
   <li><a href="https://adventmessenger.org/protestant-leaders-advocate-for-full-and-visible-unity-with-rome/">Protestant Leaders Advocate for Full and Visible Unity with Rome</a></li>
 </ul>
