@@ -146,6 +146,7 @@ Továbbá, figyelve az amerikai történéseket, egyre inkább úgy tűnik, hogy
 </summary>
 <b>Keresztény megújulás Amerikában</b><br>
 <ul>
+  <li><a href="https://www.patreon.com/posts/new-release-for-153917701?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share">New Release: Calls for National "Revivals" Will Set the Stage for Sunday Laws | The Truth Project 33</a></li>
   <li><a href="https://youtu.be/Xcd5vKzgWO8?si=rr3Vxo9f9mJbeIas">Is Fox Promoting Spiritualism and Preparing the World for Deception?</a></li>
   <li><a href="https://github.com/peterpolgar/Vegidei-esemenyek/blob/main/matthew_schanche_revival_in_gen_z_2025_dec_5.md">False Revivals Are Coming to America Sparked by Gen Z: Feel-Good Christianity and the Forgotten Law of God</a></li>
   <li><a href="https://youtu.be/8gTLBZ4q3gw?si=t-nW2gS3U265qJGW">Revival Among America's Next Generation | Faith Nation - December 31, 2025 - CBN News</a></li>
