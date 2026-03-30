@@ -244,6 +244,7 @@ Jel 13:13 "<b>És nagy jeleket tesz, annyira, hogy tüzet is hoz alá az égből
 Jel 13:14 "<b>És elhiteti a földnek lakosait a jelekkel, amelyek adatának neki, hogy cselekedje a fenevad előtt</b>; azt mondván a föld lakosainak, hogy csinálják meg a fenevadnak képét, aki fegyverrel megsebesíttetett vala, de megelevenedett."<br>
 Jel 16:14 "Mert <b>ördögi lelkek azok, akik jeleket tesznek</b>; akik elmennek a földnek és az egész világnak királyaihoz, hogy egybe gyűjtsék azokat a mindenható Isten ama nagy napjának viadalára."<br>
 Jel 19:20 "És megfogaték a fenevad, és ő vele együtt <b>a hamis próféta, aki a csodákat tette ő előtte, amelyekkel elhitette azokat, akik a fenevad bélyegét felvették, és akik imádták annak képét</b>: ők ketten elevenen a kénkővel égő tüzes tóba vettetének:"<br>
+Luk 21:11 "És minden felé nagy földindulások lesznek, és éhségek és döghalálok; és rettegtetések és <b>nagy jelek lesznek az égből</b>."
 Máté 24:24 "Mert hamis Krisztusok és hamis próféták támadnak, és <b>nagy jeleket és csodákat tesznek</b>, annyira, hogy elhitessék, ha lehet, a választottakat is."<br>
 2Thess 2:8 "És akkor fog megjelenni <b>a törvénytaposó</b>, akit megemészt az Úr az ő szájának leheletével, és megsemmisít az ő megjelenésének feltűnésével;"<br>
 2Thess 2:9 "<b>Akinek eljövetele a Sátán ereje által van, a hazugságnak minden hatalmával, jeleivel és csodáival</b>,"<br>
